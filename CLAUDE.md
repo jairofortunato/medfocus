@@ -1,0 +1,288 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+**Med Estudo Focado** is a Brazilian medical exam study web application focused on ENARE (Exame Nacional de Revalidacao de Diplomas Medicos Expedidos por Instituicoes de Educacao Superior Estrangeiras) preparation. It presents multiple-choice questions with AI-generated explanations, timer functionality, and progress tracking.
+
+## Technology Stack
+
+- **Frontend Framework**: Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS with custom glassmorphism design
+- **State Management**: Zustand with localStorage persistence + Supabase sync
+- **Backend/Database**: Supabase (PostgreSQL, Auth, RLS)
+- **AI Integration**: OpenAI API (GPT-4o for explanations)
+- **Data Processing**: Python scripts with pdfplumber
+
+## Development Commands
+
+### Running the Application
+
+```bash
+# Development server (with hot reload)
+npm run dev
+
+# Production build
+npm run build
+
+# Start production server
+npm start
+
+# Lint code
+npm run lint
+
+# Seed database with questions.json
+npm run seed
+```
+
+Server runs on `http://localhost:3000`
+
+### Processing PDFs to JSON
+
+```bash
+python medpassei/pdf_to_json.py
+# Default: processes medpassei/ENARE 2023.pdf
+# Or specify path:
+python medpassei/pdf_to_json.py path/to/exam.pdf
+```
+
+### Generating AI Explanations
+
+```bash
+python generate_explanations.py
+```
+
+Requires `OPENAI_API_KEY` in `.env` file. Generates explanations for all questions in `medpassei/ENARE 2023.json` using GPT-4o.
+
+## Project Structure
+
+```
+medestudofocado/
+├── app/
+│   ├── layout.tsx              # Root layout with metadata
+│   ├── page.tsx                # Home redirect (auth-aware)
+│   ├── globals.css             # Tailwind + glassmorphism styles
+│   ├── auth/
+│   │   ├── login/page.tsx      # Login page
+│   │   ├── signup/page.tsx     # Signup page
+│   │   └── callback/route.ts   # OAuth callback
+│   ├── dashboard/
+│   │   ├── page.tsx            # Exam list dashboard
+│   │   └── LogoutButton.tsx    # Client logout button
+│   └── exam/
+│       └── [slug]/page.tsx     # Dynamic exam page
+├── components/
+│   ├── ExamApp.tsx             # Main client component wrapper
+│   ├── auth/
+│   │   ├── AuthForm.tsx        # Login/signup form
+│   │   └── AuthGuard.tsx       # Auth wrapper component
+│   ├── exam/
+│   │   ├── QuestionCard.tsx
+│   │   ├── QuestionNavigation.tsx
+│   │   ├── OptionButton.tsx
+│   │   └── ExplanationBox.tsx
+│   ├── header/
+│   │   ├── Header.tsx
+│   │   ├── ProgressBar.tsx
+│   │   ├── ProgressStats.tsx
+│   │   └── TabButtons.tsx
+│   ├── timer/
+│   │   ├── TimerDisplay.tsx
+│   │   └── TimerControls.tsx
+│   └── statistics/
+│       ├── StatisticsTable.tsx
+│       └── StatItem.tsx
+├── lib/
+│   ├── types.ts                # TypeScript interfaces
+│   ├── exam-store.ts           # Zustand state management
+│   ├── utils.ts                # Helper functions
+│   └── supabase/
+│       ├── client.ts           # Browser Supabase client
+│       ├── server.ts           # Server Supabase client
+│       ├── queries.ts          # Reusable query functions
+│       └── types.ts            # Database type definitions
+├── supabase/
+│   ├── migrations/
+│   │   └── 00001_create_schema.sql  # Full schema migration
+│   └── seed.ts                 # Import questions.json to Supabase
+├── middleware.ts               # Auth middleware (session refresh + redirects)
+├── data/
+│   └── questions.json          # Question data (legacy, used by seed)
+├── medpassei/
+│   ├── ENARE 2023.json         # Source question data
+│   └── pdf_to_json.py          # PDF extraction script
+├── public/
+│   └── background.png          # Glassmorphism background
+└── legacy/
+    ├── app.js                  # Old vanilla JS implementation
+    ├── index.html              # Old HTML structure
+    ├── server.js               # Old Node.js server
+    └── styles.css              # Old CSS styles
+```
+
+## Architecture
+
+### Data Flow
+
+1. **PDF -> JSON**: `pdf_to_json.py` extracts questions from PDF and creates JSON structure
+2. **JSON -> Explanations**: `generate_explanations.py` adds AI-generated explanations to JSON
+3. **JSON -> Supabase**: `npm run seed` imports questions into Supabase database
+4. **Runtime**: Server components fetch from Supabase, client Zustand store manages UI state
+5. **Answer sync**: Optimistic update to Zustand -> background INSERT to Supabase
+
+### Database (Supabase/PostgreSQL)
+
+8 tables with RLS:
+- **exams**: Exam metadata (slug, nome, ano, total_questoes)
+- **tags**: Medical specialty tags (normalized)
+- **questions**: Questions with 5 alternatives (A-E)
+- **question_tags**: Many-to-many join table
+- **profiles**: User profiles (auto-created on signup via trigger)
+- **user_answers**: Immutable answer records (enforces locking at DB level)
+- **study_sessions**: Pomodoro/free study session tracking
+- **user_exam_progress**: Current question position per exam per user
+
+Server-side functions:
+- `get_tag_statistics(user_id, exam_id)` - Tag-grouped stats
+- `get_study_streak(user_id)` - Consecutive study days
+
+### Authentication
+
+- Supabase Auth with email/password
+- Middleware refreshes sessions on every request
+- Unauthenticated users redirected to `/auth/login`
+- Authenticated users redirected from auth pages to `/dashboard`
+- Profile auto-created via `handle_new_user()` trigger
+
+### State Management (Zustand)
+
+Global store in `lib/exam-store.ts`:
+
+**State:**
+- `examId`, `examSlug`: Current exam metadata
+- `questions`: Array of all Question objects
+- `currentQuestionIndex`: Currently displayed question (0-based)
+- `userAnswers`: Record mapping question UUID -> selected answer ('A'-'E')
+- `timer`: { timeRemaining: number, isRunning: boolean }
+- `sessionId`: Active study session UUID
+- `userId`: Authenticated user UUID
+- `currentTab`: 'timer' | 'stats'
+
+**Answer Sync Strategy:**
+1. User clicks answer -> Zustand updates immediately (optimistic)
+2. Background Supabase INSERT fires
+3. On failure with non-duplicate error -> log to console
+4. On page load -> fetch answers from Supabase, merge into store
+5. localStorage remains as offline cache/fallback
+
+**Persistence:**
+`currentQuestionIndex`, `userAnswers`, `examId`, `examSlug` persisted to localStorage (key: `exam-storage`). Timer state resets on page reload.
+
+### TypeScript Types
+
+Key interfaces in `lib/types.ts`:
+
+```typescript
+interface Question {
+  id: string;           // UUID from Supabase
+  numero: number;
+  tags: string[];
+  enunciado: string;
+  alternativas: { A: string; B: string; C: string; D: string; E: string };
+  resposta_correta: 'A' | 'B' | 'C' | 'D' | 'E';
+  explicacao: string;
+}
+
+type UserAnswers = Record<string, 'A' | 'B' | 'C' | 'D' | 'E'>; // UUID keys
+```
+
+Database types in `lib/supabase/types.ts` with row/insert/update types for all 8 tables.
+
+### Component Architecture
+
+**Server Components:**
+- `app/page.tsx`: Auth-aware redirect to dashboard or login
+- `app/dashboard/page.tsx`: Lists exams with progress
+- `app/exam/[slug]/page.tsx`: Fetches exam data, passes to ExamApp
+
+**Client Components:**
+- `ExamApp`: Main wrapper, initializes store, manages timer + Supabase sync
+- `AuthForm`: Login/signup form with Supabase auth
+- `AuthGuard`: Client-side auth wrapper
+- `Header`: Displays title, progress, tabs, timer/stats
+- `QuestionCard`: Shows question text, options, explanation
+- `QuestionNavigation`: Prev/Next buttons, question dropdown
+- Other leaf components (OptionButton, ExplanationBox, etc.)
+
+### Styling (Tailwind + Glassmorphism)
+
+Custom Tailwind utilities in `app/globals.css`:
+
+**Glassmorphism Classes:**
+- `.glass-card`: Standard frosted glass card
+- `.glass-header`: Header with stronger backdrop blur
+- `.gradient-text`: Pink-purple gradient text
+- `.gradient-btn`: Pink gradient button with shadow
+- `.glass-btn`: Transparent glass button
+
+**Design System:**
+- Background: Fixed image + floating gradient blobs
+- Cards: `rgba(255, 255, 255, 0.75)` with `backdrop-blur-glass`
+- Primary gradient: `#ec4899 -> #f472b6 -> #a855f7 -> #d946ef`
+- Correct: Green gradient (`#10b981 -> #34d399`)
+- Incorrect: Red gradient (`#f43f5e -> #fb7185`)
+
+## Environment Setup
+
+Required `.env.local` file:
+```
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key  # Only for seed script
+```
+
+Required `.env` file (for Python scripts only):
+```
+OPENAI_API_KEY=sk-...
+```
+
+## Setup Steps
+
+1. Create a Supabase project at https://supabase.com
+2. Copy `.env.local` values from Supabase Dashboard -> Settings -> API
+3. Run the SQL migration in Supabase SQL Editor: `supabase/migrations/00001_create_schema.sql`
+4. Seed the database: `npm run seed`
+5. Run: `npm run dev`
+
+## Key Features
+
+### Answer Locking
+Double-enforced: Zustand `selectAnswer` checks if answer exists, Supabase has UNIQUE(user_id, question_id) constraint with no UPDATE/DELETE RLS policy.
+
+### Pomodoro Timer
+25-minute countdown with study session tracking in Supabase.
+
+### Cross-Device Sync
+Answers synced to Supabase, progress position saved per exam per user.
+
+### Multi-Exam Support
+Dynamic routes at `/exam/[slug]`, dashboard lists all active exams.
+
+## Important Patterns
+
+### Client vs Server Components
+- Use `'use client'` directive for components that use hooks, state, or event handlers
+- Server components fetch data from Supabase
+- Pass data from server to client components via props
+- All pages using Supabase server client use `export const dynamic = 'force-dynamic'`
+
+### Answer Selection Flow
+1. User clicks OptionButton
+2. OptionButton calls `onClick` prop
+3. QuestionCard's `handleOptionClick` calls `selectAnswer(question.id, option)`
+4. Store checks if already answered (locked), if not, updates `userAnswers`
+5. Zustand subscriber detects new answer, fires Supabase INSERT
+6. Component re-renders showing selected state
+7. ExplanationBox appears with correct/incorrect feedback
