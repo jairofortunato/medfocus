@@ -137,7 +137,7 @@ export async function fetchQuestionsForExam(
  * This maintains backward compatibility with existing components.
  */
 export function transformToQuestionInterface(
-  dbQuestions: (DbQuestion & { tags: string[]; exams?: { nome: string; ano: number } })[]
+  dbQuestions: (DbQuestion & { tags: string[]; exams?: { nome: string; ano: number }; question_images?: any[] })[]
 ): Question[] {
   return dbQuestions.map((q) => ({
     id: q.id,
