@@ -1,0 +1,10 @@
+import fs from 'fs';
+import path from 'path';
+const slug = process.argv[2];
+const d = JSON.parse(fs.readFileSync(path.resolve(__dirname, `../data/exams/${slug}.json`), 'utf-8'));
+const short = d.questoes.filter((q: any) => !q.explicacao || q.explicacao.split(/\s+/).length < 80);
+console.log('Total:', d.questoes.length);
+console.log('Curtas (<80 palavras):', short.length);
+if (short.length > 0) console.log('Números:', short.map((q: any) => q.numero).join(','));
+const avg = d.questoes.reduce((s: number, q: any) => s + (q.explicacao?.split(/\s+/).length || 0), 0) / d.questoes.length;
+console.log('Média de palavras:', Math.round(avg));

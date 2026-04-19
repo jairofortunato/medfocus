@@ -18,7 +18,7 @@ export default function ExplanationBox({
           {isCorrect ? '✅' : '❌'}
         </div>
         <div>
-          <h3 className="font-bold text-lg m-0">
+          <h3 className="title-text text-lg m-0">
             {isCorrect ? 'Resposta Correta!' : 'Resposta Incorreta'}
           </h3>
         </div>
@@ -30,7 +30,7 @@ export default function ExplanationBox({
 
       {!isCorrect && (
         <div className="correct-answer-box">
-          <h4 className="text-emerald-700 font-semibold mb-2.5 mt-0">
+          <h4 className="subtitle-text font-semibold mb-2.5 mt-0">
             Resposta Correta: {correctAnswer}
           </h4>
         </div>

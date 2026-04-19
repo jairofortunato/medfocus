@@ -21,7 +21,6 @@ export const useExamStore = create<ExamState>()(
       userId: null,
       currentTab: 'timer',
       isSyncing: false,
-      pendingReward: null,
 
       // Exam actions
       setExam: (examId: string, examSlug: string) => set({ examId, examSlug }),
@@ -51,15 +50,9 @@ export const useExamStore = create<ExamState>()(
       },
 
       selectAnswer: (questionId: string, answer: 'A' | 'B' | 'C' | 'D' | 'E') => {
-        const { userAnswers, questions } = get();
+        const { userAnswers } = get();
         // Lock answer - prevent changes once answered
-        if (userAnswers[questionId]) {
-          return;
-        }
-
-        const correctCountBefore = get().getCorrectCount();
-        const question = questions.find((q) => q.id === questionId);
-        const isCorrect = question && answer === question.resposta_correta;
+        if (userAnswers[questionId]) return;
 
         set({
           userAnswers: {
@@ -67,22 +60,6 @@ export const useExamStore = create<ExamState>()(
             [questionId]: answer,
           },
         });
-
-        // Trigger reward popup for correct answers
-        if (isCorrect) {
-          const correctCountNow = correctCountBefore + 1;
-          const MILESTONES = [
-            { at: 10, amount: 50 },
-            { at: 20, amount: 75 },
-            { at: 30, amount: 100 },
-          ];
-          const newMilestones = MILESTONES.filter(
-            (m) => correctCountBefore < m.at && correctCountNow >= m.at
-          );
-          set({
-            pendingReward: { amount: 10, milestones: newMilestones },
-          });
-        }
       },
 
       loadUserAnswers: (answers: Record<string, 'A' | 'B' | 'C' | 'D' | 'E'>) => {
@@ -118,7 +95,6 @@ export const useExamStore = create<ExamState>()(
       // UI actions
       switchTab: (tab: TabType) => set({ currentTab: tab }),
       setSyncing: (syncing: boolean) => set({ isSyncing: syncing }),
-      clearReward: () => set({ pendingReward: null }),
 
       // Computed values
       getCorrectCount: () => {
@@ -129,8 +105,9 @@ export const useExamStore = create<ExamState>()(
       },
 
       getAnsweredCount: () => {
-        const { userAnswers } = get();
-        return Object.keys(userAnswers).length;
+        const { questions, userAnswers } = get();
+        const questionIds = new Set(questions.map((q) => q.id));
+        return Object.keys(userAnswers).filter((id) => questionIds.has(id)).length;
       },
 
       getProgressPercentage: () => {
@@ -172,32 +149,10 @@ export const useExamStore = create<ExamState>()(
         const { questions, currentQuestionIndex } = get();
         return questions[currentQuestionIndex];
       },
-
-      getDinheiros: () => {
-        const correctCount = get().getCorrectCount();
-        let total = correctCount * 10;
-        if (correctCount >= 10) total += 50;
-        if (correctCount >= 20) total += 75;
-        if (correctCount >= 30) total += 100;
-        return total;
-      },
-
-      getDinheirosBreakdown: () => {
-        const correctCount = get().getCorrectCount();
-        return {
-          base: correctCount * 10,
-          bonuses: [
-            { at: 10, amount: 50, earned: correctCount >= 10 },
-            { at: 20, amount: 75, earned: correctCount >= 20 },
-            { at: 30, amount: 100, earned: correctCount >= 30 },
-          ],
-        };
-      },
     }),
     {
       name: 'exam-storage',
       partialize: (state) => ({
-        // Only persist these fields (localStorage as offline cache)
         currentQuestionIndex: state.currentQuestionIndex,
         userAnswers: state.userAnswers,
         examId: state.examId,

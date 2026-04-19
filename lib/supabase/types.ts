@@ -74,8 +74,9 @@ export interface Database {
           alternativa_b: string;
           alternativa_c: string;
           alternativa_d: string;
-          alternativa_e: string;
+          alternativa_e: string | null;
           resposta_correta: string;
+          area: string | null;
           explicacao: string | null;
           created_at: string;
           updated_at: string;
@@ -89,8 +90,9 @@ export interface Database {
           alternativa_b: string;
           alternativa_c: string;
           alternativa_d: string;
-          alternativa_e: string;
+          alternativa_e?: string | null;
           resposta_correta: string;
+          area?: string | null;
           explicacao?: string | null;
           created_at?: string;
           updated_at?: string;
@@ -106,9 +108,38 @@ export interface Database {
           alternativa_d?: string;
           alternativa_e?: string;
           resposta_correta?: string;
+          area?: string | null;
           explicacao?: string | null;
           created_at?: string;
           updated_at?: string;
+        };
+      };
+      question_images: {
+        Row: {
+          id: string;
+          question_id: string;
+          image_url: string;
+          image_type: string;
+          display_order: number;
+          alt_text: string | null;
+          page_number: number | null;
+          created_at: string;
+        };
+        Insert: {
+          id?: string;
+          question_id: string;
+          image_url: string;
+          image_type?: string;
+          display_order?: number;
+          alt_text?: string | null;
+          page_number?: number | null;
+        };
+        Update: {
+          image_url?: string;
+          image_type?: string;
+          display_order?: number;
+          alt_text?: string | null;
+          page_number?: number | null;
         };
       };
       question_tags: {

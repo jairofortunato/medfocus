@@ -1,23 +1,32 @@
 /**
- * Seed script: imports data/questions.json into Supabase tables.
+ * Seed script: imports exam JSON files into Supabase tables.
  *
  * Usage:
- *   npx tsx supabase/seed.ts
+ *   npx tsx supabase/seed.ts                          # imports all JSONs in data/exams/
+ *   npx tsx supabase/seed.ts data/exams/ufsc-2022.json  # import specific file
+ *
+ * All exam JSONs live in `data/exams/` and follow the format defined in
+ * `docs/EXAM_JSON_FORMAT.md` (see CLAUDE.md). Explanations are authored
+ * manually in-conversation, not generated via API.
  *
  * Requires environment variables:
  *   NEXT_PUBLIC_SUPABASE_URL
  *   SUPABASE_SERVICE_ROLE_KEY  (service role, not anon key)
  */
 
+import { config } from 'dotenv';
 import { createClient } from '@supabase/supabase-js';
 import * as fs from 'fs';
 import * as path from 'path';
+
+// Load .env.local
+config({ path: path.resolve(__dirname, '..', '.env.local') });
 
 interface JsonQuestion {
   numero: number;
   tags: string[];
   enunciado: string;
-  alternativas: { A: string; B: string; C: string; D: string; E: string };
+  alternativas: { A: string; B: string; C: string; D: string; E?: string };
   resposta_correta: string;
   explicacao: string;
 }
@@ -37,25 +46,13 @@ function slugify(text: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-async function seed() {
-  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const serviceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+const BATCH_SIZE = 50;
 
-  if (!supabaseUrl || !serviceRoleKey) {
-    console.error('Missing NEXT_PUBLIC_SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY');
-    process.exit(1);
-  }
-
-  const supabase = createClient(supabaseUrl, serviceRoleKey, {
-    auth: { autoRefreshToken: false, persistSession: false },
-  });
-
-  // Load questions data
-  const dataPath = path.join(__dirname, '..', 'data', 'questions.json');
-  const raw = fs.readFileSync(dataPath, 'utf-8');
+async function seedExam(supabase: any, filePath: string) {
+  const raw = fs.readFileSync(filePath, 'utf-8');
   const examData: JsonExamData = JSON.parse(raw);
 
-  console.log(`Loaded ${examData.questoes.length} questions from ${examData.prova}`);
+  console.log(`\n=== ${examData.prova} (${examData.questoes.length} questions) ===`);
 
   // 1. Create exam
   const examSlug = slugify(examData.prova);
@@ -79,9 +76,9 @@ async function seed() {
 
   if (examError) {
     console.error('Error creating exam:', examError);
-    process.exit(1);
+    return;
   }
-  console.log(`Exam created: ${exam.nome} (${exam.id})`);
+  console.log(`Exam: ${exam.nome} (${exam.id})`);
 
   // 2. Collect and create unique tags
   const uniqueTags = new Set<string>();
@@ -92,20 +89,48 @@ async function seed() {
     slug: slugify(nome),
   }));
 
-  const { data: tags, error: tagsError } = await supabase
-    .from('tags')
-    .upsert(tagRows, { onConflict: 'nome' })
-    .select();
+  // Insert tags in smaller batches to avoid unique constraint errors on slug
+  const allTags: any[] = [];
+  for (let i = 0; i < tagRows.length; i += BATCH_SIZE) {
+    const batch = tagRows.slice(i, i + BATCH_SIZE);
+    const { data, error: tagsError } = await supabase
+      .from('tags')
+      .upsert(batch, { onConflict: 'nome', ignoreDuplicates: true })
+      .select();
 
-  if (tagsError) {
-    console.error('Error creating tags:', tagsError);
-    process.exit(1);
+    if (tagsError) {
+      // Fallback: fetch existing tags individually if upsert fails (slug conflict)
+      for (const row of batch) {
+        const { data: existing } = await supabase
+          .from('tags')
+          .select()
+          .eq('nome', row.nome)
+          .maybeSingle();
+        if (existing) allTags.push(existing);
+        else {
+          const { data: created } = await supabase
+            .from('tags')
+            .upsert(row, { onConflict: 'nome', ignoreDuplicates: true })
+            .select()
+            .maybeSingle();
+          if (created) allTags.push(created);
+        }
+      }
+    } else {
+      allTags.push(...(data ?? []));
+    }
   }
-  console.log(`Tags created: ${tags.length}`);
 
-  // Build tag lookup: nome -> id
+  // Also fetch any tags that might already exist but weren't returned by upsert
+  const { data: existingTags } = await supabase
+    .from('tags')
+    .select()
+    .in('nome', [...uniqueTags]);
+  const tags = existingTags ?? allTags;
+  console.log(`Tags: ${tags.length}`);
+
   const tagLookup: Record<string, string> = {};
-  tags.forEach((t) => {
+  tags.forEach((t: any) => {
     tagLookup[t.nome] = t.id;
   });
 
@@ -118,13 +143,11 @@ async function seed() {
     alternativa_b: q.alternativas.B,
     alternativa_c: q.alternativas.C,
     alternativa_d: q.alternativas.D,
-    alternativa_e: q.alternativas.E,
+    alternativa_e: q.alternativas.E || null,
     resposta_correta: q.resposta_correta,
     explicacao: q.explicacao || null,
   }));
 
-  // Insert in batches to avoid payload limits
-  const BATCH_SIZE = 50;
   const insertedQuestions: any[] = [];
 
   for (let i = 0; i < questionRows.length; i += BATCH_SIZE) {
@@ -136,15 +159,15 @@ async function seed() {
 
     if (error) {
       console.error(`Error creating questions batch ${i}:`, error);
-      process.exit(1);
+      return;
     }
     insertedQuestions.push(...data);
   }
-  console.log(`Questions created: ${insertedQuestions.length}`);
+  console.log(`Questions: ${insertedQuestions.length}`);
 
   // Build question lookup: numero -> id
   const questionLookup: Record<number, string> = {};
-  insertedQuestions.forEach((q) => {
+  insertedQuestions.forEach((q: any) => {
     questionLookup[q.numero] = q.id;
   });
 
@@ -161,7 +184,7 @@ async function seed() {
   });
 
   // Delete existing question_tags for this exam's questions first
-  const questionIdsForExam = insertedQuestions.map((q) => q.id);
+  const questionIdsForExam = insertedQuestions.map((q: any) => q.id);
   await supabase
     .from('question_tags')
     .delete()
@@ -173,16 +196,57 @@ async function seed() {
 
     if (error) {
       console.error(`Error creating question_tags batch ${i}:`, error);
-      process.exit(1);
+      return;
     }
   }
-  console.log(`Question-tag links created: ${questionTagRows.length}`);
+  console.log(`Question-tag links: ${questionTagRows.length}`);
+  console.log(`Done: ${exam.nome}`);
+}
 
-  console.log('\nSeed completed successfully!');
-  console.log(`  Exam: ${exam.nome} (slug: ${exam.slug})`);
-  console.log(`  Tags: ${tags.length}`);
-  console.log(`  Questions: ${insertedQuestions.length}`);
-  console.log(`  Question-Tag links: ${questionTagRows.length}`);
+async function seed() {
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const serviceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+
+  if (!supabaseUrl || !serviceRoleKey) {
+    console.error('Missing NEXT_PUBLIC_SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY');
+    process.exit(1);
+  }
+
+  const supabase = createClient(supabaseUrl, serviceRoleKey, {
+    auth: { autoRefreshToken: false, persistSession: false },
+  });
+
+  // Determine which files to import
+  const args = process.argv.slice(2);
+  const examsDir = path.resolve('data/exams');
+
+  let files: string[];
+  if (args.length > 0) {
+    // Specific files passed as arguments
+    files = args;
+  } else {
+    // Default: import every JSON in data/exams/
+    if (!fs.existsSync(examsDir)) {
+      console.error(`Exam directory not found: ${examsDir}`);
+      process.exit(1);
+    }
+    files = fs
+      .readdirSync(examsDir)
+      .filter((f) => f.endsWith('.json'))
+      .sort()
+      .map((f) => path.join('data/exams', f));
+  }
+
+  for (const file of files) {
+    const filePath = path.resolve(file);
+    if (!fs.existsSync(filePath)) {
+      console.error(`File not found: ${filePath}`);
+      continue;
+    }
+    await seedExam(supabase, filePath);
+  }
+
+  console.log('\n=== Seed completed! ===');
 }
 
 seed().catch((err) => {

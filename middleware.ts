@@ -37,9 +37,10 @@ export async function middleware(request: NextRequest) {
   // Redirect unauthenticated users to login (except auth routes and static assets)
   const { pathname } = request.nextUrl;
   const isAuthRoute = pathname.startsWith('/auth');
+  const isApiRoute = pathname.startsWith('/api');
   const isPublicRoute = pathname === '/';
 
-  if (!user && !isAuthRoute && !isPublicRoute) {
+  if (!user && !isAuthRoute && !isPublicRoute && !isApiRoute) {
     const url = request.nextUrl.clone();
     url.pathname = '/auth/login';
     return NextResponse.redirect(url);

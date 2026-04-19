@@ -20,7 +20,7 @@
     inset: 0;
     background: url('/background.png') no-repeat center center;
     background-size: cover;
-    opacity: 0.25;
+    opacity: 0.35;
     z-index: -3;
     pointer-events: none;
   }
@@ -71,16 +71,35 @@
 @layer components {
   /* Glassmorphism card utilities */
   .glass-card {
-    @apply bg-white/75 backdrop-blur-glass border border-white/90 rounded-[28px] shadow-glass;
+    @apply backdrop-blur-glass rounded-[28px] shadow-glass;
+    background: linear-gradient(135deg, rgba(225, 245, 255, 0.75), rgba(255, 255, 255, 0.85));
+    border: 2px solid #0F3683;
   }
 
   .glass-card-strong {
-    @apply bg-white/80 backdrop-blur-glass-strong border border-white/95 rounded-3xl shadow-glass;
+    @apply backdrop-blur-glass-strong rounded-3xl shadow-glass;
+    background: linear-gradient(135deg, rgba(225, 245, 255, 0.78), rgba(255, 255, 255, 0.88));
+    border: 2px solid #0F3683;
   }
 
   .glass-header {
-    @apply bg-white/70 backdrop-blur-glass border border-white/80 rounded-3xl;
+    @apply backdrop-blur-glass rounded-3xl;
+    background: linear-gradient(135deg, rgba(225, 245, 255, 0.72), rgba(255, 255, 255, 0.82));
+    border: 2px solid #0F3683;
     box-shadow: 0 4px 24px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02), inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  }
+
+  /* Title style - Nunito Black #0F3683 */
+  .title-text {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    color: #0F3683;
+  }
+
+  /* Subtitle style - Nunito #539CEA */
+  .subtitle-text {
+    font-family: 'Nunito', sans-serif;
+    color: #539CEA;
   }
 
   /* Gradient text */
@@ -210,7 +229,8 @@
 
   /* Tab button */
   .tab-btn {
-    @apply px-5 py-2 font-semibold text-sm text-slate-500 bg-white/50 border border-white/60 rounded-full cursor-pointer transition-all duration-300;
+    @apply px-5 py-2 font-semibold text-sm text-slate-500 border border-white/60 rounded-full cursor-pointer transition-all duration-300;
+    background-color: #E1F5FF;
   }
 
   .tab-btn:hover {

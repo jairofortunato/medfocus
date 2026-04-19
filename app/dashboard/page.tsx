@@ -1,7 +1,9 @@
 import { createClient } from '@/lib/supabase/server';
-import { fetchExams } from '@/lib/supabase/queries';
 import Link from 'next/link';
-import LogoutButton from './LogoutButton';
+import DashboardHeader from './DashboardHeader';
+import { fetchGlobalAreaStatistics } from '@/lib/supabase/queries';
+import { countTodayPendingReviews, fetchStudyPlanConfig } from '@/lib/supabase/sr-queries';
+import { today } from '@/lib/spaced-repetition';
 
 export const dynamic = 'force-dynamic';
 
@@ -10,129 +12,103 @@ export const metadata = {
 };
 
 export default async function DashboardPage() {
-  const supabase = createClient();
+  const supabase = await createClient();
   const { data: { user } } = await supabase.auth.getUser();
 
-  let exams: any[] = [];
+  // Fetch global per-area stats for the logged-in user
+  let areaStats: Awaited<ReturnType<typeof fetchGlobalAreaStatistics>> = [];
+  let pendingReviewsToday = 0;
+  let hasPlan = false;
   try {
-    exams = await fetchExams(supabase);
-  } catch {
-    // Will show empty state
-  }
-
-  // Fetch user progress for each exam
-  const { data: progressData } = await supabase
-    .from('user_exam_progress')
-    .select('exam_id, current_question_numero')
-    .eq('user_id', user?.id ?? '') as { data: { exam_id: string; current_question_numero: number }[] | null };
-
-  const progressMap: Record<string, number> = {};
-  progressData?.forEach((p) => {
-    progressMap[p.exam_id] = p.current_question_numero;
-  });
-
-  // Fetch answer counts per exam - count answers grouped by question's exam_id
-  const { data: answerData } = await supabase
-    .from('user_answers')
-    .select('question_id')
-    .eq('user_id', user?.id ?? '') as { data: { question_id: string }[] | null };
-
-  // To get per-exam counts, fetch all questions to map question_id -> exam_id
-  const { data: questionsData } = await supabase
-    .from('questions')
-    .select('id, exam_id') as { data: { id: string; exam_id: string }[] | null };
-
-  const questionExamMap: Record<string, string> = {};
-  questionsData?.forEach((q) => {
-    questionExamMap[q.id] = q.exam_id;
-  });
-
-  const answeredPerExam: Record<string, number> = {};
-  answerData?.forEach((a) => {
-    const examId = questionExamMap[a.question_id];
-    if (examId) {
-      answeredPerExam[examId] = (answeredPerExam[examId] || 0) + 1;
+    if (user) {
+      const [stats, pending, config] = await Promise.all([
+        fetchGlobalAreaStatistics(supabase, user.id),
+        countTodayPendingReviews(supabase, user.id, today()),
+        fetchStudyPlanConfig(supabase, user.id),
+      ]);
+      areaStats = stats;
+      pendingReviewsToday = pending;
+      hasPlan = config !== null;
     }
-  });
+  } catch (err) {
+    // Non-blocking — dashboard still renders if stats fail
+    console.error('Failed to fetch area stats:', err);
+    areaStats = [];
+  }
 
   return (
     <div className="max-w-[900px] mx-auto px-6 py-12 relative z-10">
-      <div className="glass-header p-7 mb-6">
-        <div className="flex items-center justify-between mb-1">
-          <h1 className="text-4xl font-bold gradient-text tracking-tight">
-            Med Estudo Focado
-          </h1>
-          <LogoutButton />
-        </div>
-        <p className="text-slate-500 text-lg">
-          Escolha uma prova para estudar
-        </p>
-      </div>
+      <DashboardHeader stats={areaStats} />
 
-      {/* Import link */}
-      <div className="mb-6">
+      {/* Study Modes */}
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4">
         <Link
-          href="/admin/import"
-          className="glass-card p-5 hover:bg-white/85 transition-all duration-300 hover:-translate-y-0.5 block text-center"
+          href="/study/area"
+          className="p-4 sm:p-7 transition-all duration-300 hover:-translate-y-1 flex items-center gap-4 sm:block sm:text-center rounded-2xl border-[3px] border-[#0F3683] backdrop-blur-sm"
+          style={{ background: 'linear-gradient(135deg, rgba(225, 245, 255, 0.75), rgba(255, 255, 255, 0.85))' }}
         >
-          <span className="text-lg font-semibold gradient-text">+ Importar Nova Prova (PDF)</span>
+          <img src="/icons/medicina.png" alt="Por Área" className="w-12 h-12 sm:w-[72px] sm:h-[72px] sm:mx-auto sm:mb-3 flex-shrink-0" />
+          <div>
+            <h3 className="text-xl sm:text-3xl font-bold text-[#E292BE]" style={{ fontFamily: 'Nunito, sans-serif' }}>Por Área</h3>
+            <p className="text-slate-400 text-xs mt-0.5 sm:mt-1">Escolha uma especialidade</p>
+          </div>
+        </Link>
+        <Link
+          href="/study/exam"
+          className="p-4 sm:p-7 transition-all duration-300 hover:-translate-y-1 flex items-center gap-4 sm:block sm:text-center rounded-2xl border-[3px] border-[#0F3683] backdrop-blur-sm"
+          style={{ background: 'linear-gradient(135deg, rgba(225, 245, 255, 0.75), rgba(255, 255, 255, 0.85))' }}
+        >
+          <img src="/icons/prova.png" alt="Por Prova" className="w-12 h-12 sm:w-[72px] sm:h-[72px] sm:mx-auto sm:mb-3 flex-shrink-0" />
+          <div>
+            <h3 className="text-xl sm:text-3xl font-bold text-[#E292BE]" style={{ fontFamily: 'Nunito, sans-serif' }}>Por Prova</h3>
+            <p className="text-slate-400 text-xs mt-0.5 sm:mt-1">Prova completa</p>
+          </div>
+        </Link>
+        <Link
+          href="/study/random"
+          className="p-4 sm:p-7 transition-all duration-300 hover:-translate-y-1 flex items-center gap-4 sm:block sm:text-center rounded-2xl border-[3px] border-[#0F3683] backdrop-blur-sm"
+          style={{ background: 'linear-gradient(135deg, rgba(225, 245, 255, 0.75), rgba(255, 255, 255, 0.85))' }}
+        >
+          <img src="/icons/aleatorias.png" alt="Aleatórias" className="w-12 h-12 sm:w-[72px] sm:h-[72px] sm:mx-auto sm:mb-3 flex-shrink-0" />
+          <div>
+            <h3 className="text-xl sm:text-3xl font-bold text-[#E292BE]" style={{ fontFamily: 'Nunito, sans-serif' }}>Aleatórias</h3>
+            <p className="text-slate-400 text-xs mt-0.5 sm:mt-1">Mistura de todas as provas</p>
+          </div>
         </Link>
       </div>
 
-      {exams.length === 0 ? (
-        <div className="glass-card p-8 text-center">
-          <p className="text-slate-500 text-lg">
-            Nenhuma prova disponivel no momento.
-          </p>
-          <p className="text-slate-400 text-sm mt-2">
-            Execute o script de seed para importar questoes.
+      {/* Spaced Repetition card — full width */}
+      <Link
+        href={hasPlan ? '/study/spaced' : '/study/spaced/setup'}
+        className="relative p-4 sm:p-7 transition-all duration-300 hover:-translate-y-1 flex items-center gap-4 rounded-2xl border-[3px] border-[#0F3683] backdrop-blur-sm overflow-hidden"
+        style={{ background: 'linear-gradient(135deg, rgba(225, 245, 255, 0.75), rgba(255, 255, 255, 0.85))' }}
+      >
+        <div className="w-12 h-12 sm:w-[72px] sm:h-[72px] flex-shrink-0 flex items-center justify-center text-4xl sm:text-5xl">📅</div>
+        <div className="flex-1">
+          <h3 className="text-xl sm:text-3xl font-bold text-[#E292BE]" style={{ fontFamily: 'Nunito, sans-serif' }}>
+            Repetição Espaçada
+          </h3>
+          <p className="text-slate-400 text-xs mt-0.5 sm:mt-1">
+            {hasPlan ? 'Plano personalizado ativo · revisões inteligentes' : 'Criar plano de estudos personalizado'}
           </p>
         </div>
-      ) : (
-        <div className="grid gap-4">
-          {exams.map((exam) => {
-            const answered = answeredPerExam[exam.id] || 0;
-            const progress = exam.total_questoes > 0
-              ? Math.round((answered / exam.total_questoes) * 100)
-              : 0;
-
-            return (
-              <Link
-                key={exam.id}
-                href={`/exam/${exam.slug}`}
-                className="glass-card p-6 hover:bg-white/85 transition-all duration-300 hover:-translate-y-0.5 block"
-              >
-                <div className="flex items-center justify-between">
-                  <div>
-                    <h2 className="text-xl font-bold text-slate-800">
-                      {exam.nome}
-                    </h2>
-                    <p className="text-slate-500 text-sm mt-1">
-                      {exam.total_questoes} questoes &middot; {exam.ano}
-                    </p>
-                  </div>
-                  <div className="text-right">
-                    <div className="text-2xl font-bold gradient-text">
-                      {progress}%
-                    </div>
-                    <p className="text-slate-400 text-xs">
-                      {answered}/{exam.total_questoes} respondidas
-                    </p>
-                  </div>
-                </div>
-
-                {/* Progress bar */}
-                <div className="mt-4 h-2 bg-slate-100 rounded-full overflow-hidden">
-                  <div
-                    className="h-full gradient-progress rounded-full transition-all duration-500"
-                    style={{ width: `${progress}%` }}
-                  />
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      )}
+        {hasPlan && pendingReviewsToday > 0 && (
+          <div
+            className="flex-shrink-0 w-9 h-9 rounded-full flex items-center justify-center text-sm font-black text-white"
+            style={{ backgroundColor: '#E11D48' }}
+          >
+            {pendingReviewsToday}
+          </div>
+        )}
+        {!hasPlan && (
+          <div
+            className="flex-shrink-0 px-3 py-1.5 rounded-xl text-xs font-bold text-white"
+            style={{ backgroundColor: '#0F3683' }}
+          >
+            Configurar
+          </div>
+        )}
+      </Link>
     </div>
   );
 }

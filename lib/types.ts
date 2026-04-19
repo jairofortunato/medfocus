@@ -1,5 +1,13 @@
 // TypeScript interfaces for Med Estudo Focado
 
+export interface QuestionImage {
+  id: string;
+  image_url: string;
+  image_type: string;
+  display_order: number;
+  alt_text?: string;
+}
+
 export interface Question {
   id: string; // UUID from Supabase
   numero: number;
@@ -10,10 +18,14 @@ export interface Question {
     B: string;
     C: string;
     D: string;
-    E: string;
+    E?: string;
   };
   resposta_correta: 'A' | 'B' | 'C' | 'D' | 'E';
+  area?: string;
   explicacao: string;
+  images?: QuestionImage[];
+  examNome?: string;
+  examAno?: number;
 }
 
 export interface ExamData {
@@ -71,7 +83,6 @@ export interface ExamState {
   // UI state
   currentTab: TabType;
   isSyncing: boolean;
-  pendingReward: { amount: number; milestones: { at: number; amount: number }[] } | null;
 
   // Actions
   setExam: (examId: string, examSlug: string) => void;
@@ -97,7 +108,6 @@ export interface ExamState {
   // UI actions
   switchTab: (tab: TabType) => void;
   setSyncing: (syncing: boolean) => void;
-  clearReward: () => void;
 
   // Computed values
   getCorrectCount: () => number;
@@ -105,6 +115,4 @@ export interface ExamState {
   getProgressPercentage: () => number;
   getTagStatistics: () => TagStatistic[];
   getCurrentQuestion: () => Question | undefined;
-  getDinheiros: () => number;
-  getDinheirosBreakdown: () => { base: number; bonuses: { at: number; amount: number; earned: boolean }[] };
 }

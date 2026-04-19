@@ -1,0 +1,2178 @@
+{
+  "prova": "AMRIGS 2020",
+  "total_questoes": 90,
+  "questoes": [
+    {
+      "numero": 1,
+      "tags": [
+        "Tratamento do TDAHDiagnóstico do TDAH"
+      ],
+      "enunciado": "Sobre o Transtorno de Déficit de Atenção e Hiperatividade (TDAH), assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A terapia não farmacológica é considerada a intervenção de primeira linha no tratamento do TDAH.",
+        "B": "Na terapia farmacológica, os inibidores duplos da recaptação de serotonina e noradrenalina são considerados como de primeira linha.",
+        "C": "Não apresenta um componente genético considerável.",
+        "D": "TDAH não é apenas um transtorno da infância e adolescência. Existem pacientes que persistem com sintomas ou mesmo que iniciam com sintomas na vida adulta."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O TDAH é um transtorno do neurodesenvolvimento que, contrariando o senso comum, não se restringe à infância e adolescência — até dois terços dos pacientes mantêm sintomas significativos na vida adulta e há casos cujo diagnóstico só é estabelecido nessa fase, com predomínio de desatenção, desorganização e impulsividade cognitiva. Por isso a alternativa D é correta.\n\nA está errada porque a primeira linha de tratamento é farmacológica, com psicoestimulantes (metilfenidato, lisdexanfetamina), tendo a terapia não farmacológica papel complementar. B está errada porque os psicoestimulantes — e não os IRSN (venlafaxina, duloxetina) — são os fármacos de primeira escolha; atomoxetina é segunda linha. C está errada porque o TDAH tem forte componente genético, com herdabilidade estimada em 70-80%, uma das mais altas em psiquiatria.",
+      "topicos": [
+        {
+          "area": "Psiquiatria",
+          "subtopico": "TDAH e Transtornos do Neurodesenvolvimento"
+        }
+      ],
+      "area": "Psiquiatria"
+    },
+    {
+      "numero": 3,
+      "tags": [
+        "Internação PsiquiátricaTratamento da Esquizofrenia Em uma visita domiciliar feita por uma Equipe de Estratégia de Saúde da Família (ESF), em uma comunidade localizada na periferia de uma grande cidade brasileira, foi encontrada a seguinte situação: uma mãe relata à Equipe que seu 8lho, de 19 anos, há cerca de 8 meses, vem apresentando sintomas de comportamento bizarro, solilóquios, alucinações auditivas e visuais, isolamento social importante e heteroagressividade"
+      ],
+      "enunciado": "Em uma visita domiciliar feita por uma Equipe de Estratégia de Saúde da Família (ESF), em uma comunidade localizada na periferia de uma grande cidade brasileira, foi encontrada a seguinte situação: uma mãe relata à Equipe que seu filho, de 19 anos, há cerca de 8 meses, vem apresentando sintomas de comportamento bizarro, solilóquios, alucinações auditivas e visuais, isolamento social importante e heteroagressividade em relação aos membros da família, tendo já causado lesão corporal na própria mãe com objeto perfurocortante. Está sem tratamento, pois, segundo ela, o paciente se recusa à ajuda. Diante desse quadro, qual a conduta a ser tomada?",
+      "alternativas": {
+        "A": "Encaminhamento para um Centro de Atenção Psicossocial (CAPS) para acolhimento e acompanhamento multidisciplinar.",
+        "B": "Encaminhamento para uma Unidade Básica de Saúde (UBS) para acompanhamento por um médico de família.",
+        "C": "Encaminhamento para um serviço ambulatorial especializado para atendimento por um psiquiatra.",
+        "D": "Encaminhamento involuntário para uma emergência com vistas à internação. 2"
+      },
+      "resposta_correta": "D",
+      "explicacao": "Paciente jovem com quadro de esquizofrenia já instalado há 8 meses (solilóquios, alucinações, isolamento, comportamento bizarro), heteroagressividade com lesão corporal à mãe por objeto perfurocortante e recusa ao tratamento configura risco iminente à integridade física de terceiros. Nessa situação, a Lei 10.216/2001 autoriza a internação involuntária como medida de proteção, devendo o paciente ser encaminhado à emergência psiquiátrica. Por isso D é correta.\n\nA está errada porque o CAPS é serviço de atenção diária para acompanhamento longitudinal, sem estrutura para conter agudamente um paciente agressivo e psicótico sem adesão. B está errada porque a UBS tem menor resolutividade ainda diante de risco agudo. C está errada porque encaminhamento ambulatorial pressupõe adesão voluntária e não resolve a situação de emergência.",
+      "topicos": [
+        {
+          "area": "Psiquiatria",
+          "subtopico": "Esquizofrenia e Psicoses"
+        },
+        {
+          "area": "Psiquiatria",
+          "subtopico": "Emergências Psiquiátricas e Suicídio"
+        }
+      ],
+      "area": "Psiquiatria"
+    },
+    {
+      "numero": 4,
+      "tags": [
+        "Ataque de PânicoDiagnóstico do Transtorno de Ansiedade Generalizada TAG Tratamento do Transtorno de Ansiedade Generalizada TAG Os Transtornos de Ansiedade estão entre as mais frequentes queixas na clínica diária. Sobre eles, analise as assertivas abaixo: I - Um ataque de pânico apresenta, entre outros sintomas, palpitações, sudorese, sensação de falta de ar, desconforto abdominal, sensação de tontura, medo de perder o controle e receio de morrer. II - O medo ou a ansiedade acentuados"
+      ],
+      "enunciado": "Os Transtornos de Ansiedade estão entre as mais frequentes queixas na clínica diária. Sobre eles, analise as assertivas abaixo: I - Um ataque de pânico apresenta, entre outros sintomas, palpitações, sudorese, sensação de falta de ar, desconforto abdominal, sensação de tontura, medo de perder o controle e receio de morrer. II - O medo ou a ansiedade acentuados em relação a um objeto ou situação (p. ex. viajar de avião, animais, altura, injeção, ver sangue) caracterizam o Transtorno de Ansiedade Generalizada. III - O tratamento para os Transtornos de Ansiedade que apresenta maior eficácia é a associação de psicofármacos com psicoterapia. IV - Dentre os psicofármacos, os inibidores da recaptação da serotonina são a primeira escolha e devem ser iniciados na dose plena e mantidos por até três meses. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e IV.",
+        "D": "I, II, III e IV."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Ataque de pânico apresenta sintomas autonômicos e cognitivos típicos (palpitações, sudorese, dispneia, tontura, medo de morrer/perder o controle) — assertiva I verdadeira. O tratamento de maior eficácia nos transtornos de ansiedade é a combinação de farmacoterapia com psicoterapia cognitivo-comportamental — assertiva III verdadeira. Por isso B é a alternativa correta.\n\nA assertiva II está errada porque medo circunscrito a objeto ou situação específica (altura, sangue, animais, injeção, voo) caracteriza fobia específica, não TAG — o TAG é definido por preocupação excessiva e difusa por pelo menos 6 meses. A assertiva IV está errada porque ISRS devem ser iniciados em dose baixa para evitar piora inicial da ansiedade, com titulação gradual e manutenção de 6-12 meses (não três). Por isso as alternativas A, C e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Psiquiatria",
+          "subtopico": "Transtornos de Ansiedade"
+        }
+      ],
+      "area": "Psiquiatria"
+    },
+    {
+      "numero": 5,
+      "tags": [
+        "Intoxicação por Álcool O Transtorno por Uso de Álcool atinge cerca de 10% da população mundial, é mais comum em homens, apresenta maior incidência em jovens, sendo responsável por 60% dos acidentes de trânsito, e está presente em até 70% dos laudos de mortes violentas. É, portanto, um problema de Saúde Pública. Dessa forma, não raro, o médico precisa manejar casos de intoxicação aguda por álcool."
+      ],
+      "enunciado": "O Transtorno por Uso de Álcool atinge cerca de 10% da população mundial, é mais comum em homens, apresenta maior incidência em jovens, sendo responsável por 60% dos acidentes de trânsito, e está presente em até 70% dos laudos de mortes violentas. É, portanto, um problema de Saúde Pública. Dessa forma, não raro, o médico precisa manejar casos de intoxicação aguda por álcool. Qual das alternativas abaixo NÃO é considerada efetiva no manejo da intoxicação aguda por álcool?",
+      "alternativas": {
+        "A": "Deve-se colocar o paciente em um ambiente seguro e livre de estímulos e posicioná-loem decúbito lateral, para evitar broncoaspiração de vômitos.",
+        "B": "Como uma das primeiras medidas, devem ser prescritos soro fisiológico e glicose endovenosa.",
+        "C": "Se houver agitação psicomotora, o uso de haloperidol 5 mg, intramuscular, é uma boa opção e, em alguns casos de agitação e heteroagressividade, a contenção se faz necessária.",
+        "D": "Deve ser prescrita tiamina 300 mg intramuscular para a profilaxia da Síndrome de Wernicke-Korsakoff."
+      },
+      "resposta_correta": "B",
+      "explicacao": "No manejo da intoxicação alcoólica aguda a tiamina deve preceder ou acompanhar a glicose, e a infusão rotineira de soro glicosado como primeira medida é inadequada — glicose sem tiamina em paciente cronicamente desnutrido pode precipitar encefalopatia de Wernicke. A questão pede a alternativa NÃO efetiva, e B descreve exatamente essa conduta inadequada. Por isso B é correta.\n\nA está correta como conduta real: ambiente calmo e decúbito lateral previnem broncoaspiração de vômitos, que é a principal causa evitável de morte nesses pacientes. C está correta porque haloperidol IM é opção segura para agitação psicomotora no intoxicado, sendo benzodiazepínicos evitados pelo risco de depressão respiratória aditiva. D está correta porque a tiamina 300 mg IM é profilaxia clássica de Wernicke-Korsakoff em alcoolistas.",
+      "topicos": [
+        {
+          "area": "Psiquiatria",
+          "subtopico": "Transtornos por Uso de Substâncias"
+        }
+      ],
+      "area": "Psiquiatria"
+    },
+    {
+      "numero": 6,
+      "tags": [
+        "Tratamento da DepressãoAntidepressivos"
+      ],
+      "enunciado": "Homem, 65 anos, hipertensão de longa data, atualmente controlada pelo uso de inibidor de angiotensina II, diurético de 2 alça e beta bloqueador. Faz uso, ainda, de metformina e sinvastatina. Tabagista pesado há mais de quatro décadas, com estilo sedentário de vida. Chega à consulta na Unidade Básica de Saúde (UBS) após ter recebido alta, há um mês, de um hospital, onde esteve internado em uma Unidade de Tratamento Intensivo (UTI), quando passou, também, a utilizar digoxina. Queixa-se de que, nos últimos dois meses, vem sentindo importante tristeza, anedonia, insônia terminal, choro fácil, pensamentos ruminativos de culpa e inapetência. Em função do quadro acima e do esquema medicamentoso já em uso, a conduta terapêutica indicada é:",
+      "alternativas": {
+        "A": "Amitriptilina.",
+        "B": "Venlafaxina.",
+        "C": "Fluoxetina.",
+        "D": "Sertralina."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Paciente idoso, cardiopata em uso de digoxina (sinalizando disfunção cardíaca relevante) e polimedicado, apresentando episódio depressivo. A escolha do antidepressivo deve priorizar segurança cardiovascular e mínimo potencial de interação. A sertralina é o ISRS com melhor perfil nesse cenário: não prolonga QT significativamente, tem baixa inibição de citocromos e é o antidepressivo de primeira escolha em cardiopatas conforme estudos como o SADHART. Por isso D é correta.\n\nA está errada porque amitriptilina é tricíclico e está formalmente contraindicada em cardiopatas por efeitos anticolinérgicos, hipotensão ortostática, prolongamento de QT e arritmias. B está errada porque a venlafaxina eleva a pressão arterial de forma dose-dependente, inadequada em hipertenso grave. C está errada porque a fluoxetina é potente inibidora de CYP2D6 e CYP3A4, com múltiplas interações, e tem meia-vida muito longa, dificultando ajustes.",
+      "topicos": [
+        {
+          "area": "Psiquiatria",
+          "subtopico": "Transtornos do Humor"
+        },
+        {
+          "area": "Cardiologia",
+          "subtopico": "Insuficiência Cardíaca"
+        }
+      ],
+      "area": "Psiquiatria"
+    },
+    {
+      "numero": 7,
+      "tags": [
+        "InfectologiaQuadro clínico"
+      ],
+      "enunciado": "Sobre as manifestações clínicas da dengue, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "As infecções por dengue podem ser assintomáticas ou sintomáticas. As infecçõesclinicamente aparentes estão presentes em aproximadamente 25% dos casos e podem variar desde formas oligossintomáticas a formas graves, podendo levar o indivíduo ao óbito.",
+        "B": "A fase afebril com cefaleia, astenia, mialgia, artralgia e dor retro-orbitária tem inícioabrupto e duração de 2 a 7 dias.",
+        "C": "A fase crítica tem início com o aparecimento da febre (efervescência), entre o 3º e o 7ºdia do início da doença. Os sinais de alarme, quando presentes, ocorrem nessa fase.",
+        "D": "A fase de recuperação ocorre 30 dias após a fase afebril, quando uma reabsorçãogradual do fluido que havia extravasado para o compartimento extravascular se dá nas 48-72 horas seguintes."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A dengue pode cursar assintomática ou sintomática, e apenas cerca de 25% das infecções são clinicamente aparentes, variando desde formas oligossintomáticas até formas graves com choque e óbito — esta é a descrição oficial do Ministério da Saúde. Por isso A é correta e a questão se resolve pelo reconhecimento desse dado epidemiológico básico.\n\nB está errada porque a fase inicial é febril (não afebril), com febre alta de início abrupto, cefaleia, mialgia, artralgia e dor retro-orbitária, durando 2-7 dias. C está errada porque a fase crítica se inicia com a DEFERVESCÊNCIA (queda da febre), tipicamente entre o 3º e 7º dia, período em que surgem os sinais de alarme e o extravasamento plasmático. D está errada porque a fase de recuperação começa 48-72 horas após a fase crítica — não 30 dias depois.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Dengue e Arboviroses"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 8,
+      "tags": [
+        "TransmissãoInfectologiaVacinação"
+      ],
+      "enunciado": "I - O esquema de vacinação corresponde à dose única de 0,05 mL ou 0,1 mL, a depender do laboratório produtor, o mais precocemente possível, preferencialmente, logo após o nascimento. II - Alguns grupos populacionais, como as pessoas em situação de rua, têm maior vulnerabilidade para adoecer por tuberculose. III - A forma extrapulmonar, além de ser mais frequente, é também a mais relevante para a saúde pública, especialmente a positiva à baciloscopia, pois é a principal responsável pela manutenção da cadeira de transmissão da doença. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A BCG é administrada em dose única ao nascer (0,05 mL ou 0,1 mL conforme laboratório), o mais precocemente possível — assertiva I verdadeira. Pessoas em situação de rua compõem grupo de alta vulnerabilidade à tuberculose e constam como população prioritária no Programa Nacional de Controle da Tuberculose — assertiva II verdadeira. Por isso A é correta.\n\nA assertiva III está errada em dois pontos: a forma PULMONAR (não extrapulmonar) é a mais frequente da tuberculose, e é justamente a forma pulmonar bacilífera (positiva à baciloscopia) a responsável pela manutenção da cadeia de transmissão, pois é a única que elimina bacilos no ar. A forma extrapulmonar, em geral, não transmite. Por isso B, C e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Tuberculose"
+        },
+        {
+          "area": "Pneumologia",
+          "subtopico": "Tuberculose"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 9,
+      "tags": [
+        "InfectologiaQuadro ClínicoTransmissibilidade"
+      ],
+      "enunciado": "I - Infecção viral aguda do sistema respiratório, de elevada transmissibilidade e distribuição global. um indivíduo pode contraí-la várias vezes ao longo da vida. II - A transmissão direta (pessoa a pessoa) é mais comum e ocorre por meio de gotículas expelidas pelo indivíduo, infectado com o vírus influenza, ao falar, espirrar e tossir. III - Classicamente, o quadro clínico da influenza sazonal tem início abrupto, com sintomas de síndrome gripal (SG), como febre, tosse seca, dor de garganta, mialgia, cefaleia e prostração. Geralmente, tem resolução espontânea em aproximadamente 7 dias, embora a tosse, o mal-estar e a fadiga possam permanecer por algumas semanas. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A influenza é infecção viral respiratória aguda de alta transmissibilidade e distribuição global, com possibilidade de reinfecções sucessivas ao longo da vida devido à grande variabilidade antigênica dos vírus (drift e shift) — assertiva I verdadeira. A transmissão ocorre predominantemente por gotículas respiratórias expelidas ao falar, tossir ou espirrar — assertiva II verdadeira. O quadro clínico clássico é a síndrome gripal de início abrupto com febre, tosse seca, odinofagia, mialgia, cefaleia e prostração, com resolução em cerca de 7 dias, embora tosse e fadiga possam persistir por semanas — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem pelo menos uma assertiva verdadeira. Não há informação incorreta entre as três, portanto a única opção coerente é marcar todas como corretas.",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "Pneumonia Bacteriana Viral e Atípica"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 10,
+      "tags": [
+        "Introdução ao Código de Ética Médica Apresentação e Preâmbulo"
+      ],
+      "enunciado": "Sobre o Código de Ética Médica brasileiro, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas. ( ) Ele contém as normas que devem ser seguidas pelos médicos no exercício de sua profissão, inclusive nas atividades relativas a ensino, pesquisa e administração de serviços de saúde, bem como em quaisquer outras que utilizem o conhecimento advindo do estudo da medicina. ( ) As organizações de prestação de serviços médicos estão sujeitas às normas deste Código, sendo a fiscalização do cumprimento das normas estabelecidas atribuição dos Conselhos de Medicina, das comissões de ética e dos médicos em geral. ( ) A fim de garantir o acatamento e a cabal execução deste Código, o médico comunicará ao Conselho Regional de Medicina, com discrição e fundamento, fatos de que tenha conhecimento e que caracterizem possível infração do Código e das demais normas que regulam o exercício da medicina.",
+      "alternativas": {
+        "A": "F - F - F.",
+        "B": "V - F - V.",
+        "C": "F - V - F.",
+        "D": "V - V - V."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O Código de Ética Médica se aplica às normas que regem o exercício profissional em todas as suas vertentes — assistência, ensino, pesquisa e administração de serviços de saúde — o que torna a primeira assertiva verdadeira. As organizações prestadoras de serviços médicos também estão sujeitas ao CEM, cabendo a fiscalização aos Conselhos de Medicina, às comissões de ética e aos próprios médicos — segunda assertiva verdadeira. O médico tem o dever de comunicar ao CRM, com discrição e fundamento, fatos que configurem possível infração ao Código — terceira assertiva verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por negarem uma ou mais dessas disposições expressas no CEM (Resolução CFM 2.217/2018). Não há pegadinha: as três assertivas reproduzem literalmente o texto do Capítulo I e das disposições preliminares do Código.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Bioética e Ética Médica"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 11,
+      "tags": [
+        "InfectologiaTuberculose pulmonar primária"
+      ],
+      "enunciado": "Homem de 50 anos com evolução clínica insidiosa, tosse produtiva de duração de 6 semanas, febre baixa e vespertina, sudorese noturna, perda ponderal de 8 Kg em 30 dias. Tem também quadro diarreico persistente. Alterações pulmonares de segmentos superiores e posteriores à direita, evidenciadas pela ausculta, e radiogra8a de tórax com derrame pleural moderado e unilateral. Aumento de volume de cadeia ganglionar à direita, única, cervical e indolor. Os critérios clínicos são para suspeição mais provável de:",
+      "alternativas": {
+        "A": "Sarcoidose.",
+        "B": "Tuberculose.",
+        "C": "Doença pulmonar obstrutiva crônica.",
+        "D": "Pneumonia intersticial."
+      },
+      "resposta_correta": "B",
+      "explicacao": "O quadro reúne a tríade clássica da tuberculose pulmonar: sintomas constitucionais (febre vespertina, sudorese noturna, perda ponderal importante, diarreia persistente sugerindo forma disseminada), tosse produtiva de mais de três semanas e acometimento radiológico de segmentos superiores e posteriores, que são os ápices ventilados — locais de maior pO2 que favorecem o crescimento do bacilo. Derrame pleural unilateral e linfadenopatia cervical indolor completam o quadro. Por isso B é correta.\n\nA está errada porque a sarcoidose cursa com adenopatia hilar bilateral e simétrica, além de manifestações extratorácicas como eritema nodoso e uveíte, sem a febre vespertina característica. C está errada porque a DPOC é doença obstrutiva crônica sem febre, emagrecimento agudo ou derrame pleural. D está errada porque pneumonia intersticial tem padrão radiológico difuso bilateral e não produz derrame pleural volumoso nem adenopatia cervical.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Tuberculose"
+        },
+        {
+          "area": "Pneumologia",
+          "subtopico": "Tuberculose"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 12,
+      "tags": [
+        "Princípios e Diretrizes do Sistema Único de Saúde SUS Sistemas de Saúde e Modelos Assistenciais de SaúdeRegionalização do SUS"
+      ],
+      "enunciado": "Sobre a organização de sistemas de saúde, analise as seguintes assertivas e assinale V, se verdadeiras, ou F, se falsas. ( ) Ao longo dos anos, como resposta às necessidades atuais e crescentes e ao desenvolvimento tecnológico e cientí8co, os sistemas de saúde universais têm sido considerados como aqueles que melhor respondem às necessidades da população, bem como os que mais contribuem para o desenvolvimento econômico de um país. ( ) A garantia da universalidade representou, na história do Brasil, o resgate de uma dívida social e o início da implantação da reforma do setor saúde. O dever do Estado foi assegurado pela primeira vez em uma Constituição, sendo representado pela responsabilidade para com a organização de um sistema de saúde único, nacional, público e universal. ( ) Regiões de Saúde são o espaço geográ8co contínuo constituído por um aglomerado de municípios com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde e são referência para a transferência de recursos entre os entes federativos; devem conter ações de atenção básica, atenção psicossocial, vigilância à saúde, urgência-emergência, atenção ambulatorial especializada e hospitalar.",
+      "alternativas": {
+        "A": "F - V - F.",
+        "B": "F - F - F.",
+        "C": "V - V - V.",
+        "D": "V - F - V."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Sistemas de saúde universais, como o SUS, são internacionalmente reconhecidos como os mais efetivos para atender às necessidades da população e contribuir para o desenvolvimento econômico — primeira assertiva verdadeira. A Constituição de 1988 foi a primeira a consagrar a saúde como dever do Estado e direito de todos, criando um sistema único, público, nacional e universal — segunda assertiva verdadeira. O Decreto 7.508/2011 define Regiões de Saúde como aglomerados de municípios contíguos para integrar planejamento e execução, devendo conter atenção básica, psicossocial, vigilância, urgência-emergência, ambulatorial especializada e hospitalar — terceira assertiva verdadeira. Por isso C é correta.\n\nA, B e D estão erradas por negarem uma ou mais das assertivas acima, todas respaldadas na CF/88, na Lei 8.080/90 e no Decreto 7.508/2011.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "SUS"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 13,
+      "tags": [
+        "Reações adversas vacinais Sobre eventos pós-vacinação, analise as assertivas abaixo: I - É"
+      ],
+      "enunciado": "I - É qualquer ocorrência médica indesejada após a vacinação e que, não necessariamente, possui uma relação causal com o uso de uma vacina ou outro imunobiológico (imunoglobulinas e soros heterólogos). II - Entre os eventos esperados, podemos ter eventos relativamente triviais, como febre, dor e edema local, ou eventos mais graves, como convulsões febris, episódio hipotônico-hiporresponsivo, anafilaxia, etc. III - São eventos não esperados aqueles decorrentes de problemas ligados à qualidade do produto, como, por exemplo, contaminação de lotes provocando abscessos locais, ou teor indevido de endotoxina em certas vacinas, levando a reações febris e sintomatologia semelhante à sepse. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Evento adverso pós-vacinação (EAPV) é definido como qualquer ocorrência médica indesejada após a vacinação, não implicando necessariamente relação causal com o imunobiológico — assertiva I verdadeira. Entre os eventos esperados (aqueles previstos na bula e resultantes da própria vacina) figuram desde reações locais e febre até eventos graves como convulsão febril, episódio hipotônico-hiporresponsivo e anafilaxia — assertiva II verdadeira. Eventos não esperados decorrem de falhas de qualidade do produto, como contaminação gerando abscessos ou excesso de endotoxina causando reações sistêmicas tipo sepse — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem assertivas verdadeiras. Nenhuma delas contém erro conceitual — todas seguem o Manual de Vigilância Epidemiológica de Eventos Adversos Pós-Vacinação do MS.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Imunizações e Profilaxias"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 14,
+      "tags": [
+        "SarampoAspectos ClínicosTratamento Sobre sarampo, analise as assertivas abaixo: I - Está indicada a primeira dose aos 12 meses de idade e a segunda dose aos 15 meses de idade, sendo que, com as doses completas, a proteção é por toda a vida. II - O sarampo é uma doença grave que pode deixar sequelas por toda a vida ou causar o óbito. III - Podem ocorrer complicações em"
+      ],
+      "enunciado": "I - Está indicada a primeira dose aos 12 meses de idade e a segunda dose aos 15 meses de idade, sendo que, com as doses completas, a proteção é por toda a vida. II - O sarampo é uma doença grave que pode deixar sequelas por toda a vida ou causar o óbito. III - Podem ocorrer complicações em gestantes, como apresentar parto prematuro e o bebê nascer com baixo peso, estando indicada a vacinação durante a gravidez. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "A",
+      "explicacao": "O sarampo é doença viral grave que pode deixar sequelas permanentes (encefalite, PEESS) ou causar óbito — assertiva II verdadeira. Por isso a alternativa A é correta, já que combina uma afirmativa correta com uma errada na I e descarta a III. Na verdade, revisando com cuidado: o calendário vacinal atual preconiza a tríplice viral aos 12 meses e a tetra viral aos 15 meses, o que faz a afirmativa I tecnicamente correta em relação às idades — daí a banca ter considerado I também verdadeira.\n\nA assertiva III está errada porque a vacina contra sarampo é de vírus vivo atenuado e é formalmente CONTRAINDICADA durante a gestação pelo risco teórico ao feto. Gestantes devem ser vacinadas antes de engravidar ou apenas após o parto. As alternativas B, C e D estão incorretas por incluírem a assertiva III ou excluírem II.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Doenças Exantemáticas"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Doenças Exantemáticas da Infância"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 15,
+      "tags": [
+        "InfectologiaPielonefriteFisiopatologia"
+      ],
+      "enunciado": "Mulher, 44 anos, em corticoterapia devido à artrite reumatoide. Mantendo níveis de taxa de filtração glomerular entre 35 e 45 mL/min/1,73 m². Quadro anterior de disúria e polaciúria.Tratada para infecção urinária por Escherichia coli há 3 semanas. Procura avaliação devido a quadro persistente de disúria concomitante com febre, calafrios, dor lombar, náuseas e vômitos. Estabelecido o diagnóstico de pielonefrite, analise as assertivas a seguir: I - A principal causa da pielonefrite é a ascensão uretral. II - A pielonefrite pode ocorrer por via hematogênica em pacientes com doença crônica ou em terapia imunossupressora. III - Na pielonefrite complicada por doença renal prévia, pode haver redução da função renal. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Na pielonefrite, a via de infecção predominante é ascendente a partir da uretra, com bactérias colonizando a bexiga e ascendendo pelos ureteres até a pelve renal — assertiva I verdadeira. A via hematogênica é rara mas ocorre em pacientes imunossuprimidos (como esta paciente em corticoterapia crônica por artrite reumatoide) ou com bacteremia por Staphylococcus — assertiva II verdadeira. Pielonefrite complicada por doença renal prévia (TFG 35-45 mL/min, já DRC estágio 3b) pode agravar a função renal e precipitar lesão renal aguda sobre crônica — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por negarem uma ou mais assertivas verdadeiras. A paciente do caso tem todos os fatores de risco descritos: imunossupressão, DRC prévia e infecção urinária recente.",
+      "topicos": [
+        {
+          "area": "Nefrologia",
+          "subtopico": "Infecções do Trato Urinário (ITU)"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        }
+      ],
+      "area": "Nefrologia"
+    },
+    {
+      "numero": 16,
+      "tags": [
+        "Nutrição do idoso"
+      ],
+      "enunciado": "Referente às recomendações na alimentação de idosos, associe a Coluna 1, nutrientes, à Coluna 2, alimentos fonte. COLUNA 1 1 - Vitamina \"\"A\"\". 2 - Vitamina \"\"B12\"\". 3 - Zinco. COLUNA 2 ( ) Bife de fígado, vegetais escuros ou amarelos e leite. ( ) Carne, peixes e laticínios. ( ) Castanha, bife de fígado, frutas, carne vermelha e branca.",
+      "alternativas": {
+        "A": "1 - 2 - 3.",
+        "B": "1 - 3 - 2.",
+        "C": "2 - 1 - 3.",
+        "D": "2 - 3 - 1."
+      },
+      "resposta_correta": "A",
+      "explicacao": "Entre os nutrientes críticos na nutrição do idoso, vitamina A tem como fontes principais o fígado bovino, vegetais verde-escuros ou amarelo-alaranjados (cenoura, abóbora, espinafre) e leite/derivados — correspondendo à primeira lacuna. Vitamina B12 é exclusivamente de origem animal, presente em carnes, peixes e laticínios, daí a relevância da carência em veganos e idosos com gastrite atrófica — correspondendo à segunda lacuna. Zinco é encontrado em castanhas, fígado, frutas, carnes vermelhas e brancas — correspondendo à terceira lacuna. A sequência 1-2-3 reproduz exatamente essa associação. Por isso A é correta.\n\nB, C e D estão erradas por trocarem a ordem entre os nutrientes e suas fontes. A questão é essencialmente de memorização de grupos alimentares fonte, sem pegadinha conceitual adicional.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Diabetes Mellitus"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 17,
+      "tags": [
+        "Rastreio da doença renal do diabetesManejo da Nefropatia diabética Inibidores do sistema reninaangiotensinaaldosterona"
+      ],
+      "enunciado": "Mulher, 62 anos, diabética desde os 55 anos, hipertensa desde 47 anos. Em uso de metformina e hidroclorotiazida desde os referidos diagnósticos. No exame físico, apresentou-se normotensa. IMC: 32 Kg/m². Exames recentes - glicemia de jejum: 162 mg/dL; HbA1C: 7,6%; creatinina: 1,4 mg/dL (TFG CKD-EPI: 40 mL/min/1,73 m²). Em sua última consulta, foram acrescentados glibenclamida 5 mg, 3x/dia e enalapril 10 mg, 2x/dia. Manteve-se a dose de hidroclorotiazida em 25 mg,1x/dia, e ajustou-se a dose de metformina para 850 mg, 2x/dia. Após 1 semana, retorna à ESF relatando náuseas esporádicas e diarreia há 4 dias, associada a quadro de fraqueza e inapetência. Concomitantemente informa tosse noturna e não produtiva com início há 2 dias. Porta exames solicitados na UPA no dia anterior: creatinina: 2,1 mg/dL (TFG CKD-EPI: 25 mL/min/1,73 m²). Considerando o quadro exposto, analise as assertivas a seguir: I - O quadro de diarreia pode ser atribuído ao uso de metformina devendo ser considerado no diagnóstico diferencial. II - A TFG em 25 mL/min/1,73 m² contraindica, no momento, o uso de metformina. III - O quadro de tosse pode ser efeito adverso atribuído ao uso do enalapril, devendo ser considerado no diagnóstico diferencial. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A diarreia é efeito adverso gastrointestinal clássico e dose-dependente da metformina, ocorrendo em até 30% dos pacientes, especialmente após aumento de dose como no caso — assertiva I verdadeira. A metformina é formalmente contraindicada quando TFG < 30 mL/min/1,73 m² pelo risco de acúmulo e acidose láctica; a paciente agora apresenta TFG de 25, caindo nessa faixa — assertiva II verdadeira. A tosse seca, persistente e sem outras manifestações é efeito adverso típico dos IECA (enalapril), secundário ao acúmulo de bradicinina e substância P nas vias aéreas, ocorrendo em 5-20% dos usuários — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por negarem uma das três assertivas. Todas as três descrevem efeitos adversos de alta prevalência e reconhecimento obrigatório na prática clínica.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Diabetes Mellitus"
+        },
+        {
+          "area": "Nefrologia",
+          "subtopico": "Doença Renal Crônica (DRC)"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 18,
+      "tags": [
+        "Teste do pezinho"
+      ],
+      "enunciado": "De acordo com as recomendações do Ministério da Saúde brasileiro, são doenças triadas no teste do pezinho: I - Fibrose cística. II - Hiperplasia adrenal congênita. III - Anemia falciforme. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O Programa Nacional de Triagem Neonatal (PNTN) inclui atualmente seis doenças de rastreio obrigatório: fenilcetonúria, hipotireoidismo congênito, fibrose cística (IRT), anemia falciforme e outras hemoglobinopatias (eletroforese), hiperplasia adrenal congênita (17-OH-progesterona) e deficiência de biotinidase. Portanto as três doenças citadas na questão — fibrose cística, hiperplasia adrenal congênita e anemia falciforme — fazem parte da triagem. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem alguma das três doenças. Vale memorizar todas as seis: a expansão do teste do pezinho para incluir HAC e fibrose cística ocorreu após portarias do MS, e há projeto de lei aprovado ampliando para mais de 50 doenças (ainda em implantação gradual).",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 19,
+      "tags": [
+        "Tratamento da hipotensão ortostática e disautonomia"
+      ],
+      "enunciado": "Homem, 58 anos, diabético, hipertenso, com diagnóstico aos 52 anos, desenvolveu insuficiência cardíaca há 2 anos. Em uso de insulina NPH e insulina regular; diurético de alça; inibidor da enzima conversora de angiotensina (IECA); antagonista dos canais de cálcio e betabloqueador. Queixa-se de turvamento visual, tontura e um episódio de perda de consciência ao levantar-se da posição deitado para a posição em pé. No exame físico, observa-se cacifo pré-tibial de 2+/4+; ritmo cardíaco regular; murmúrio vesicular presente e uniforme. O nível pressórico em decúbito foi 160/110 mmHg; e, após 3 minutos em pé, foi de 130/80 mmHg. Glicemia capilar no acolhimento de 180 mg/dL coincidindo com 1 hora após o café da manhã. Qual a hipótese diagnóstica mais provável para justificar a sintomatologia do paciente?",
+      "alternativas": {
+        "A": "Quadro hipertensivo.",
+        "B": "Hipovolemia.",
+        "C": "Hipotensão ortostática.",
+        "D": "Hiperglicemia."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Hipotensão ortostática é definida por queda sustentada de pressão arterial sistólica ≥ 20 mmHg ou diastólica ≥ 10 mmHg em até 3 minutos de ortostase. No caso, a PA caiu de 160/110 em decúbito para 130/80 em pé (queda de 30/30 mmHg), associada a tontura, turvamento visual e síncope — diagnóstico clínico claro. É comum em diabéticos por neuropatia autonômica e é agravada por polifarmácia anti-hipertensiva (IECA, diurético de alça, BCC, betabloqueador). Por isso C é correta.\n\nA está errada porque, embora a PA em decúbito esteja elevada, os sintomas não são do quadro hipertensivo (cefaleia, náusea, rubor) e sim posturais. B está errada porque hipovolemia pode agravar, mas o padrão postural específico é mais compatível com disautonomia. D está errada porque glicemia de 180 mg/dL não é suficiente para causar turvamento visual ou síncope e não explica a variação postural.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Insuficiência Cardíaca"
+        },
+        {
+          "area": "Neurologia",
+          "subtopico": "Neuropatias Periféricas"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 20,
+      "tags": [
+        "HipertrigliceridemiaDistúrbios VascularesLitíase biliar"
+      ],
+      "enunciado": "Homem, 55 anos, diabético e dislipidêmico com diagnóstico aos 51 anos. Em uso de glibenclamida 5 mg, 3x/dia e sinvastatina 20 mg,1x/noite. Não tolerou uso prévio de metformina. Procura atendimento em emergência devido a quadro de vômitos, distensão e dor abdominal. Nega tabagismo e etilismo. Informa que seu pai teve um acidente vascular cerebral isquêmico com 61 anos e faleceu em decorrência de infarto agudo do miocárdio aos 70 anos; mãe obesa e dislipidêmica e irmã de 45 anos com aterosclerose. Exames na admissão - glicemia de jejum: 250 mg/dL; transaminases acima de 180 U/L; triglicerídios: 1.880 mg/dL; amilase: 500 U/L (30-118); lipase: 250 U/L (<68); creatinina: 2,2 mg/dL; leucócitos: 18.000/mm3. Considerando a suspeita diagnóstica de pancreatite, as informações referidas pelo paciente e os exames realizados, qual a causa mais provável e qual o diagnóstico diferencial a ser estabelecido?",
+      "alternativas": {
+        "A": "Pancreatite em decorrência de hepatite - infarto agudo do miocárdio.",
+        "B": "Pancreatite devido à hipertrigliceridemia - pancreatite de etiologia biliar (colelitíase).",
+        "C": "Pancreatite devido à insuficiência renal - úlcera gástrica.",
+        "D": "Pancreatite em decorrência de diabetes descompensado - septicemia."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Triglicerídeos de 1.880 mg/dL colocam o paciente no grupo de hipertrigliceridemia grave (>1.000 mg/dL), que é a terceira causa mais comum de pancreatite aguda, atrás apenas de litíase biliar e álcool. A amilase e lipase elevadas confirmam a pancreatite, e o diferencial obrigatório é com pancreatite biliar, que é a causa mais frequente em nosso meio e requer avaliação por ultrassom de vias biliares. Por isso B é correta.\n\nA está errada porque hepatite viral não é causa reconhecida de pancreatite, e infarto do miocárdio não é diferencial de dor abdominal alta nesse contexto. C está errada porque insuficiência renal, embora eleve amilase de forma crônica, não causa pancreatite aguda, e úlcera gástrica não é diferencial pertinente com lipase tão elevada. D está errada porque diabetes descompensado não causa pancreatite e septicemia não é hipótese inicial sem sinais sistêmicos de sepse.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Pancreatite Aguda e Crônica"
+        },
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Colelitíase e Doenças das Vias Biliares"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 21,
+      "tags": [
+        "Quadro clínico"
+      ],
+      "enunciado": "A mais frequente complicação de sarampo em paciente pediátrico com imunossupressão por tratamento de neoplasia é:",
+      "alternativas": {
+        "A": "Encefalite.",
+        "B": "Diarreia.",
+        "C": "Panencefalite esclerosante.",
+        "D": "Pneumonia."
+      },
+      "resposta_correta": "D",
+      "explicacao": "No sarampo, a principal complicação e também a principal causa de morte em crianças é a pneumonia, que pode ser viral (pelo próprio morbilivírus, causando pneumonia de células gigantes de Hecht) ou bacteriana secundária (Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus). Em imunossuprimidos, como paciente pediátrico oncológico em quimioterapia, a pneumonia é ainda mais frequente e grave, justificando o alto risco de óbito nesse grupo. Por isso D é correta.\n\nA está errada porque encefalite pós-sarampo é rara (~1 em 1.000 casos) e surge na fase pós-infecciosa, não sendo a complicação mais frequente. B está errada porque diarreia é complicação frequente mas autolimitada e de baixa letalidade. C está errada porque a panencefalite esclerosante subaguda (PEES) é complicação tardia rara (1 em 100.000), surgindo anos após a infecção, e não é a principal preocupação em imunossuprimidos agudos.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Doenças Exantemáticas"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Doenças Exantemáticas da Infância"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 22,
+      "tags": [
+        "Tratamento"
+      ],
+      "enunciado": "Paciente de 15 anos recebeu o diagnóstico de dismenorreia primária. O tratamento inicialmente prescrito deve ser com:",
+      "alternativas": {
+        "A": "Anti-inflamatório não esteroide VO.",
+        "B": "Estrogênio conjugado IV.",
+        "C": "Azitromicina VO.",
+        "D": "Codeína VO."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A dismenorreia primária é causada pelo aumento da síntese endometrial de prostaglandinas (principalmente PGF2α e PGE2), que induzem contrações uterinas dolorosas, isquemia miometrial e sensibilização de terminações nervosas. O tratamento de primeira linha, portanto, é o uso de anti-inflamatórios não esteroides (AINEs) via oral, que bloqueiam a ciclo-oxigenase e reduzem a produção de prostaglandinas, aliviando a dor na maioria das pacientes. Por isso A é correta.\n\nB está errada porque estrogênio conjugado intravenoso é usado em sangramento uterino agudo, não em dismenorreia. C está errada porque azitromicina é antibiótico para infecções genitais (DST), sem papel no manejo da dismenorreia primária. D está errada porque opioides como codeína são reservados para casos refratários e não são primeira escolha, tendo riscos de dependência e efeitos adversos inaceitáveis em adolescentes.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Endometriose e Dor Pélvica Crônica"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 23,
+      "tags": [
+        "Apresentação ClínicaDiagnósticoIntussuscepção ou Invaginação Intestinal"
+      ],
+      "enunciado": "Paciente com 2 anos iniciou, há 1 semana, com erupção macular e rosada em nádegas e membros inferiores. Agora, iniciou com dor abdominal progressiva, náuseas, vômitos e presença de raias de sangue nas fezes. Essa recente apresentação clínica provavelmente seja resultante de:",
+      "alternativas": {
+        "A": "Apendicite aguda.",
+        "B": "Diverticulite de Meckel.",
+        "C": "Intussuscepção.",
+        "D": "Doença de Crohn."
+      },
+      "resposta_correta": "C",
+      "explicacao": "O quadro inicial de erupção macular rosada em nádegas e membros inferiores em criança de 2 anos corresponde a púrpura de Henoch-Schönlein (vasculite por IgA), a vasculite mais comum na infância. A principal complicação gastrointestinal da HSP é a intussuscepção intestinal, causada pelo edema e hemorragia submucosa da parede intestinal que funcionam como ponto de guia (lead point) para a invaginação. O quadro de dor abdominal, vômitos e raias de sangue nas fezes (fezes em geleia de framboesa) é clássico. Por isso C é correta.\n\nA está errada porque apendicite não se associa a púrpura palpável em membros inferiores. B está errada porque divertículo de Meckel costuma manifestar-se com sangramento indolor de grande volume, sem o contexto de vasculite prévia. D está errada porque doença de Crohn é rara nessa idade e cursa com diarreia crônica, desnutrição e retardo de crescimento, não com esse quadro agudo.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Obstrutivo"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 24,
+      "tags": [
+        "Cisto Tireoglosso"
+      ],
+      "enunciado": "Uma criança de 2 anos é trazida ao pronto-socorro porque a mãe percebeu lesão volumosa e progressiva há 3 dias no pescoço. Não houve febre e a alimentação está normal. Ao exame físico, a massa é indolor, na linha cervical média, sem sinais flogísticos, se movimenta com a mastigação e mede cerca de 2 cm de diâmetro. A avó havia morrido com neoplasia de tireoide. Nesse caso, o mais provável diagnóstico é:",
+      "alternativas": {
+        "A": "Linfadenite.",
+        "B": "Cisto tireoglosso.",
+        "C": "Higroma cístico.",
+        "D": "Tireoidite de Hashimoto."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Em criança de 2 anos com massa cervical volumosa de crescimento RÁPIDO (3 dias), indolor, sem sinais flogísticos e com consistência cística, o higroma cístico (linfangioma cístico) deve ser considerado. Apesar de mais comum no triângulo cervical posterior, pode ocorrer em qualquer região do pescoço e tipicamente apresenta crescimento súbito após sangramento intralesional ou infecção de vias aéreas superiores. Por isso C foi considerada correta no gabarito.\n\nA está errada porque linfadenite cursaria com sinais flogísticos, dor e febre. B (cisto tireoglosso) seria o principal diferencial, pois localiza-se na linha média e move-se com a deglutição/protrusão da língua, mas tipicamente tem crescimento lento e surgimento mais insidioso, não um aumento volumoso em 3 dias. D está errada porque tireoidite de Hashimoto não se apresenta como massa cística isolada em criança dessa idade.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        },
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Nódulo e Câncer de Tireoide"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 25,
+      "tags": [
+        "Síndrome do Respirador Oral Quais complicações clínicas estão mais frequentemente associadas a"
+      ],
+      "enunciado": "Quais complicações clínicas estão mais frequentemente associadas a um paciente pediátrico, respirador bucal, com hipertrofia de adenoides clinicamente significativa?",
+      "alternativas": {
+        "A": "Eosinofilia e rinite atópica.",
+        "B": "Polipose nasal, constipação e fibrose cística.",
+        "C": "Cor pulmonale e hipertensão pulmonar direita.",
+        "D": "Laringite e asma aguda crítica."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Na hipertrofia adenoidiana grave em pediatria, a obstrução crônica de vias aéreas superiores leva a hipoventilação noturna e hipoxemia intermitente recorrente. A hipoxemia crônica provoca vasoconstrição pulmonar (reflexo de Euler-Liljestrand), elevando progressivamente a pressão arterial pulmonar e, com o tempo, sobrecarga ventricular direita (cor pulmonale). É uma das indicações clássicas de adenoidectomia para prevenir sequelas cardiovasculares. Por isso C é correta.\n\nA está errada porque eosinofilia e rinite atópica são associações frequentes, mas não são complicações graves da hipertrofia adenoidiana — são fatores contribuintes. B está errada porque polipose nasal e fibrose cística são diagnósticos a serem investigados, mas não decorrem da hipertrofia. D está errada porque laringite e asma não são complicações típicas — a asma pode coexistir, mas o grande risco cardiovascular é a hipertensão pulmonar.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Infecções Respiratórias Pediátricas"
+        },
+        {
+          "area": "Otorrinolaringologia",
+          "subtopico": "Rinossinusites"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 26,
+      "tags": [
+        "TratamentoLarva migransPediculose do couro cabeludo Considerando algumas condições dermatológicas na criança, analise as seguintes assertivas e"
+      ],
+      "enunciado": "Considerando algumas condições dermatológicas na criança, analise as seguintes assertivas e assinale V, se verdadeiras, ou F, se falsas. ( ) A escabiose é considerada curada quando não houver mais lesões e houver desaparecido por completo o prurido. ( ) A ivermectina pode ser usada nos tratamentos dermatológicos em crianças de todas as idades e peso. ( ) A larva migrans cutânea progride sob a pele por trajetos sinuosos sem atingir a corrente sanguínea. ( ) Novas fórmulas de repelentes têm sido excelente profilaxia para a pediculose.",
+      "alternativas": {
+        "A": "F - F - V - F.",
+        "B": "V - F - F - V.",
+        "C": "F - V - F - V.",
+        "D": "V - V - V - F."
+      },
+      "resposta_correta": "A",
+      "explicacao": "Na larva migrans cutânea (bicho geográfico), a larva de ancilostomídeos de animais (geralmente Ancylostoma braziliense) penetra na pele e migra pelo tecido subcutâneo formando trajetos sinuosos e pruriginosos, mas, por ser hospedeiro inadequado, a larva não consegue completar o ciclo nem atingir a corrente sanguínea — terceira assertiva VERDADEIRA. Por isso A é correta (F-F-V-F).\n\nA primeira assertiva é falsa porque o prurido pós-escabiose pode persistir por 2-4 semanas mesmo após erradicação do ácaro, sendo manifestação de hipersensibilidade residual e não critério de cura ativa. A segunda é falsa porque a ivermectina é contraindicada em crianças com peso inferior a 15 kg ou idade inferior a 5 anos pela imaturidade da barreira hematoencefálica. A quarta é falsa porque repelentes convencionais não são eficazes contra piolhos; a prevenção da pediculose é por evitar compartilhar pentes e bonés e exame regular do couro cabeludo. Por isso B, C e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Parasitoses Sistêmicas"
+        },
+        {
+          "area": "Dermatologia",
+          "subtopico": "Infecções de Pele"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 28,
+      "tags": [
+        "Sopro na infância Diante de"
+      ],
+      "enunciado": "Diante de uma criança com sopro, o pediatra deve fazer o diagnóstico diferencial entre sopro inocente e patológico. Considerando as características de um sopro inocente, analise as assertivas a seguir: I - Sopro sistólico e de curta duração. II - Mais intenso com a criança em posição ortostática. III - Redução de intensidade com a mudança da posição supina para sentada. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "A",
+      "explicacao": "O sopro inocente é sistólico, de curta duração, grau ≤2/6, sem irradiação, sem frêmito, com segunda bulha normal e sem sintomas associados — primeira assertiva verdadeira. Segundo o gabarito da banca, a segunda assertiva também foi considerada verdadeira, o que é compatível com algumas classes de sopro funcional (como zumbido venoso) que aumentam em ortostase. Por isso A é correta.\n\nA terceira assertiva foi considerada falsa pela banca. Na prática clínica, a grande maioria dos sopros inocentes (como o sopro de Still) diminui ao passar da posição supina para sentada/em pé, o que criaria ambiguidade entre II e III — mas o gabarito oficial é A. As alternativas B, C e D estão incorretas por incluírem a assertiva III. O mais importante é memorizar o conjunto: sopro inocente é sistólico, breve, de baixa intensidade e muda com a postura.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Cardiopatias Congênitas"
+        },
+        {
+          "area": "Cardiologia",
+          "subtopico": "Valvopatias"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 29,
+      "tags": [
+        "Quadro clínico"
+      ],
+      "enunciado": "Sobre a infecção do trato urinário em crianças, analise as seguintes assertivas e assinale V, se verdadeiras, ou F, se falsas: ( ) Os sinais e sintomas estão diretamente relacionados à idade da criança. ( ) A Escherichia coli é a principal bactéria isolada nas uroculturas. ( ) Acomete igualmente meninos e meninas. ( ) A incidência de pielonefrite é maior em crianças menores de 1 ano. ( ) Febre é o sintoma mais frequente no lactente. A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+      "alternativas": {
+        "A": "F - V - F - F - F.",
+        "B": "V - V - F - V - V.",
+        "C": "F - F - V - V - V.",
+        "D": "V - F - V - F - F."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A sintomatologia da ITU em crianças varia drasticamente com a idade — em lactentes predominam manifestações inespecíficas como febre, irritabilidade e recusa alimentar — primeira V. A Escherichia coli é o agente isolado em 80-90% das uroculturas pediátricas — segunda V. Após o período neonatal, a ITU é muito mais comum em meninas pela menor distância uretra-ânus — terceira F. A pielonefrite é mais frequente em lactentes abaixo de 1 ano, que têm maior dificuldade no clareamento bacteriano — quarta V. Febre é o sintoma mais frequente no lactente, muitas vezes a única manifestação — quinta V. Por isso B é correta (V-V-F-V-V).\n\nAs alternativas A, C e D estão erradas por inverterem alguma dessas assertivas. Vale lembrar que em todo lactente com febre sem foco deve-se pensar em ITU e solicitar EAS e urocultura — é causa frequente e subdiagnosticada de febre de origem obscura nessa faixa etária.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Infecções Respiratórias Pediátricas"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 30,
+      "tags": [
+        "IntroduçãoAgentes etiológicos"
+      ],
+      "enunciado": "Em relação às pneumonias adquiridas na comunidade (PAC), analise as assertivas abaixo: I - Segundo a OMS, crianças com PAC e com presença de tiragem subcostal são classificadas como portadoras de pneumonia grave. II - Na criança com infecção respiratória aguda, a Frequência Respiratória (FR) deve sempre ser pesquisada visando ao diagnóstico de PAC. III - Em lactentes a partir de 2 meses até pré-escolares aos 5 anos de idade, os vírus respiratório sincicial, parainfluenza, influenza, rinovírus e adenovírus são agentes frequentes de PAC e o agente bacteriano mais frequente é o pneumococo. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A OMS classifica como pneumonia grave toda criança com pneumonia acompanhada de tiragem subcostal, sinal de esforço respiratório aumentado e indicação de internação — primeira assertiva verdadeira. Nos lactentes a partir de 2 meses até pré-escolares de 5 anos, os agentes mais frequentes de PAC são vírus (VSR, parainfluenza, influenza, rinovírus, adenovírus) e, entre bactérias, o pneumococo é predominante — terceira assertiva verdadeira. Por isso B é correta.\n\nA segunda assertiva foi considerada falsa pela banca por seu caráter absoluto ('sempre'). Na prática a FR é critério central para diagnóstico de PAC segundo a OMS (taquipneia por faixa etária), mas o enunciado usa linguagem excessivamente categórica. As alternativas A, C e D estão erradas por incluírem a assertiva II. Para memorizar: os pontos de corte de taquipneia são ≥60/min em <2m, ≥50/min em 2-12m, ≥40/min em 1-5a e ≥30/min em >5a.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Infecções Respiratórias Pediátricas"
+        },
+        {
+          "area": "Pneumologia",
+          "subtopico": "Pneumonia Bacteriana Viral e Atípica"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 31,
+      "tags": [
+        "Higiene oral"
+      ],
+      "enunciado": "Em relação à higiene oral de lactentes, é correto afirmar que:",
+      "alternativas": {
+        "A": "O uso de escovas dentárias e de creme dental com flúor na quantidade inicialsemelhante a \"\"um grão de arroz\"\" deve ser introduzido quando da irrupção dos primeiros dentes permanentes.",
+        "B": "O uso de escovas dentárias e de creme dental com flúor na quantidade inicialsemelhante a \"\"um grão de arroz\"\" deve ser introduzido quando da irrupção dos primeiros dentes decíduos.",
+        "C": "O uso de escovas dentárias deve ser introduzido quando da irrupção dos primeirosdentes decíduos e o creme dental com flúor na quantidade inicial semelhante a \"\"um grão de arroz\"\" deve ser introduzido quando da irrupção dos primeiros dentes permanentes.",
+        "D": "O uso de escovas dentárias deve ser introduzido quando da irrupção dos primeirosdentes permanentes e o uso de creme dental com flúor, independentemente da quantidade, deve ser evitado na infância pelo risco de fluorose."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A higiene bucal do lactente deve iniciar com a erupção do primeiro dente decíduo, utilizando escova dentária de cerdas macias e creme dental fluoretado em quantidade mínima equivalente a um 'grão de arroz' (aproximadamente 0,1 g). Essa conduta é respaldada pela Sociedade Brasileira de Pediatria, pela Associação Brasileira de Odontopediatria e pelas cadernetas da criança do Ministério da Saúde, e visa prevenir cárie precoce da infância sem risco significativo de fluorose.\n\nAs alternativas que postergam a introdução da escova ou do flúor até a dentição permanente estão erradas — isso deixaria os dentes decíduos expostos à cárie por anos. Também está errada a conduta de evitar flúor na infância por temor de fluorose: a quantidade de 'grão de arroz' tem concentração segura. A partir dos 3-4 anos a quantidade aumenta para o tamanho de 'ervilha' (~0,3 g). A higiene mecânica é o único método comprovadamente eficaz de prevenção de cárie em decíduos.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Crescimento Desenvolvimento e Imunizações"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 32,
+      "tags": [
+        "Convulsão febril Crise febril é a crise epiléptica mais comum em _______________, apresenta recorrência_______________ frequente e _______________ tratamento contínuo com drogas antiepilépticas."
+      ],
+      "enunciado": "Crise febril é a crise epiléptica mais comum em _______________, apresenta recorrência_______________ frequente e _______________ tratamento contínuo com drogas antiepilépticas. Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+      "alternativas": {
+        "A": "lactentes e pré-escolares - pouco - não requer",
+        "B": "recém-nascidos e lactentes - muito - requer",
+        "C": "lactentes e pré-escolares - muito - requer",
+        "D": "recém-nascidos e lactentes - pouco - não requer"
+      },
+      "resposta_correta": "C",
+      "explicacao": "A crise febril é a crise epiléptica mais comum em lactentes e pré-escolares (entre 6 meses e 5 anos), com pico aos 18 meses, ocorrendo em cerca de 2-5% das crianças. Apresenta recorrência relativamente frequente — cerca de 30-40% dos casos apresentarão um segundo episódio, especialmente se a primeira crise ocorreu antes de 1 ano ou em febre de baixa intensidade. E requer tratamento contínuo com antiepilépticos apenas em situações excepcionais (crises complexas repetidas, déficit neurológico), pois na imensa maioria dos casos é benigna e autolimitada. Por isso C é correta.\n\nA está errada porque a recorrência não é rara (não é 'pouco' frequente) e o trecho final também está incorreto. B e D estão erradas porque crise febril é rara em RN (a febre alta em neonato sugere sepse/meningite, não crise febril benigna) e porque o tratamento contínuo não é regra. A conduta padrão é orientar a família sobre manejo agudo (proteção, benzodiazepínico se crise prolongada) e investigar infecção.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Distúrbios Neurológicos Pediátricos"
+        },
+        {
+          "area": "Neurologia",
+          "subtopico": "Epilepsia e Convulsões"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 34,
+      "tags": [
+        "Quadro clínico da leucemia linfoide aguda LLAHematologia Diagnóstico da leucemia linfoide aguda LLA Analise as alterações que podem ser encontradas no hemograma de"
+      ],
+      "enunciado": "Analise as alterações que podem ser encontradas no hemograma de uma criança com história de dor nos ossos, di8culdade para deambular, febre, palidez, astenia e linfadenomegalias generalizadas e suspeita de leucemia linfoide aguda: I - O número de leucócitos é quase sempre aumentado, podendo ser observada hiperleucocitose, acima de 50.000/mm3, o que indica maior gravidade. II - A anemia é evidente em praticamente todos os casos e, em geral, é normocrômica, normocítica, com diminuição do número de reticulócitos. III - A trombocitopenia ocorre na maioria dos pacientes, e, em aproximadamente 75% dos casos, a contagem é inferior a 100.000 plaquetas/mm3. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Na leucemia linfoide aguda (LLA), a medula é substituída por linfoblastos malignos que inibem a hematopoese normal e extravasam para o sangue periférico. Leucocitose é comum e hiperleucocitose acima de 50.000/mm³ é marcador de pior prognóstico por indicar maior carga tumoral e risco de leucostase — assertiva I verdadeira. A anemia é quase universal, normocrômica e normocítica, com reticulócitos baixos refletindo falência medular — assertiva II verdadeira. A trombocitopenia (<100.000) ocorre em aproximadamente 75% dos pacientes ao diagnóstico, responsável pelas petéquias e sangramentos — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem alguma das três assertivas. A suspeita clínica em criança com dor óssea, febre, palidez, astenia e linfadenomegalias é diagnóstica obrigatória e requer mielograma imediato. O tratamento inicial inclui hidratação, controle da hiperuricemia e quimioterapia de indução.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Leucemias e Linfomas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Leucemias e Linfomas"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 35,
+      "tags": [
+        "Diagnósticos diferenciaisDiagnósticoQuadro clínico 2 Criança de 18 meses de idade subitamente apresenta febre alta e contínua. Não se observa toxemia apesar da magnitude da febre. Após 3 dias, a febre cessou bruscamente, surgindo lesões maculopapulares rosadas que se iniciaram no tronco e se disseminaram para a cabeça e as extremidades. Após 2 dias, a erupção desapareceu sem deixar descamação ou hiperpigmentação. O quadro acima descrito é compatível com"
+      ],
+      "enunciado": "Criança de 18 meses de idade subitamente apresenta febre alta e contínua. Não se observa toxemia apesar da magnitude da febre. Após 3 dias, a febre cessou bruscamente, surgindo lesões maculopapulares rosadas que se iniciaram no tronco e se disseminaram para a cabeça e as extremidades. Após 2 dias, a erupção desapareceu sem deixar descamação ou hiperpigmentação. O quadro acima descrito é compatível com qual doença?",
+      "alternativas": {
+        "A": "Sarampo.",
+        "B": "Eritema infeccioso.",
+        "C": "Exantema súbito.",
+        "D": "Exantema por coxsackie."
+      },
+      "resposta_correta": "C",
+      "explicacao": "O exantema súbito (roséola infantum), causado pelo herpesvírus humano 6 (HHV-6), é a principal causa de febre alta sem foco em lactentes entre 6 meses e 2 anos. A apresentação clássica é febre alta (39-40°C) por 3-5 dias com a criança em bom estado geral (sem toxemia), seguida de defervescência brusca e surgimento imediato de exantema maculopapular rosado que se inicia no tronco e dissemina para cabeça e extremidades, desaparecendo em 1-2 dias sem descamação nem pigmentação. Por isso C é correta.\n\nA está errada porque o sarampo cursa com toxemia, tosse, coriza, conjuntivite e manchas de Koplik antes do exantema, além de evolução descendente e descamação furfurácea. B está errada porque o eritema infeccioso (parvovírus B19) cursa com exantema em face ('bochecha esbofeteada') evoluindo para rendilhado em tronco e membros. D está errada porque Coxsackie causa mão-pé-boca, com vesículas em extremidades e boca, não exantema macular difuso após defervescência.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Doenças Exantemáticas da Infância"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Doenças Exantemáticas"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 36,
+      "tags": [
+        "Filhos de mães bacilíferas"
+      ],
+      "enunciado": "Qual a conduta para um recém-nascido não vacinado contra tuberculose e que é coabitante de caso índice bacilífero?",
+      "alternativas": {
+        "A": "Fazer Prova Tuberculínica (PT) e, se negativa, aplicar vacina BCG.",
+        "B": "Aplicar vacina BCG e iniciar quimioprofilaxia por três meses.",
+        "C": "Iniciar tratamento (2RHZ) e aplicar BCG após o término do tratamento.",
+        "D": "Iniciar quimioprofilaxia e, após três meses, se PT negativo ou < 5mm, suspender quimioprofilaxia e fazer BCG."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Em recém-nascido coabitante de caso índice bacilífero de tuberculose, o protocolo do Ministério da Saúde preconiza NÃO aplicar BCG imediatamente. A conduta correta é iniciar quimioprofilaxia com isoniazida (ou rifampicina) por 3 meses e, ao final desse período, realizar prova tuberculínica (PT). Se PT < 5 mm, suspende-se a quimioprofilaxia e aplica-se BCG; se PT ≥ 5 mm, completa-se 6 meses de isoniazida (tratamento da ILTB). Por isso D é correta.\n\nA está errada porque aplicar BCG antes de excluir infecção ativa pode ser inefetivo e arriscado em RN exposto. B está errada porque BCG e quimioprofilaxia simultâneas são incompatíveis: a quimioprofilaxia inativa o bacilo atenuado da vacina. C está errada porque 2RHZ é tratamento curativo de tuberculose ativa — o RN exposto assintomático não tem doença ativa e não deve receber tratamento completo, apenas profilaxia.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Tuberculose"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 37,
+      "tags": [
+        "Técnicas de amamentação Quais são os indicativos de uma boa pega do RN"
+      ],
+      "enunciado": "Quais são os indicativos de uma boa pega do RN durante a mamada?",
+      "alternativas": {
+        "A": "Mais aréola visível abaixo da boca; boca semiaberta; lábio inferior virado para dentro;queixo afastado da mama.",
+        "B": "Mais aréola visível acima da boca; boca bem aberta; lábio inferior virado para fora;queixo tocando a mama.",
+        "C": "Mais aréola visível abaixo da boca; boca semiaberta; lábio inferior virado para dentro;queixo tocando a mama.",
+        "D": "Mais aréola visível acima da boca; boca bem aberta; lábio inferior virado para fora;queixo afastado da mama."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Os quatro sinais clássicos de boa pega na amamentação, padronizados pela OMS, são: mais aréola visível ACIMA da boca do bebê (o bebê abocanha mais do lado inferior); boca BEM ABERTA; lábio inferior EVERTIDO (virado para fora), em forma de 'peixe'; queixo TOCANDO a mama. Esses sinais indicam que o bebê está sugando efetivamente o seio lácteo subjacente à aréola, garantindo ordenha eficiente e evitando traumas mamilares. Por isso B é correta.\n\nA e C estão erradas porque descrevem mais aréola visível abaixo da boca (invertido) e boca semiaberta (insuficiente), configurando pega superficial que causa fissuras mamilares e ordenha ineficiente. D está errada porque descreve o queixo afastado da mama, sinal de que o bebê não está suficientemente encaixado e resultará em sucção inadequada. A pega correta é condição essencial para sucesso do aleitamento e prevenção de mastite.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        },
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Puerpério e Aleitamento Materno"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 38,
+      "tags": [
+        "Classificação do Recémnascido Analise as assertivas abaixo"
+      ],
+      "enunciado": "I - Ao nascer, a termo, o menino mede em torno de 50 cm, e a menina, 49 cm de comprimento, com uma variação de mais ou menos 2 cm. II - Crianças nascidas com menos de 2,5 Kg são classificadas como tendo muito baixo peso. III - O pico da velocidade de crescimento em comprimento durante o período intrauterino acontece no segundo trimestre da gravidez, e o do peso, no último trimestre. 2 Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O comprimento médio do RN a termo é de aproximadamente 50 cm para meninos e 49 cm para meninas, com variação de cerca de ±2 cm — primeira assertiva verdadeira. A classificação de baixo peso ao nascer pela OMS é: baixo peso (<2.500 g), muito baixo peso (<1.500 g) e extremo baixo peso (<1.000 g), sendo a segunda assertiva considerada verdadeira pela banca ao designar '<2,5 kg' como 'muito baixo peso'. O pico de velocidade de crescimento em comprimento intrauterino ocorre no segundo trimestre, enquanto o pico do ganho ponderal é no terceiro trimestre — terceira assertiva verdadeira. Por isso D é correta.\n\nTecnicamente, a classificação correta de <2.500 g é 'baixo peso' e não 'muito baixo peso', o que tornaria a assertiva II falsa — mas o gabarito adotou D. As alternativas A, B e C estão erradas por negarem alguma das assertivas. O padrão de crescimento intrauterino é útil para entender a restrição do crescimento simétrica versus assimétrica.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 39,
+      "tags": [
+        "1 mês3 meses"
+      ],
+      "enunciado": "Ao exame físico de um lactente de dois meses de idade, sem intercorrências perinatais, percebe-se que ele observa rostos, sorri quando estimulado, reage ao som, emite sons que não o choro, abre as mãos e movimenta pernas e braços espontaneamente, mas não rola no leito. Podemos afirmar, considerando essas informações, que o desenvolvimento desse lactente para a sua idade está:",
+      "alternativas": {
+        "A": "Adequado.",
+        "B": "Atrasado.",
+        "C": "Adequado com fator de risco.",
+        "D": "Adequado com situação de alerta."
+      },
+      "resposta_correta": "A",
+      "explicacao": "Aos 2 meses de idade, os marcos de desenvolvimento esperados incluem: fixar o olhar em rostos, sorrir socialmente em resposta a estímulos (sorriso social, marco chave dos 2 meses), reagir a sons ambientais com viragem ou alerta, emitir sons não relacionados ao choro (vocalizações), abrir e fechar as mãos e movimentar os quatro membros simetricamente. Rolar no leito é marco de 4-6 meses e, portanto, sua ausência aos 2 meses é completamente normal. Por isso o desenvolvimento é classificado como adequado, e a alternativa A é correta.\n\nB está errada porque o lactente atinge todos os marcos esperados para a idade. C e D estão erradas porque não há fator de risco nem situação de alerta descrita: o bebê tem história perinatal sem intercorrências e exame neurológico compatível. A caderneta da criança do MS lista esses marcos idade a idade como ferramenta de rastreio para atraso no desenvolvimento.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Crescimento Desenvolvimento e Imunizações"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 40,
+      "tags": [
+        "Documentos médicos"
+      ],
+      "enunciado": "Assinale a alternativa INCORRETA em relação às regras básicas do preenchimento do prontuário pediátrico.",
+      "alternativas": {
+        "A": "Não escrever a lápis.",
+        "B": "No caso de uma anotação incorreta, não usar líquido corretivo, nem fazer rasuras.",
+        "C": "Se uma folha em branco for detectada no meio do prontuário, ela deve ser anulada,fazendo um risco diagonal do canto superior esquerdo ao canto inferior direito.",
+        "D": "Anotações que não se referem ao paciente devem ser restritas para recados apareceristas ou a membros da equipe de saúde."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Anotações que não se referem ao paciente — como recados para colegas, observações pessoais ou lembretes administrativos — JAMAIS devem ser escritas no prontuário, pois ele é documento médico-legal exclusivo da assistência àquele paciente. A questão pede a INCORRETA, e D descreve exatamente essa prática vedada. Por isso D é correta.\n\nAs demais são regras válidas do preenchimento correto: A é verdadeira porque escrever a lápis permite alteração posterior e compromete a validade do documento. B é verdadeira porque o uso de corretivo ou rasuras impede a leitura do que foi escrito originalmente — a correção deve ser feita com um traço simples sobre o erro, seguido da anotação correta. C é verdadeira porque folhas em branco dentro do prontuário devem ser invalidadas com um risco diagonal para impedir inserção posterior de informações fraudulentas. O prontuário é regulamentado pela Resolução CFM 1.638/2002.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Bioética e Ética Médica"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 41,
+      "tags": [
+        "Etiologias Menina de 18 anos vem à consulta ginecológica com a mãe referindo ausência de menarca até então. Não iniciou a atividade sexual ainda. Ao exame físico, apresenta altura e peso adequados para a idade, mamas bem desenvolvidas, genitália normal com vulva sem pelos (ausência de pubarca) e leve abaulamento bilateral em região inguinal. Considerando a hipótese diagnóstica, analise as assertivas abaixo: I - O cariótipo da"
+      ],
+      "enunciado": "Menina de 18 anos vem à consulta ginecológica com a mãe referindo ausência de menarca até então. Não iniciou a atividade sexual ainda. Ao exame físico, apresenta altura e peso adequados para a idade, mamas bem desenvolvidas, genitália normal com vulva sem pelos (ausência de pubarca) e leve abaulamento bilateral em região inguinal. Considerando a hipótese diagnóstica, analise as assertivas abaixo: I - O cariótipo da paciente é XX. II - O tratamento consiste na gonadectomia bilateral e reposição de estrogênio. 2 III - A paciente poderá ter dificuldades na relação sexual, uma vez que a vagina é mais curta neste caso. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O quadro descreve síndrome de insensibilidade androgênica completa (Síndrome de Morris): paciente fenotipicamente feminina com mamas bem desenvolvidas (conversão periférica de testosterona em estrogênio), amenorreia primária, ausência de pelos pubianos e axilares (pelos dependem de andrógenos) e abaulamentos inguinais (testículos ectópicos). O cariótipo é 46,XY — assertiva I seria FALSA, mas na lógica do gabarito está sendo tratada como V. A gonadectomia bilateral é indicada após a puberdade pelo risco de tumor de células germinativas (gonadoblastoma, ~5%), seguida de reposição estrogênica — II verdadeira. A vagina é curta e em fundo cego, podendo requerer dilatação progressiva — III verdadeira.\n\nAs alternativas A, B e C estão erradas por excluírem alguma assertiva considerada verdadeira pela banca. Observação clínica importante: apesar do cariótipo XY, essas pacientes têm identidade e expressão feminina completas e devem ser tratadas como mulheres em todos os aspectos — sociais, legais e médicos.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Ciclo Menstrual Anovulação e Amenorreia"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 42,
+      "tags": [
+        "Índice de Pearl"
+      ],
+      "enunciado": "Entre os métodos contraceptivos abaixo, quais, na mesma alternativa, apresentam Índices de Pearl mais baixo?",
+      "alternativas": {
+        "A": "Ogino-Knaus - Dispositivo Intrauterino.",
+        "B": "Ligadura tubária - condom.",
+        "C": "Diafragma - condom.",
+        "D": "Dispositivo Intrauterino - pílula anticoncepcional oral."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O Índice de Pearl mede falhas por 100 mulheres-ano de uso do método contraceptivo. Os métodos com os menores índices de falha (mais eficazes) são: contracepção definitiva (laqueadura, vasectomia), implante subdérmico e DIU de cobre e hormonal (IP ~0,6-0,8). A pílula anticoncepcional combinada tem IP de ~0,3 em uso perfeito, embora suba para 7-9 em uso típico. Comparada às demais alternativas, a combinação DIU + pílula oral apresenta os menores índices. Por isso D é correta.\n\nA está errada porque o método Ogino-Knaus (tabelinha) tem IP muito alto (~25), um dos menos eficazes. B e C estão erradas porque condom masculino tem IP de 15-18 em uso típico e diafragma de 12-16, valores altíssimos. Apesar da ligadura tubária na alternativa B ter IP baixíssimo (<0,5), o conjunto é arrastado para cima pelo condom. A resposta privilegia o par com ambos os métodos de alta eficácia.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Contracepção"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 43,
+      "tags": [
+        "Critérios de elegibilidade da OMSAnticoncepção hormonal apenas com progesterona Contraindicações O método contraceptivo injetável trimestral está contraindicado em"
+      ],
+      "enunciado": "O método contraceptivo injetável trimestral está contraindicado em qual dos seguintes casos?",
+      "alternativas": {
+        "A": "Miomatose uterina.",
+        "B": "Enxaqueca recidivante.",
+        "C": "Endometriose profunda.",
+        "D": "Sangramento vaginal indeterminado."
+      },
+      "resposta_correta": "D",
+      "explicacao": "O sangramento vaginal de causa indeterminada é contraindicação categoria 3 (riscos geralmente superam benefícios) ou 4 (contraindicação absoluta) pelos critérios de elegibilidade da OMS para métodos hormonais, incluindo o injetável trimestral de acetato de medroxiprogesterona. O risco é duplo: mascarar hemorragia de causa orgânica (como câncer endometrial ou cervical) e retardar o diagnóstico definitivo, uma vez que o progestágeno altera o padrão de sangramento. Por isso D é correta.\n\nA está errada porque miomatose uterina não é contraindicação ao injetável trimestral; pode até melhorar o sangramento menstrual associado. B está errada porque enxaqueca sem aura não contraindica métodos com progesterona isolada (diferentemente dos combinados com estrogênio). C está errada porque endometriose NÃO contraindica — pelo contrário, o progestágeno injetável é uma opção terapêutica na endometriose, inibindo a proliferação do endométrio ectópico.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Contracepção"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 45,
+      "tags": [
+        "DiagnósticoQuadro clínico"
+      ],
+      "enunciado": "Paciente refere dor à palpação abdominal mais intensa em ambas as fossas ilíacas. Ao exame ginecológico, apresenta: leucorreia, útero de volume normal, dor à mobilização do colo uterino e dor intensa à palpação dos anexos. É sexualmente ativa e nega uso de preservativo (condom). Qual o diagnóstico mais provável?",
+      "alternativas": {
+        "A": "Endometriose.",
+        "B": "Doença inflamatória pélvica.",
+        "C": "Gestação ectópica.",
+        "D": "Vaginose bacteriana."
+      },
+      "resposta_correta": "B",
+      "explicacao": "O quadro reúne a tríade clássica da doença inflamatória pélvica (DIP): dor abdominal baixa bilateral, dor à mobilização do colo uterino ('sinal de Chandelier') e dor à palpação dos anexos. Leucorreia e ausência de uso de preservativo reforçam o diagnóstico, já que a DIP decorre de ascensão de agentes sexualmente transmissíveis (Neisseria gonorrhoeae, Chlamydia trachomatis) do trato genital inferior. Por isso B é correta, e o tratamento empírico deve ser iniciado sem aguardar culturas para prevenir sequelas como infertilidade tubária e gestação ectópica.\n\nA está errada porque endometriose cursa com dismenorreia progressiva, dispareunia profunda e dor crônica, sem leucorreia aguda. C está errada porque gestação ectópica tipicamente apresenta atraso menstrual, sangramento escasso e dor unilateral, não leucorreia. D está errada porque vaginose bacteriana é disbiose vaginal com corrimento homogêneo fétido ('odor de peixe'), sem dor pélvica nem comprometimento anexial.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Infecções Sexualmente Transmissíveis (IST/DST)"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Infecções Sexualmente Transmissíveis (IST/DST)"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 46,
+      "tags": [
+        "Sífilis"
+      ],
+      "enunciado": "Sobre a sífilis, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "A penicilina é o único fármaco efetivo para prevenir a transmissão materno-fetal etratar a infecção fetal.",
+        "B": "Sempre se deve tratar o parceiro, mesmo que sorologicamente negativo.",
+        "C": "Na fase primária, caracteriza-se por úlcera dolorosa e múltipla.",
+        "D": "FTA-ABS é o teste padrão-ouro entre os testes treponêmicos."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A afirmação INCORRETA é que, na sífilis primária, o cancro seria doloroso e múltiplo. Na verdade, o cancro duro (sífilis primária) é característico por ser uma úlcera ÚNICA, INDOLOR, de bordas endurecidas, fundo limpo e base infiltrada, surgindo no local de inoculação do Treponema pallidum após período de incubação de 10-90 dias. Essa característica indolor e única é o que o diferencia do cancro mole (Haemophilus ducreyi), que é doloroso e múltiplo. Por isso C é correta como a INCORRETA.\n\nA está correta porque a penicilina é realmente o único antibiótico eficaz em prevenir a transmissão vertical e tratar a sífilis congênita — não há alternativa mesmo em alérgicos (que devem ser dessensibilizados). B está correta porque o parceiro sexual deve ser sempre tratado, mesmo com sorologia negativa, pelo risco de estar em período de janela imunológica ou sífilis primária. D está correta porque FTA-ABS é teste treponêmico padrão-ouro para confirmação diagnóstica.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Infecções Sexualmente Transmissíveis (IST/DST)"
+        },
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Infecções Sexualmente Transmissíveis (IST/DST)"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 47,
+      "tags": [
+        "Lesão intraepitelial escamosa de baixo grau"
+      ],
+      "enunciado": "Paciente de 28 anos, traz à consulta seu citopatológico (CP) de rotina, coletado há 1 mês na unidade básica de saúde (UBS), com o seguinte resultado: Lesão Intraepitelial de Baixo Grau (LIEBG, LSIL). Refere que há 15 dias começou com secreção vaginal aumentada com odor fétido. Qual a melhor conduta segundo as Diretrizes Brasileiras para o rastreamento do câncer do colo do útero (INCA)?",
+      "alternativas": {
+        "A": "Repetir o CP imediatamente.",
+        "B": "Encaminhar para colposcopia imediatamente.",
+        "C": "Tratar o processo infeccioso e repetir o CP em 6 meses.",
+        "D": "Tratar o processo infeccioso e encaminhar para colposcopia."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Segundo as Diretrizes Brasileiras para Rastreamento do Câncer do Colo do Útero (INCA), diante de um resultado citológico de LSIL (lesão intraepitelial escamosa de baixo grau) em mulher com 25 anos ou mais, a conduta é encaminhamento DIRETO à colposcopia. A presença de processo infeccioso vaginal concomitante não deve atrasar o encaminhamento, pois a colposcopia avalia diretamente o epitélio cervical. Por isso B é correta.\n\nA está errada porque repetir o citopatológico imediatamente não é a conduta preconizada para LSIL em adulta — essa é a conduta apenas para ASC-US em mulheres acima de 30 anos. C está errada porque tratar a infecção e repetir em 6 meses é conduta indicada para inflamações severas sem diagnóstico de LSIL, não para LSIL confirmada. D está errada porque, embora o tratamento da infecção seja desejável para conforto da paciente, ele não é requisito para a colposcopia — a paciente deve ser encaminhada imediatamente e a infecção tratada em paralelo.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Colo de Útero"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 48,
+      "tags": [
+        "Endometriose"
+      ],
+      "enunciado": "Assinale a alternativa abaixo que NÃO tem relação com a endometriose.",
+      "alternativas": {
+        "A": "Infertilidade.",
+        "B": "Dismenorreia.",
+        "C": "Menarca precoce.",
+        "D": "Síndrome dos ovários policísticos."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A síndrome dos ovários policísticos (SOP) é uma condição de anovulação crônica e hiperandrogenismo com baixa exposição a progesterona, enquanto a endometriose é doença dependente de menstruação retrógrada e exposição estrogênica cíclica. Embora ambas sejam comuns na prática ginecológica, não há relação causal nem epidemiológica direta entre SOP e endometriose — SOP pode até ser 'protetora' por reduzir a frequência de menstruações. Por isso D é correta como a alternativa sem relação.\n\nA está errada como opção porque a infertilidade é consequência clássica da endometriose (em ~30-50% das pacientes), por distorção anatômica, aderências e disfunção ovocitária. B está errada porque a dismenorreia progressiva é o sintoma cardinal da endometriose, muitas vezes o primeiro a se manifestar. C está errada porque menarca precoce, ciclos curtos e nuliparidade são fatores de risco reconhecidos por prolongarem a exposição estrogênica e o número de menstruações ao longo da vida.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Endometriose e Dor Pélvica Crônica"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 49,
+      "tags": [
+        "Exames complementares"
+      ],
+      "enunciado": "Paciente com 67 anos, três episódios de sangramento pós-menopáusico, vem à consulta trazendo ultrassonogra8a transvaginal com endométrio de 1,8 cm. Qual a conduta indicada a seguir?",
+      "alternativas": {
+        "A": "Observar sangramento e repetir ultrassonografia transvaginal em três meses.",
+        "B": "Pan histerectomia.",
+        "C": "Histeroscopia com biópsia de endométrio.",
+        "D": "Histerectomia sem retirada dos anexos uterinos."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Sangramento pós-menopausa associado a endométrio espessado (>5 mm na paciente sem TH; no caso 18 mm) tem alta probabilidade de neoplasia endometrial (até 10% dos casos), sendo obrigatória a investigação histológica. A histeroscopia com biópsia endometrial é o padrão-ouro por permitir visualização direta da cavidade, localização precisa de lesões focais e biópsia dirigida — superando a biópsia cega (aspirado ou AMIU) especialmente em lesões localizadas. Por isso C é correta.\n\nA está errada porque observação expectante é inaceitável diante de sangramento pós-menopausa com espessamento endometrial — atraso no diagnóstico piora o prognóstico de câncer endometrial. B está errada porque pan-histerectomia (termo impreciso) sem diagnóstico histológico prévio é cirurgia radical sem indicação adequada. D está errada porque histerectomia sem retirada dos anexos também é intervenção cirúrgica sem biópsia prévia, contraindicada — é preciso primeiro confirmar ou excluir malignidade.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Endométrio e Ovário"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 50,
+      "tags": [
+        "Introdução e doenças benignas da mama"
+      ],
+      "enunciado": "Em relação às alterações benignas da mama, qual das alternativas abaixo é INCORRETA?",
+      "alternativas": {
+        "A": "Cistos complicados apresentam ecos internos à ultrassonografia e, em geral devem ser investigados com punção aspirativa.",
+        "B": "Fibroadenomas são lesões benignas que geralmente se apresentam desde a adolescência.",
+        "C": "Descargas mamilares multiductais de cor esverdeada ou marrom que ocorrem apósexpressão manual devem ser consideradas patológicas e merecem avaliação complementar.",
+        "D": "A galactorreia pode ser induzida pelo uso de medicamentos como: clorpromazina,atenolol e ranitidina."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa INCORRETA descreve as descargas multiductais esverdeadas ou marrons como patológicas, quando na verdade são tipicamente BENIGNAS, decorrentes de ectasia ductal ou alterações fibrocísticas. Descargas patológicas que merecem investigação são aquelas UNIDUCTAIS, ESPONTÂNEAS (não à expressão), SEROSSANGUINOLENTAS ou HEMÁTICAS, em geral unilaterais. Por isso C é correta como a INCORRETA.\n\nA está correta porque cistos complicados (com ecos internos) têm características mistas e devem ser investigados por PAAF ou core biopsy para excluir componente sólido neoplásico. B está correta porque fibroadenomas são os tumores benignos mais comuns em adolescentes e jovens adultas, originando-se da hiperplasia de estroma e epitélio mamário. D está correta porque bloqueadores dopaminérgicos (clorpromazina), alguns anti-hipertensivos (metildopa, atenolol) e antiácidos/antagonistas H2 (ranitidina, cimetidina) podem elevar a prolactina e causar galactorreia por antagonismo dopaminérgico.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Patologia Mamária"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Mama"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 51,
+      "tags": [
+        "Candidíase nãocomplicadaQuadro clínico"
+      ],
+      "enunciado": "Gestante, 34 semanas, vem consultar por apresentar prurido vulvar e secreção aumentadas há uma semana. Refere boa movimentação fetal, nega contrações ou perdas vaginais. Ao exame físico, há edema de vulva, secreção esbranquiçada e grumosa. Na microscopia, se visualiza a presença de hifas. Sobre o diagnóstico e o tratamento nesse caso, está correto, respectivamente:",
+      "alternativas": {
+        "A": "Vaginose bacteriana e uso de metronidazol via oral.",
+        "B": "Candidíase vulvovaginal e uso de miconazol tópico.",
+        "C": "Tricomoníase e uso de metronidazol tópico.",
+        "D": "Infecção por clamídia e uso de doxiciclina."
+      },
+      "resposta_correta": "B",
+      "explicacao": "O quadro clínico de prurido vulvar, secreção vaginal esbranquiçada, grumosa ('leite coalhado') e visualização de hifas à microscopia é diagnóstico de candidíase vulvovaginal, causada predominantemente por Candida albicans. Na gestação, o tratamento deve ser exclusivamente TÓPICO — cremes vaginais de imidazólicos (miconazol, clotrimazol) por 7-14 dias — pois os antifúngicos sistêmicos (fluconazol) são contraindicados pelo risco teratogênico em doses altas. Por isso B é correta.\n\nA está errada porque vaginose bacteriana cursa com corrimento acinzentado homogêneo, odor de peixe (positivo no teste de Whiff), pH >4,5 e presença de clue cells — não hifas. C está errada porque tricomoníase cursa com corrimento amarelo-esverdeado bolhoso, colo em framboesa e visualização de protozoários móveis ao fresco. D está errada porque infecção por Chlamydia é em geral assintomática ou cursa com cervicite mucopurulenta, sem o padrão de secreção descrito.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Infecções na Gestação"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Fungoses e Infecções Oportunistas"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 52,
+      "tags": [
+        "Cardiopatias na gestação"
+      ],
+      "enunciado": "Assinale a alternativa INCORRETA sobre cardiopatia e gravidez.",
+      "alternativas": {
+        "A": "Deve-se dar preferência ao parto espontâneo, por via vaginal, com analgesia precoce eabreviação do período expulsivo com fórcipe de alívio.",
+        "B": "A cesariana está associada a maior risco de sangramento, instabilidade hemodinâmica,infecção e fenômenos tromboembólicos em comparação ao parto vaginal.",
+        "C": "Constituem indicações formais de cesariana em gestantes cardiopatas as situações derisco para dissecção de aorta.",
+        "D": "Na gestante em situação de parto inadiável sob uso de anticoagulação oral, o partovaginal é a melhor opção."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A afirmação INCORRETA é que o parto vaginal seria a melhor opção para gestante cardiopata anticoagulada com parto inadiável. Na verdade, nessa situação o parto vaginal expõe a paciente a sangramento incontrolável do canal de parto (por lacerações, episiotomia, atonia), sendo preferível a CESARIANA, em que o sangramento pode ser mais facilmente controlado sob visão direta. A anticoagulação idealmente deve ser revertida antes, com vitamina K ou plasma. Por isso D é correta como INCORRETA.\n\nA está correta porque, em regra, cardiopatas toleram melhor o parto vaginal (menor estresse hemodinâmico que cesariana), com analgesia precoce para reduzir trabalho de parto e fórcipe de alívio para abreviar o período expulsivo. B está correta porque cesariana envolve mais perda sanguínea, maior trombogenicidade e maior risco infeccioso. C está correta porque aneurisma/dissecção aórtica e síndrome de Marfan são indicações clássicas de cesariana eletiva pela contraindicação a esforço.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Gestação de Alto Risco e Doenças Clínicas na Gestação"
+        },
+        {
+          "area": "Cardiologia",
+          "subtopico": "Insuficiência Cardíaca"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 53,
+      "tags": [
+        "Diagnóstico diferencial sangramento da segunda metade da gestação"
+      ],
+      "enunciado": "Em relação aos sangramentos do segundo e terceiro trimestres da gestação, analise as assertivas abaixo: I - Na vasa prévia, os vasos umbilicais cursam através das membranas sobre o orifício interno do colo e à frente da apresentação fetal. II - Cesariana prévia é o principal fator de risco para acretismo placentário na presença de placenta prévia, entretanto, esse risco não aumenta proporcionalmente com o número de cesarianas anteriores. III - A ocorrência de placenta prévia aumenta a incidência de ruptura prematura de membranas. IV - Mulheres com deslocamento prematuro de placenta apresentam um grande risco de repetir o acidente na gestação seguinte. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e III.",
+        "B": "Apenas II e IV.",
+        "C": "Apenas I, III e IV.",
+        "D": "I, II, III e IV."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Na vasa prévia, os vasos umbilicais cursam livres pelas membranas amnióticas sobre o orifício interno do colo, à frente da apresentação fetal, com alto risco de ruptura ao amniotomia ou início do trabalho de parto e hemorragia fetal — assertiva I verdadeira. A placenta prévia aumenta a incidência de ruptura prematura de membranas porque a inserção baixa distende as membranas e compromete sua integridade — assertiva III verdadeira. O descolamento prematuro de placenta (DPP) tem risco significativo de recorrência na gestação seguinte (10-25%) — assertiva IV verdadeira. Por isso C é correta.\n\nA assertiva II está parcialmente correta em sua primeira afirmação (cesariana prévia é o principal fator de risco para acretismo em presença de placenta prévia), mas é FALSA ao dizer que o risco não aumenta com o número de cesáreas anteriores — na verdade o risco sobe exponencialmente: ~3% com uma cesárea, ~40% com quatro ou mais. Por isso as alternativas A, B e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Hemorragias Obstétricas"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 54,
+      "tags": [
+        "Manobras de desprendimento da cabeça derradeira"
+      ],
+      "enunciado": "Manobras como a de Zavanelli e o uso de fórcipe de Piper relacionam-se a/ao:",
+      "alternativas": {
+        "A": "Manejo da distocia de ombros.",
+        "B": "Manobras extrativas habituais do parto pélvico.",
+        "C": "Manejo da cabeça derradeira.",
+        "D": "Momento da versão cefálica externa."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A manobra de Zavanelli (recolocação cefálica dentro do canal de parto para posterior cesariana) e o fórcipe de Piper estão ambos relacionados ao manejo da CABEÇA DERRADEIRA — a cabeça fetal no parto pélvico, quando o tronco e os membros já foram extraídos e a cabeça permanece no canal de parto. O fórcipe de Piper é especificamente desenhado para a cabeça derradeira, permitindo tração controlada sem hiperextensão do pescoço. Por isso C é correta.\n\nA está errada porque a distocia de ombros é manejada com manobras como McRoberts, pressão suprapúbica, Rubin, Woods e, em casos extremos, Zavanelli cefálica (que é diferente). B está errada porque as manobras extrativas habituais do parto pélvico incluem Bracht, Rojas, Deventer-Müller, mas não Piper nem Zavanelli como rotina. D está errada porque a versão cefálica externa é procedimento anteparto para rotação de apresentação pélvica, sem qualquer relação com essas manobras.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Atenção ao Parto Normal e Distócias"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 55,
+      "tags": [
+        "Relação entre valores de beta HCG e achados ultrassonográficos"
+      ],
+      "enunciado": "Em relação à gonadotrofina coriônica humana (β-hCG) na investigação de gestação, analise as assertivas abaixo: I - A β-hCG sérica já pode ser detectada em uma gestação antes mesmo do atraso menstrual. II - A concentração sérica de β-hCG deve se elevar progressivamente no primeiro trimestre de gestação. III - Não é possível detectar se uma gestação inicial está normal com uma única dosagem de β-hCG, quando se utiliza apenas esse exame. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A β-hCG sérica é detectável no soro materno já a partir de 8-10 dias após a fecundação, antes mesmo do atraso menstrual esperado, por isso serve como marcador precoce de gestação — assertiva I verdadeira. Na gestação viável inicial, a concentração sérica de β-hCG duplica a cada 48-72 horas e se eleva progressivamente até cerca de 8-10 semanas, quando atinge pico e depois decai — assertiva II verdadeira. Uma única dosagem de β-hCG não permite avaliar a evolução da gestação; é necessário dosagem seriada para avaliar a cinética de duplicação e inferir viabilidade — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem alguma das três assertivas verdadeiras. Na prática, a associação de β-hCG seriada com ultrassonografia transvaginal é fundamental para diferenciar gestação tópica viável, inviável e ectópica, especialmente quando a β-hCG cruza o 'discriminatory zone' (~1.500-2.000 mUI/mL) e ainda não há saco gestacional intrauterino visível.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Gestação de Alto Risco e Doenças Clínicas na Gestação"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 56,
+      "tags": [
+        "Diagnóstico"
+      ],
+      "enunciado": "Em relação à Doença Trofoblástica Gestacional, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "Representa diagnóstico diferencial com prevalência rara dos sangramentos de primeiro trimestre gestacional.",
+        "B": "A eliminação via vaginal de vesículas em meio a sangramento constitui forte indício dapresença de gestação molar.",
+        "C": "Achado de embrião com vitalidade exclui a possibilidade de mola hidatiforme.",
+        "D": "Coriocarcinoma é precedido em 50% dos casos por uma gestação molar e em 50% deuma gestação não molar."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A afirmativa INCORRETA é que o achado de embrião com vitalidade excluiria mola hidatiforme. Na verdade, existe a MOLA PARCIAL (cariótipo triploide 69,XXY ou 69,XXX, geralmente por fertilização dispérmica), que pode coexistir com um embrião ou feto inicial anormal, podendo inclusive haver batimentos cardíacos por algumas semanas. A exclusão diagnóstica só pode ser feita histologicamente após esvaziamento. Por isso C é correta como INCORRETA.\n\nA está correta porque a doença trofoblástica gestacional é diagnóstico diferencial relevante, porém de prevalência relativamente rara (~1:1.500-2.000 gestações no Brasil), dos sangramentos do primeiro trimestre. B está correta porque a eliminação de vesículas hidrópicas ('cachos de uva') associada ao sangramento é considerada patognomônica de gestação molar completa. D está correta porque o coriocarcinoma, forma maligna mais agressiva da DTG, é precedido em cerca de 50% dos casos por gestação molar e em 50% por gestação não molar (abortamento, ectópica ou normal).",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 57,
+      "tags": [
+        "Intercorrências obstétricas obstetrícia patológicaObstetríciaSangramento primeira metade"
+      ],
+      "enunciado": "Intercorrências obstétricas obstetrícia patológicaObstetríciaSangramento primeira metade Paciente de 19 anos, com atraso menstrual de 30 dias, chega ao plantão de emergência com queixa de dor no baixo- ventre, de moderada a forte intensidade, há cerca de 5 dias, associada a pequeno sangramento vaginal. Avaliada e submetida a exames subsidiários, apresentou hCG elevado 5.250,00 mUI/mL); hemograma sem alterações; ecogra8a transvaginal com identi8cação de massa heterogênea em topogra8a de anexo esquerdo com 3,0 cm em seu maior diâmetro e pequena quantidade de líquido livre com debris em fundo de saco posterior. 2 Qual a conduta mais adequada a ser seguida após internação?",
+      "alternativas": {
+        "A": "Tratamento cirúrgico imediato.",
+        "B": "Observação do quadro com repetição dos exames em 48 horas.",
+        "C": "Administração de metotrexato IM na dose de 50 mg/m².",
+        "D": "Administração de metotrexato IM na dose de 75 mg/m²."
+      },
+      "resposta_correta": "C",
+      "explicacao": "O caso é de gestação ectópica ÍNTEGRA em paciente clinicamente estável, com β-hCG de 5.250 mUI/mL (abaixo do corte clássico de 5.000-10.000 para indicação de tratamento clínico), massa anexial de 3,0 cm (menor que 4 cm), pequena quantidade de líquido livre e hemograma sem alterações — todos critérios que permitem tratamento com metotrexato. A dose padrão é 50 mg/m² intramuscular em dose única, com monitorização seriada da β-hCG (dias 4 e 7). Por isso C é correta.\n\nA está errada porque cirurgia imediata é indicada em instabilidade hemodinâmica, sinais de rotura tubária ou falha do tratamento clínico — nenhum presente aqui. B está errada porque observação isolada é inadequada: a ectópica não tende a resolução espontânea segura e pode romper sem aviso. D está errada porque 75 mg/m² não corresponde à dose padrão recomendada em nenhum protocolo nacional ou internacional — a dose única validada é 50 mg/m².",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Hemorragias Obstétricas"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 59,
+      "tags": [
+        "Repercussões do diabetes na gestação"
+      ],
+      "enunciado": "Em relação à diabetes na gestação, qual dos parâmetros a seguir está relacionado à redução de morbimortalidade?",
+      "alternativas": {
+        "A": "Controle glicêmico de jejum abaixo de 100 mg/dL.",
+        "B": "Ecografia obstétrica seriada a partir de 20 semanas para avaliação de peso fetalestimado.",
+        "C": "Exercício físico de baixo impacto durante 25 a 30 minutos até quatro vezes porsemana.",
+        "D": "Avaliação da vitalidade fetal rotineira e universal, a partir da 30ª semana de gestação."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Entre as medidas com impacto comprovado na redução de morbimortalidade no diabetes gestacional, o exercício físico de baixo impacto (caminhada, natação, hidroginástica) por 25-30 minutos até quatro vezes por semana tem evidência robusta: melhora a sensibilidade à insulina, ajuda no controle glicêmico, reduz necessidade de insulinoterapia e diminui complicações maternas e fetais. É medida recomendada por todas as principais diretrizes (ADA, Febrasgo, OMS). Por isso C é correta.\n\nA está errada porque a meta de glicemia de jejum no diabetes gestacional é <95 mg/dL (não 100 mg/dL) segundo as diretrizes atuais. B está errada porque a ecografia seriada a partir de 20 semanas para estimar peso fetal tem utilidade clínica limitada — o controle glicêmico materno é o que realmente impacta desfechos. D está errada porque a avaliação rotineira e universal de vitalidade a partir de 30 semanas não tem evidência de reduzir mortalidade em todas as gestantes, sendo indicada em pacientes de alto risco.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Gestação de Alto Risco e Doenças Clínicas na Gestação"
+        },
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Diabetes Mellitus"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 60,
+      "tags": [
+        "PréEclâmpsia Analise as assertivas abaixo"
+      ],
+      "enunciado": "I - Na gestação, quando a pré-eclâmpsia ocorre, evidencia-se hemoconcentração progressiva, processo contrário do 2 encontrado na gestante hígida. II - A insuficiência renal grave como complicação da pré-eclâmpsia constitui evento raro, podendo ser encontrada necrose tubular ou cortical. III - Entre as complicações cerebrais mais graves relacionadas à pré-eclâmpsia, encontramos as convulsões eclâmpticas e o Acidente Vascular Hemorrágico (AVE). Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Ao contrário da gestação fisiológica, em que ocorre hemodiluição pelo aumento do volume plasmático, na pré-eclâmpsia há extravasamento de líquido do intravascular para o extravascular (por lesão endotelial e aumento da permeabilidade capilar), resultando em HEMOCONCENTRAÇÃO paradoxal — assertiva I verdadeira. A insuficiência renal grave é complicação rara mas reconhecida, podendo cursar com necrose tubular aguda ou, nos casos mais graves, necrose cortical bilateral — assertiva II verdadeira. Entre as complicações cerebrais graves estão as convulsões eclâmpticas e o AVC hemorrágico (principal causa de morte na eclâmpsia) — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem alguma das assertivas. A fisiopatologia central da pré-eclâmpsia envolve disfunção endotelial sistêmica decorrente de invasão trofoblástica inadequada das artérias espiraladas, gerando isquemia placentária, liberação de fatores antiangiogênicos (sFlt-1, endoglina) e lesão vascular materna generalizada.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Distúrbios Hipertensivos na Gestação"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 61,
+      "tags": [
+        "Tratamento Cirúrgico da ObesidadeTratamento cirúrgico da obesidade Em"
+      ],
+      "enunciado": "Em um paciente submetido à cirurgia bariátrica, é mandatório:",
+      "alternativas": {
+        "A": "Cateterização vesical.",
+        "B": "Bloqueio peridural anestésico.",
+        "C": "Perda de peso pré-operatório.",
+        "D": "Profilaxia do tromboembolismo pulmonar."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Paciente obeso submetido à cirurgia bariátrica reúne múltiplos fatores de altíssimo risco para tromboembolismo venoso: obesidade grau III, procedimento cirúrgico de grande porte, tempo operatório prolongado, imobilidade no pós-operatório e estado pró-trombótico crônico do tecido adiposo. Por isso a profilaxia de TEV (mecânica com compressão pneumática intermitente + farmacológica com heparina de baixo peso molecular) é MANDATÓRIA em todos os pacientes, sendo iniciada no pré-operatório imediato e mantida no pós-operatório. Por isso D é correta.\n\nA está errada porque cateterização vesical é opcional, dependendo do tempo cirúrgico esperado e volume de infusão, não é obrigatória. B está errada porque anestesia peridural é uma opção complementar para manejo de dor pós-operatória, mas a maioria dos procedimentos bariátricos é feita sob anestesia geral, sem peridural obrigatória. C está errada porque, embora perda ponderal pré-operatória seja desejável (reduz volume hepático e facilita a cirurgia), não é mandatória e pode ser dispensada em casos selecionados.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Obesidade e Síndrome Metabólica"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 62,
+      "tags": [
+        "Hierarquização do Atendimento e Avaliação PrimáriaCirurgia No"
+      ],
+      "enunciado": "No paciente politraumatizado, a primeira medida é garantir:",
+      "alternativas": {
+        "A": "O acesso à via aérea.",
+        "B": "O acesso venoso periférico.",
+        "C": "O acesso venoso central.",
+        "D": "A perfusão periférica."
+      },
+      "resposta_correta": "A",
+      "explicacao": "No atendimento inicial ao politraumatizado, o ATLS preconiza a sequência ABCDE como protocolo sistemático: A (Airway) — via aérea pérvia com proteção da coluna cervical; B (Breathing) — ventilação e oxigenação; C (Circulation) — controle da hemorragia e perfusão; D (Disability) — avaliação neurológica; E (Exposure) — exposição e controle térmico. O 'A' é a primeira prioridade porque obstrução de via aérea mata em minutos, antes mesmo do choque hipovolêmico se manifestar. Por isso A é correta.\n\nB e C estão erradas porque o acesso venoso, periférico ou central, pertence à etapa C (circulação), vindo depois de A e B. Não adianta ter dois acessos calibrosos se o paciente está sem via aérea e não ventila. D está errada porque avaliação da perfusão periférica também é parte do C, e não antecede a via aérea. A ordem ABCDE é absoluta e deve ser seguida sistematicamente em todo politraumatizado, repetindo a avaliação a cada nova mudança clínica.",
+      "topicos": [
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Trauma"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Trauma"
+        }
+      ],
+      "area": "Medicina de Urgência e Terapia Intensiva"
+    },
+    {
+      "numero": 64,
+      "tags": [
+        "Neoplasia Maligna Sólida do Pâncreas"
+      ],
+      "enunciado": "Em relação ao câncer de pâncreas, é correto afirmar que:",
+      "alternativas": {
+        "A": "Os tumores de corpo e cauda produzem icterícia precocemente.",
+        "B": "A dor abdominal não é um sintoma comum.",
+        "C": "O emagrecimento pode ser devido à compressão duodenal.",
+        "D": "O bloqueio anestésico de plexo celíaco está contraindicado."
+      },
+      "resposta_correta": "C",
+      "explicacao": "No câncer de pâncreas, o emagrecimento expressivo é sintoma cardinal e pode decorrer de múltiplos mecanismos: redução da ingesta por anorexia e saciedade precoce (frequentemente agravada por compressão duodenal quando o tumor acomete a cabeça pancreática, causando obstrução gastroduodenal parcial), má absorção por insuficiência pancreática exócrina (destruição de parênquima), e síndrome paraneoplásica consumptiva. A compressão duodenal pela massa pancreática é, portanto, uma das causas diretas do emagrecimento. Por isso C é correta.\n\nA está errada porque icterícia precoce é característica de tumores de CABEÇA do pâncreas (compressão do ducto biliar comum), não de corpo e cauda, que costumam ser silenciosos e se apresentar tardiamente. B está errada porque dor abdominal em epigástrio com irradiação para dorso é sintoma muito comum, ocorrendo em mais de 80% dos casos avançados. D está errada porque o bloqueio anestésico do plexo celíaco é indicado como analgesia paliativa em dor refratária do câncer pancreático, sendo técnica consagrada e sem contraindicação nessa população.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Câncer Gástrico e Esofágico"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer Gástrico e Esofágico"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 65,
+      "tags": [
+        "Aterosclerose e Doença Arterial Coronariana"
+      ],
+      "enunciado": "Segundo a anatomia cardíaca, o triângulo de Koch é formado por quais estruturas?",
+      "alternativas": {
+        "A": "Folheto septal da valva tricúspide, tendão de Todaro e seio coronário.",
+        "B": "Folheto posterior da valva tricúspide, válvula de Eustáquio e seio coronário.",
+        "C": "Folheto anterior da valva tricúspide, tendão de Todaro e válvula de Eustáquio.",
+        "D": "Folheto anterior da valva tricúspide, válvula de Eustáquio e seio coronário."
+      },
+      "resposta_correta": "A",
+      "explicacao": "O triângulo de Koch é uma referência anatômica no átrio direito delimitada por três estruturas: o folheto septal da valva tricúspide (que forma a base), o tendão de Todaro (prolongamento fibroso entre o óstio do seio coronário e o corpo fibroso central) e o óstio do seio coronário. Dentro desse triângulo localiza-se o NÓ ATRIOVENTRICULAR, o que torna essa referência crítica em eletrofisiologia — é a zona a ser evitada em ablações para não induzir bloqueio AV. Por isso A é correta.\n\nB está errada porque a válvula de Eustáquio é relacionada ao óstio da veia cava inferior e não forma limite do triângulo de Koch. C está errada porque combina folheto anterior (não septal) e válvula de Eustáquio, estruturas que não delimitam esse triângulo. D está errada pela mesma razão de C e B, misturando referências anatômicas de outras regiões do átrio direito. O conhecimento do triângulo de Koch é obrigatório para quem atua em eletrofisiologia e cirurgia cardíaca.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Síndrome Coronariana Aguda (Angina, IAM)"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 66,
+      "tags": [
+        "Definição e classificação"
+      ],
+      "enunciado": "Uma das classificações utilizadas para avaliarmos dissecção de aorta é a de DeBakey.",
+      "alternativas": {
+        "A": "a aorta ascendente e a aorta descendente.",
+        "B": "somente a aorta ascendente.",
+        "C": "toda a aorta descendente (torácica e abdominal).",
+        "D": "um segmento da aorta descendente (somente torácica)."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A classificação de DeBakey para dissecção aórtica tem três tipos: Tipo I envolve aorta ascendente e descendente; Tipo II envolve apenas aorta ascendente; Tipo III envolve apenas aorta descendente, podendo ser IIIa (somente torácica) ou IIIb (torácica e abdominal). Pela leitura da pergunta, a alternativa D descreve o Tipo IIIa — um segmento da aorta descendente, somente torácica. Por isso D é considerada correta no gabarito.\n\nA está errada porque envolver ambas ascendente e descendente define o Tipo I, não uma variante isolada. B está errada porque a dissecção isolada da aorta ascendente é o Tipo II. C está errada porque acometer toda a descendente (torácica + abdominal) corresponde ao Tipo IIIb. Vale lembrar a classificação alternativa de Stanford, mais usada clinicamente: tipo A (envolve ascendente, indicação cirúrgica) e tipo B (só descendente, manejo clínico inicial com controle pressórico e da frequência cardíaca).",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Emergências Cardiovasculares"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 67,
+      "tags": [
+        "Estimativa da Superfície Corpórea Queimada e CirculaçãoCirurgia Segundo a regra dos nove utilizada para"
+      ],
+      "enunciado": "Segundo a regra dos nove utilizada para pacientes queimados, qual seria a estimativa da extensão da queimadura pela área de superfície corporal para um paciente adulto, com queimaduras envolvendo toda a cabeça e tronco anterior?",
+      "alternativas": {
+        "A": "09%.",
+        "B": "18%.",
+        "C": "27%.",
+        "D": "36%."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A regra dos 9 de Wallace para estimativa da superfície corporal queimada em adultos atribui: cabeça e pescoço = 9%; tronco anterior = 18%; tronco posterior = 18%; cada membro superior = 9%; cada membro inferior = 18%; genitália/períneo = 1% (total de 100%). Para um paciente adulto com queimaduras envolvendo toda a cabeça (9%) e todo o tronco anterior (18%), a soma é 9 + 18 = 27% de superfície corporal queimada. Por isso C é correta.\n\nA está errada porque 9% corresponderia apenas à cabeça. B está errada porque 18% corresponderia apenas ao tronco anterior. D está errada porque 36% seria tronco anterior + tronco posterior. A estimativa correta da SCQ é crítica porque determina a reposição volêmica pela fórmula de Parkland (4 mL × peso × %SCQ de Ringer lactato nas primeiras 24 horas, metade nas primeiras 8 horas). Em crianças pequenas usa-se a regra dos 9 modificada (cabeça proporcionalmente maior).",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Trauma"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 68,
+      "tags": [
+        "Risco Cirúrgico Segundo a American Society of Anesthesiology (ASA),"
+      ],
+      "enunciado": "Segundo a American Society of Anesthesiology (ASA), um paciente com doença sistêmica grave que resulta em comprometimento funcional (diabetes melito com complicações vasculares, infarto prévio e hipertensão não controlada) seria classificado como:",
+      "alternativas": {
+        "A": "ASA I.",
+        "B": "ASA II.",
+        "C": "ASA IV.",
+        "D": "ASA V."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A classificação ASA (American Society of Anesthesiology) estratifica o risco anestésico em 6 categorias: ASA I (saudável); ASA II (doença sistêmica LEVE, controlada, sem limitação funcional — HAS controlada, DM sem complicações, obesidade leve); ASA III (doença sistêmica GRAVE com limitação funcional — DM com complicações, IAM prévio, HAS não controlada, DPOC moderado); ASA IV (doença sistêmica grave com ameaça constante à vida); ASA V (moribundo); ASA VI (morte encefálica, doador de órgãos). O paciente descrito (DM complicado, IAM prévio, HAS não controlada) seria tecnicamente ASA III.\n\nNo entanto, o gabarito indica B (ASA II), possivelmente por interpretação diferente da banca ou por erro do gabarito. As alternativas A, C e D estão erradas pelo gabarito. Na prática, para memorização: ASA I = saudável; ASA II = doença leve sem limitação; ASA III = doença grave COM limitação; ASA IV = doença grave ameaça constante à vida; ASA V = moribundo.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 69,
+      "tags": [
+        "Complicações das Hernioplastias"
+      ],
+      "enunciado": "Paciente procura avaliação na Unidade Básica de Saúde, no 3º mês pós-operatório de hernioplastia inguinal pela técnica de Lichtenstein, por apresentar hipoestesia cutânea inferiormente à cicatriz e endurecimento da região à palpação. Durante o exame físico, paciente está afebril e sem alterações à inspeção. À palpação, é possível sentir discreto aumento de consistência de toda a região inguinal, indolor e sem alteração à movimentação e ao esforço físico abdominal. Testículos normais bilateralmente. Qual é a hipótese diagnóstica mais provável?",
+      "alternativas": {
+        "A": "Fibroplasia normal da tela.",
+        "B": "Recidiva da hérnia.",
+        "C": "Infecção do sítio cirúrgico tardia por corpo estranho.",
+        "D": "Rejeição da tela."
+      },
+      "resposta_correta": "A",
+      "explicacao": "No pós-operatório de hernioplastia inguinal pela técnica de Lichtenstein (uso de tela de polipropileno sem tensão), a fibroplasia é a resposta tecidual normal de incorporação da tela: o organismo forma uma rede de fibras colágenas ao redor e através da malha, resultando em endurecimento palpável da região inguinal. Esse processo é esperado nos primeiros 3-6 meses e pode ser acompanhado de hipoestesia cutânea por compressão dos nervos ilioinguinal e iliohipogástrico, também esperada e geralmente transitória. Por isso A é correta.\n\nB está errada porque a recidiva de hérnia se manifesta por abaulamento progressivo ao esforço, não por endurecimento difuso. C está errada porque infecção de sítio cirúrgico tardia por corpo estranho cursa com sinais flogísticos (eritema, dor, calor) e eventualmente fístula — ausentes no caso. D está errada porque rejeição à tela de polipropileno é extremamente rara (material inerte) e se manifestaria com inflamação importante, não apenas endurecimento indolor.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Hérnias"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 70,
+      "tags": [
+        "Doença de Caroli"
+      ],
+      "enunciado": "O exame padrão-ouro para o diagnóstico de Doença de Caroli é:",
+      "alternativas": {
+        "A": "Colangiopancreatografia retrógrada endoscópica.",
+        "B": "Ultrassonografia abdominal total.",
+        "C": "Tomografia computadorizada com contraste.",
+        "D": "Tomografia computadorizada sem contraste. 2"
+      },
+      "resposta_correta": "A",
+      "explicacao": "A Doença de Caroli é uma malformação congênita autossômica recessiva caracterizada por dilatações císticas segmentares das vias biliares intra-hepáticas, sem dilatação das vias extra-hepáticas. O diagnóstico requer demonstração direta da comunicação entre as dilatações e a árvore biliar, e o exame padrão-ouro historicamente é a colangiopancreatografia retrógrada endoscópica (CPRE), que permite opacificação dos ductos dilatados. Atualmente, a colangiorressonância é alternativa menos invasiva e igualmente sensível. Por isso A é correta pelo gabarito.\n\nB está errada porque a ultrassonografia abdominal é útil como triagem inicial (detecta as dilatações císticas intra-hepáticas) mas não é padrão-ouro, pois não permite avaliação detalhada da conexão com a árvore biliar. C está errada porque a TC com contraste mostra as dilatações como 'central dot sign' (artéria portal central dentro do cisto), mas também não é padrão-ouro. D está errada porque a TC sem contraste é ainda menos sensível e específica que a TC contrastada.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Colelitíase e Doenças das Vias Biliares"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 71,
+      "tags": [
+        "Anatomia da Região InguinalApresentação ClínicaFisiopatologia"
+      ],
+      "enunciado": "Um paciente apresenta hérnia inguinoescrotal. Essa hérnia decorre do alargamento/defeito de qual das seguintes estruturas?",
+      "alternativas": {
+        "A": "Anel inguinal profundo.",
+        "B": "Anel inguinal superficial.",
+        "C": "Anel femoral.",
+        "D": "Trígono de Hasselbach."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A hérnia inguinal INDIRETA (oblíqua externa) é a mais comum no adulto jovem e em crianças, decorrente da persistência do conduto peritoneovaginal (embrionário) ou de defeito no anel inguinal profundo (interno). O conteúdo herniário segue o trajeto embrionário do testículo, percorrendo todo o canal inguinal e podendo atingir o escroto — por isso é chamada inguinoescrotal. A hérnia indireta é sempre por defeito do anel inguinal profundo. Por isso A é correta.\n\nB está errada porque o anel inguinal superficial é a saída do canal inguinal e é ponto de emergência para hérnias já formadas, não a origem anatômica. C está errada porque o anel femoral é a porta de entrada da hérnia femoral (crural), abaixo do ligamento inguinal, que não atinge o escroto. D está errada porque o trígono de Hesselbach (delimitado pela artéria epigástrica inferior, músculo reto abdominal e ligamento inguinal) é o local da hérnia inguinal DIRETA, que se projeta diretamente pela parede posterior do canal inguinal e raramente alcança o escroto.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Hérnias"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 72,
+      "tags": [
+        "Colangite AgudaCirurgia"
+      ],
+      "enunciado": "I - A maioria dos casos são causados por enterobactérias. II - Deve-se indicar, o quanto antes possível, drenagem de via biliar. III - A tríade de Charcot está presente na maioria dos pacientes com colangite aguda. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas III.",
+        "B": "Apenas I e II.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A colangite aguda (ou bacteriana ascendente) é causada predominantemente por enterobactérias da flora intestinal que ascendem pelas vias biliares, sendo os agentes mais comuns Escherichia coli (50%), Klebsiella, Enterobacter, Enterococcus e anaeróbios (Bacteroides) — assertiva I verdadeira. O tratamento depende de duas pilares: antibioticoterapia de amplo espectro E drenagem biliar precoce (CPRE com papilotomia e retirada do cálculo ou próteses), cuja demora aumenta a mortalidade significativamente — assertiva II verdadeira. Por isso B é correta.\n\nA assertiva III é falsa porque a clássica tríade de Charcot (febre, icterícia e dor em hipocôndrio direito) só está presente em cerca de 50-70% dos casos — não na 'maioria' de forma absoluta. A pêntade de Reynolds (tríade + hipotensão + alteração do estado mental) é ainda menos frequente (<15%) e indica colangite grave com indicação de drenagem urgente. As alternativas A, C e D estão incorretas por contradizerem essa composição.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Colelitíase e Doenças das Vias Biliares"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 73,
+      "tags": [
+        "Manifestações Clínicas e Exame FísicoCirurgia"
+      ],
+      "enunciado": "Em relação à semiologia do abdome agudo vascular, qual o achado mais frequente?",
+      "alternativas": {
+        "A": "Distensão abdominal.",
+        "B": "Hematoquezia.",
+        "C": "Início súbito da dor.",
+        "D": "Hematêmese."
+      },
+      "resposta_correta": "C",
+      "explicacao": "O abdome agudo vascular (isquemia mesentérica aguda), causado principalmente por embolia da artéria mesentérica superior, trombose arterial ou trombose venosa mesentérica, tem como achado clínico mais característico a DOR ABDOMINAL DE INÍCIO SÚBITO, intensa, difusa e desproporcional ao exame físico (o paciente se contorce de dor, mas o abdome inicialmente apresenta-se pouco distendido e sem peritonismo). Esse 'pain out of proportion' é o sinal clássico e precoce. Por isso C é correta.\n\nA está errada porque distensão abdominal é achado tardio, surgindo após horas de isquemia e quando o intestino já está gangrenado. B está errada porque hematoquezia também é achado tardio, quando há necrose transmural com sangramento para a luz intestinal. D está errada porque hematêmese não é característica da isquemia mesentérica — é mais típica de sangramento do trato digestivo alto por úlcera ou varizes. O diagnóstico precoce é fundamental: angiotomografia de urgência e revascularização podem evitar ressecção intestinal extensa.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Vascular"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 74,
+      "tags": [
+        "Complicações As fístulas intestinais são complicações que podem ocorrer após anastomoses ou quadros inflamatórios agudos."
+      ],
+      "enunciado": "As fístulas intestinais são complicações que podem ocorrer após anastomoses ou quadros inflamatórios agudos. Em relação à fístula colovesical, qual a etiologia mais frequente?",
+      "alternativas": {
+        "A": "Diverticulite aguda.",
+        "B": "Tuberculose intestinal.",
+        "C": "Doença de Crohn.",
+        "D": "Retocolite ulcerativa."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A fístula colovesical é uma comunicação anômala entre o cólon sigmoide e a bexiga, manifestando-se com pneumatúria, fecalúria e infecções urinárias recorrentes e polimicrobianas. A causa mais frequente é a DIVERTICULITE AGUDA COMPLICADA, em razão da grande proximidade anatômica entre o sigmoide e a cúpula vesical, com rotura do abscesso diverticular em direção à bexiga. Responde por cerca de 65-80% dos casos. Por isso A é correta.\n\nB está errada porque tuberculose intestinal pode causar fístulas, mas é rara como origem de fístula colovesical em nosso meio. C está errada porque a doença de Crohn é a segunda causa mais comum (cerca de 10-20% das fístulas colovesicais), por sua tendência a formar trajetos fistulosos transmurais, mas ainda assim é menos frequente que a diverticulite. D está errada porque a retocolite ulcerativa é doença limitada à mucosa e raramente fistuliza para estruturas adjacentes, sendo causa excepcional.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Doenças Inflamatórias Intestinais"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Doenças Benignas do Cólon"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 77,
+      "tags": [
+        "Avaliação PréOperatóriaCirurgia"
+      ],
+      "enunciado": "Em relação à avaliação pré-operatória de um paciente previamente hígido de 50 anos que vai ser submetido a uma colecistectomia por videolaparoscopia, qual exame, dos citados abaixo, é indispensável?",
+      "alternativas": {
+        "A": "Triglicerídeos.",
+        "B": "Bilirrubinas.",
+        "C": "Tempo de protrombina.",
+        "D": "Gasometria arterial."
+      },
+      "resposta_correta": "B",
+      "explicacao": "No preparo pré-operatório de colecistectomia videolaparoscópica em paciente hígido de 50 anos, o exame laboratorial indispensável entre os citados é a dosagem de BILIRRUBINAS, porque a colecistectomia é indicada para doença biliar (colelitíase sintomática) e é essencial descartar coledocolitíase ou outras causas de obstrução biliar que modificariam a conduta cirúrgica (necessidade de CPRE pré-operatória ou colangiografia intraoperatória). Por isso B é correta.\n\nA está errada porque triglicerídeos não têm relação com a indicação cirúrgica da colecistectomia nem com o planejamento operatório. C está errada porque tempo de protrombina não é exame de rotina pré-operatória em paciente sem suspeita de hepatopatia ou distúrbio de coagulação; é solicitado apenas em pacientes com fatores de risco. D está errada porque gasometria arterial é exame invasivo reservado para pacientes com comprometimento pulmonar ou metabólico, não rotineiramente indicado em cirurgia eletiva de baixo risco como a colecistectomia videolaparoscópica em paciente hígido.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        },
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Colelitíase e Doenças das Vias Biliares"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 78,
+      "tags": [
+        "Tratamento do Adenocarcinoma Gástrico 2 O câncer gástrico tem a disseminação linfática como predominante. Entre as cadeias linfáticas, uma das mais acometidas é a do grupo 12, da Artéria Hepática Comum (AHC). De"
+      ],
+      "enunciado": "O câncer gástrico tem a disseminação linfática como predominante. Entre as cadeias linfáticas, uma das mais acometidas é a do grupo 12, da Artéria Hepática Comum (AHC). De qual vaso ou estrutura vascular a AHC é originada?",
+      "alternativas": {
+        "A": "Artéria hepática própria.",
+        "B": "Artéria pancreaticoduodenal.",
+        "C": "Tronco celíaco.",
+        "D": "Artéria gástrica direita."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A artéria hepática comum (AHC) origina-se do TRONCO CELÍACO, um dos três principais ramos viscerais da aorta abdominal. O tronco celíaco emerge da aorta abdominal logo abaixo do hiato diafragmático e divide-se em três ramos terminais: artéria gástrica esquerda, artéria hepática comum e artéria esplênica. A AHC, por sua vez, origina a artéria gastroduodenal e continua como artéria hepática própria. Por isso C é correta.\n\nA está errada porque a artéria hepática PRÓPRIA é ramo da AHC, e não o contrário — é a AHC que origina a hepática própria, não o inverso. B está errada porque a artéria pancreaticoduodenal é ramo da gastroduodenal (que é ramo da AHC), portanto situa-se a jusante no fluxo arterial. D está errada porque a artéria gástrica direita é ramo da AHC ou da hepática própria, nunca o contrário. Conhecer essa anatomia é fundamental para cirurgia gástrica oncológica, já que a linfadenectomia D2 inclui o grupo 12 (pedículo hepático) e obriga a dissecção cuidadosa desse pedículo vascular.",
+      "topicos": [
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer Gástrico e Esofágico"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Câncer Gástrico e Esofágico — cirúrgico"
+        }
+      ],
+      "area": "Oncologia"
+    },
+    {
+      "numero": 79,
+      "tags": [
+        "Fatores de Risco para Cicatrização Anormal"
+      ],
+      "enunciado": "I - Deficiência de vitaminas. II - Isquemia. III - Diabetes melito. Quais estão corretos?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Todos os três fatores listados comprometem a cicatrização de feridas e devem ser corrigidos sempre que possível no perioperatório. Deficiências vitamínicas, especialmente de vitamina C (cofator da prolil-hidroxilase, essencial para síntese de colágeno) e vitamina A (necessária para diferenciação epitelial), prejudicam a fase proliferativa — assertiva I verdadeira. Isquemia local reduz aporte de oxigênio e nutrientes ao leito da ferida, impedindo proliferação fibroblástica e síntese de matriz — assertiva II verdadeira. Diabetes mellitus compromete microcirculação, disfunção neutrofílica, glicosilação do colágeno e resposta imune — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem algum dos fatores. Outros fatores importantes incluem: corticoterapia (inibe fases inicial e proliferativa), tabagismo (vasoconstrição e hipoxia), infecção local, radioterapia prévia, desnutrição (deficiência proteica) e idade avançada. Na prática clínica todos devem ser identificados e corrigidos antes de procedimentos cirúrgicos eletivos sempre que possível.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 81,
+      "tags": [
+        "DiagnosticoProbabilidade pré teste"
+      ],
+      "enunciado": "Escores de risco são usados para avaliar a probabilidade diagnóstica de tromboembolismo pulmonar. 2 Para o cálculo do Escore de Wells, são critérios avaliados, EXCETO:",
+      "alternativas": {
+        "A": "Taquicardia (>100 bpm).",
+        "B": "Presença de hemoptise.",
+        "C": "Taquipneia de início súbito.",
+        "D": "Presença de malignidade."
+      },
+      "resposta_correta": "C",
+      "explicacao": "O Escore de Wells para probabilidade de tromboembolismo pulmonar inclui sete critérios: sinais clínicos de TVP (3 pontos), diagnóstico alternativo menos provável que TEP (3 pontos), frequência cardíaca > 100 bpm (1,5 ponto), imobilização ou cirurgia nas 4 semanas prévias (1,5 ponto), TEP ou TVP prévios (1,5 ponto), hemoptise (1 ponto) e neoplasia ativa (1 ponto). Taquipneia NÃO é critério do escore, apesar de ser um dos sinais clínicos mais sensíveis de TEP. Por isso C é correta como a alternativa EXCETO.\n\nA está errada como opção porque taquicardia > 100 bpm é critério explícito do escore. B está errada porque hemoptise é critério do escore. D está errada porque malignidade ativa é critério do escore. Outros escores como Geneva revisado incluem outros critérios clínicos. O Wells simplifica em duas estratos: ≤4 pontos = TEP improvável (proceder com D-dímero) ou >4 pontos = TEP provável (proceder diretamente com angiotomografia pulmonar).",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "Tromboembolismo Pulmonar (TEP)"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 83,
+      "tags": [
+        "NeurotoxoplasmoseUveíte por Toxoplasmose"
+      ],
+      "enunciado": "Em relação às manifestações clínicas da toxoplasmose adquirida, analise as assertivas abaixo: I. A linfadenopatia geralmente é bilateral e simétrica em imunocompetentes. II. Miocardite e encefalite são apresentações exclusivas de imunossuprimidos. III. A coriorretinite com perda visual ocorre quando há comprometimento macular. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e II.",
+        "B": "Apenas I e III.",
+        "C": "Apenas II e III.",
+        "D": "I, II e III."
+      },
+      "resposta_correta": "D",
+      "explicacao": "Na toxoplasmose adquirida em imunocompetente, a manifestação mais comum é linfadenopatia, tipicamente cervical posterior, bilateral e simétrica, com linfonodos móveis, indolores e sem sinais inflamatórios — assertiva I verdadeira. Miocardite e encefalite podem ocorrer e são mais frequentes em imunossuprimidos, embora eventualmente acometam imunocompetentes em formas graves — o gabarito considerou a assertiva II verdadeira. A coriorretinite por toxoplasmose causa perda visual importante quando o comprometimento envolve a região macular, onde se localiza a visão central de alta acuidade — assertiva III verdadeira. Por isso D é correta.\n\nAs alternativas A, B e C estão erradas por excluírem alguma assertiva. Na prática clínica, a toxoplasmose em imunocompetente costuma ser autolimitada com sintomas gripais e linfadenopatia, mas deve-se atentar para a forma congênita (gestante primo-infectada) e reativação em pacientes com HIV, onde predomina a forma encefálica com lesões anelares múltiplas na neuroimagem.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Parasitoses Sistêmicas"
+        },
+        {
+          "area": "Neurologia",
+          "subtopico": "Neuroinfecções"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 84,
+      "tags": [
+        "Tratamento farmacológico da insuficiência cardíaca com fração de ejeção reduzida"
+      ],
+      "enunciado": "Entre as drogas usadas no tratamento da insuficiência cardíaca com fração de ejeção reduzida, algumas reduzem a mortalidade, quais sejam: I - Inibidores da enzima conversora. II - Digoxina. 2 III - Antagonistas da aldosterona. IV - Diuréticos de alça. V - Betabloqueadores. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I, II e III.",
+        "B": "Apenas I, III e V.",
+        "C": "Apenas II, III e IV.",
+        "D": "Apenas III, IV e V."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Entre as drogas usadas na insuficiência cardíaca com fração de ejeção reduzida, apenas algumas classes têm evidência robusta de REDUÇÃO DE MORTALIDADE: IECA/BRA (inibição do sistema renina-angiotensina) — I verdadeira; betabloqueadores (carvedilol, bisoprolol, metoprolol succinato, que reduzem remodelamento) — V verdadeira; antagonistas da aldosterona (espironolactona, eplerenona) — III verdadeira. A essa tríade histórica somam-se os ARNI (sacubitril/valsartana) e os iSGLT2. Por isso B é correta (I, III e V).\n\nA assertiva II está errada porque a digoxina reduz hospitalizações mas NÃO reduz mortalidade (estudo DIG). A assertiva IV está errada porque diuréticos de alça (furosemida) melhoram sintomas congestivos mas também não alteram mortalidade — são tratamento sintomático. Por isso as alternativas A, C e D estão incorretas. Memorizar: as quatro classes com impacto em mortalidade na IC-FEr são IECA/BRA/ARNI, betabloqueadores, antagonistas da aldosterona e iSGLT2.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Insuficiência Cardíaca"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 85,
+      "tags": [
+        "Tratamento da Hipertensão arterialInibidores do sistema reninaangiotensinaaldosterona Betabloqueadores Analise as assertivas abaixo"
+      ],
+      "enunciado": "Tratamento da Hipertensão arterialInibidores do sistema reninaangiotensinaaldosterona Betabloqueadores Analise as assertivas abaixo sobre o tratamento da hipertensão arterial: I - Inibidores da enzima conversora (IECA) ou bloqueadores de receptores da angiotensina (BRA) são drogas preferenciais em hipertensos com diabetes, nefropatia e/ou disfunção ventricular. II - Nifedipina é boa opção em hipertensos com doença coronariana. III - Nos pacientes em uso de IECA que desenvolvem hiperpotassemia ou perda de função renal, pode-se trocar a droga por BRA. IV - Betabloqueadores e tiazídicos se associam a aumento da incidência de diabetes e disfunção erétil. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e III.",
+        "B": "Apenas I e IV.",
+        "C": "Apenas II e III.",
+        "D": "Apenas II e IV."
+      },
+      "resposta_correta": "A",
+      "explicacao": "Os IECA e BRA são as drogas preferenciais em hipertensos com diabetes, nefropatia (proteinúria) e/ou disfunção ventricular pelo efeito nefroprotetor (redução da pressão intraglomerular) e cardioprotetor (redução do remodelamento) — assertiva I verdadeira. Pacientes que desenvolvem tosse por IECA podem ser trocados para BRA (mesma classe terapêutica, sem o acúmulo de bradicinina responsável pela tosse); entretanto, em caso de hiperpotassemia ou queda da TFG, a mudança de IECA para BRA não resolve o problema, já que ambos bloqueiam o SRAA — aqui o gabarito considerou III verdadeira, o que é tecnicamente questionável. Por isso A é a resposta oficial.\n\nA assertiva II está errada porque a nifedipina de liberação rápida é contraindicada em doença coronariana pelo efeito pró-isquêmico (taquicardia reflexa); só a forma de liberação prolongada pode ser usada. A assertiva IV está errada porque a combinação betabloqueador + tiazídico pode aumentar o risco de diabetes, mas disfunção erétil é efeito dos betabloqueadores isoladamente. Por isso B, C e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Hipertensão Arterial Sistêmica"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 86,
+      "tags": [
+        "Quadro clínicoDiagnóstico"
+      ],
+      "enunciado": "Homem, 25 anos, com histórico de drogadição e abandono de tratamento do HIV, procura emergência por cefaleia holocraniana e de forte intensidade há mais de 1 semana e febre. Exames laboratoriais evidenciam anemia e linfopenia, e a TC de crânio com contraste não apresenta lesões.",
+      "alternativas": {
+        "A": "Encefalite herpética - eletroencefalograma.",
+        "B": "Meningite bacteriana - análise de líquor.",
+        "C": "Meningite criptocócica - análise de líquor.",
+        "D": "Neurotoxoplasmose - RNM de encéfalo."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Paciente HIV+ com abandono de tratamento (imunossupressão grave), cefaleia holocraniana intensa e febre há mais de uma semana, com TC de crânio sem lesões focais, é quadro clássico de MENINGITE CRIPTOCÓCICA causada por Cryptococcus neoformans. O diagnóstico é feito pela análise do líquor: tinta da China evidencia as leveduras encapsuladas, antígeno criptocócico (CrAg) tem alta sensibilidade e especificidade, e cultura confirma a identificação. Por isso C é correta.\n\nA está errada porque encefalite herpética tem evolução mais aguda (dias), com alterações de comportamento, crises convulsivas e achados focais em lobo temporal na RM, sendo EEG útil mas não principal. B está errada porque meningite bacteriana clássica (pneumocócica, meningocócica) tem evolução hiperaguda com rigidez de nuca intensa e está associada a alta morbimortalidade em horas. D está errada porque neurotoxoplasmose apresenta múltiplas lesões anelares captantes de contraste (lesões em 'alvo') na TC/RM com edema perilesional, o que foi excluído pela TC normal.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "HIV/AIDS"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Fungoses e Infecções Oportunistas"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 87,
+      "tags": [
+        "Reposição oral de ferroTratamentoAvaliação de resposta ao tratamento da anemia ferropriva"
+      ],
+      "enunciado": "Sobre anemia ferropriva, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O tratamento com gluconato de ferro é superior ao tratamento com sulfato de ferro.",
+        "B": "A resposta ao tratamento geralmente é rápida, e o aumento da hemoglobina começa aser observado 7 a 10 dias após o início do tratamento.",
+        "C": "A resposta ao tratamento geralmente é rápida, e o aumento dos reticulócitos começaa ser observado 14 a 18 dias após início do tratamento.",
+        "D": "A resposta ao tratamento geralmente é rápida, e os pacientes apresentam normalização da hemoglobina 14 a 21 dias após o início do tratamento."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Na anemia ferropriva tratada adequadamente com sal de ferro oral (sulfato ferroso, 3-5 mg/kg/dia de ferro elementar em adultos), a resposta clínica é previsível e deve ser monitorada: a crise reticulocitária inicia-se em 3-5 dias, atingindo pico em 7-10 dias, e o aumento da hemoglobina começa a ser observado a partir de 7-10 dias após o início do tratamento, com incremento esperado de cerca de 1 g/dL a cada 2-4 semanas. A normalização completa da hemoglobina ocorre em 6-8 semanas, mas o tratamento deve ser mantido por 3-6 meses adicionais para repleção dos estoques de ferritina. Por isso B é correta.\n\nA está errada porque o gluconato de ferro tem menor teor de ferro elementar e maior custo que o sulfato ferroso, sem superioridade comprovada. C está errada porque o pico de reticulócitos ocorre em 7-10 dias, não 14-18. D está errada porque a normalização da hemoglobina demora 6-8 semanas, não 14-21 dias; esperar normalização em 3 semanas é expectativa irreal e pode levar à falsa interpretação de falha terapêutica.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Anemias"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 88,
+      "tags": [
+        "Insuficiência adrenal secundária"
+      ],
+      "enunciado": "Na diferenciação da insuficiência adrenal primária da secundária, é correto afirmar que:",
+      "alternativas": {
+        "A": "A hiperpigmentação da pele e das mucosas é sugestiva de insuficiência adrenalsecundária.",
+        "B": "Os níveis de hormônios mineralocorticoides são geralmente normais na insuficiênciaadrenal secundária.",
+        "C": "Hipercalemia é usualmente severa na insuficiência adrenal secundária e leve naprimária.",
+        "D": "Um valor de ACTH entre 10 a 20 pg/ml e de cortisol sérico < 2 μg/dl sugerefortemente insuficiência adrenal primária."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Na insuficiência adrenal secundária (por lesão hipofisária), há deficiência isolada de ACTH, com baixa produção de cortisol. Entretanto, o eixo mineralocorticoide é regulado principalmente pelo sistema renina-angiotensina-aldosterona, independente do ACTH, razão pela qual os níveis de aldosterona permanecem NORMAIS na insuficiência secundária. Por isso B é correta. Essa é a diferença-chave com a insuficiência primária (Addison), na qual há destruição da adrenal com deficiência combinada de glico e mineralocorticoides.\n\nA está errada porque a hiperpigmentação cutânea e de mucosas é característica da insuficiência PRIMÁRIA (excesso de ACTH e MSH pela ausência de retroalimentação negativa do cortisol), não da secundária (onde o ACTH está baixo). C está errada porque a hipercalemia é achado da primária (deficiência de aldosterona), não da secundária. D está errada porque ACTH baixo com cortisol baixo sugere causa SECUNDÁRIA (hipofisária), enquanto na primária o ACTH está elevado (>100 pg/mL) com cortisol baixo.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Distúrbios da Suprarrenal"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 89,
+      "tags": [
+        "Abstinência de ÁlcoolDelirium Tremens São medicamentos que apresentam maior chance de evitar o desenvolvimento de delirium tremens em"
+      ],
+      "enunciado": "São medicamentos que apresentam maior chance de evitar o desenvolvimento de delirium tremens em um paciente etilista pesado (2 litros de destilados ao dia) que deseja parar de consumir álcool. I - Benzodiazepínicos (diazepam ou lorazepam). II - Antidepressivos (fluoxetina ou imipramina). III - Barbitúricos (fenobarbital). Quais estão corretos?",
+      "alternativas": {
+        "A": "Apenas I.",
+        "B": "Apenas III.",
+        "C": "Apenas I e II.",
+        "D": "Apenas II e III."
+      },
+      "resposta_correta": "A",
+      "explicacao": "No manejo da síndrome de abstinência alcoólica em etilista pesado, apenas os BENZODIAZEPÍNICOS (diazepam, lorazepam, oxazepam) têm evidência robusta de redução de convulsões e delirium tremens. Eles atuam como agonistas GABAérgicos substituindo o efeito que o álcool exercia sobre o sistema GABA, evitando a hiperexcitabilidade noradrenérgica e glutamatérgica da abstinência. Por isso A é correta.\n\nA assertiva II está errada porque antidepressivos (fluoxetina, imipramina) não têm papel na fase aguda de abstinência alcoólica; seu uso é para depressão associada ao alcoolismo, não para prevenir delirium tremens. A assertiva III está errada porque barbitúricos como fenobarbital, embora eficazes, têm janela terapêutica estreita, maior risco de depressão respiratória e toxicidade, sendo reservados para casos refratários aos benzodiazepínicos em ambiente de UTI, não como primeira escolha. Por isso B, C e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Psiquiatria",
+          "subtopico": "Transtornos por Uso de Substâncias"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Distúrbios Metabólicos Agudos"
+        }
+      ],
+      "area": "Psiquiatria"
+    },
+    {
+      "numero": 90,
+      "tags": [
+        "TratamentoVigilânciaEsôfago de Barrett"
+      ],
+      "enunciado": "Homem, 57 anos, realizou Endoscopia Digestiva Alta (EDA) para avaliação de sintomas de epigastralgia e refluxo gastroesofágico, cujo resultado evidenciou esôfago de Barrett. Sobre essa condição, é correto afirmar que:",
+      "alternativas": {
+        "A": "Alterações como esôfago de Barrett não estão associadas a um aumento de desenvolvimento de adenocarcinoma de esôfago.",
+        "B": "Pacientes com esôfago de Barrett sem displasia devem ser submetidos a exames periódicos entre 3 a 5 anos ou se houver mudanças nos sintomas.",
+        "C": "Pacientes com esôfago de Barrett com displasia de alto grau confirmado pelo patologista devem ser ressubmetidos a nova EDA em até 2 anos.",
+        "D": "As técnicas ablativas de mucosa do esôfago de Barret como a ablação por radiofrequência vêm sendo fortemente desaconselhadas nos últimos anos."
+      },
+      "resposta_correta": "B",
+      "explicacao": "No esôfago de Barrett SEM displasia, a recomendação atual das diretrizes (ACG, AGA) é realizar endoscopia digestiva alta de vigilância a cada 3 a 5 anos, ou antes em caso de mudança de sintomas. O objetivo da vigilância é detectar precocemente a progressão para displasia ou adenocarcinoma esofágico, cujo risco é de cerca de 0,3% ao ano em Barrett sem displasia. Por isso B é correta.\n\nA está errada porque o esôfago de Barrett (metaplasia intestinal no esôfago distal) está classicamente associado a aumento do risco de adenocarcinoma esofágico — é considerado lesão precursora. C está errada porque displasia de alto grau confirmada requer tratamento endoscópico com ablação por radiofrequência ou ressecção endoscópica da mucosa, não apenas 'nova EDA em 2 anos', que seria conduta insuficiente diante de lesão pré-neoplásica de alto risco. D está errada porque a ablação por radiofrequência é tratamento consagrado e recomendado para displasia de alto grau e adenocarcinoma intramucoso, não está sendo desaconselhada.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Doenças do Esôfago"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer Gástrico e Esofágico"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 91,
+      "tags": [
+        "TratamentoOutras medidas para tratamento da hiperuricemia e gotaGota"
+      ],
+      "enunciado": "Paciente de 56 anos, hipertenso (em uso de losartana), procura atendimento médico por aumento do ácido úrico. Segundo informa, tem um irmão (69 anos) com história de urolitíase. Nega história de litíase ou artralgias. Ao exame físico, apresentava-se em BEG, IMC 32 kg/m², ausência de anormalidades articulares ou presença de tofos, sendo o restante do exame dentro dos limites da normalidade. Exames trazidos pelo paciente ácido úrico: 7,3 mg/dL (VN 2,5-7,0); US de aparelho urinário sem anormalidades. Diante da presença de hiperuricemia assintomática, qual a opção de tratamento inicial?",
+      "alternativas": {
+        "A": "Colchicina 1.2 mg ao dia por VO.",
+        "B": "Alopurinol 100 mg ao dia por VO.",
+        "C": "Alopurinol em dose baixa (50 mg ao dia por VO).",
+        "D": "Não deve ser tratado."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A hiperuricemia assintomática, ou seja, ácido úrico elevado SEM evidência de gota (ausência de artrite, tofos, nefrolitíase úrica ou nefropatia), NÃO deve ser tratada com medicamentos hipouricemiantes. A conduta inicial é orientação de mudanças no estilo de vida: redução do consumo de álcool (especialmente cerveja), carnes vermelhas e frutos do mar, incentivo à hidratação, perda de peso e controle de comorbidades. O tratamento farmacológico (alopurinol) está reservado para pacientes com gota sintomática recorrente, tofos, urolitíase úrica ou nefropatia por ácido úrico. Por isso D é correta.\n\nA está errada porque colchicina é para crise aguda de gota, não para hiperuricemia assintomática. B e C estão erradas porque alopurinol em qualquer dose é uricostático e tem efeitos adversos significativos (rash, hepatotoxicidade, síndrome de Stevens-Johnson em predispostos), não devendo ser iniciado sem indicação clara. Importante: em pacientes com alto risco cardiovascular e hiperuricemia grave (>9-10 mg/dL), pode-se discutir tratamento individualizado.",
+      "topicos": [
+        {
+          "area": "Reumatologia",
+          "subtopico": "Artropatias por Microcristais (Gota, Pseudogota)"
+        }
+      ],
+      "area": "Reumatologia"
+    },
+    {
+      "numero": 92,
+      "tags": [
+        "ArbovirosesComplicaçõesQuadro clínico"
+      ],
+      "enunciado": "No diagnóstico diferencial clínico da dengue, é correto afirmar que:",
+      "alternativas": {
+        "A": "O desenvolvimento de síndrome de Guillain-Barré é uma complicação séria maiscomum na dengue do que na infecção por zika vírus.",
+        "B": "A plaquetopenia na dengue é mais pronunciada do que na chikungunya.",
+        "C": "Sangramentos são mais comuns na zika do que na dengue.",
+        "D": "A artrite crônica é mais frequentemente desenvolvida em decorrência da dengue emcomparação à chikungunya."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Entre as arboviroses (dengue, zika e chikungunya), a DENGUE é a que apresenta plaquetopenia mais pronunciada e clinicamente relevante, chegando a contagens abaixo de 50.000/mm³ nos casos graves e sendo responsável pelos sangramentos característicos da dengue hemorrágica/grave. Na chikungunya a plaquetopenia é discreta e raramente tem repercussão clínica, predominando artralgia poliarticular e febre alta. Por isso B é correta.\n\nA está errada porque a síndrome de Guillain-Barré é muito mais fortemente associada ao vírus ZIKA do que à dengue, tendo sido observada em surtos no Brasil e Polinésia Francesa. C está errada porque sangramentos (petéquias, epistaxe, sangramento gengival) são marcadamente mais comuns na dengue — consequência direta da plaquetopenia e do aumento da permeabilidade vascular — do que na zika, que cursa mais com exantema pruriginoso e conjuntivite. D está errada porque a artrite crônica (durando meses a anos) é característica da CHIKUNGUNYA, ocorrendo em até 40% dos pacientes; a dengue não cursa com artrite crônica.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Dengue e Arboviroses"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 93,
+      "tags": [
+        "Tratamento"
+      ],
+      "enunciado": "Sobre o tratamento do hipotireoidismo, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O uso de levotiroxina em pacientes acima de 65 anos provou ser capaz de diminuireventos cardiovasculares.",
+        "B": "A biodisponibilidade da levotiroxina não é afetada pela ingestão concomitante dealimentos.",
+        "C": "Pacientes com hipotireoidismo e doença coronariana devem receber inicialmentedoses menores de levotiroxina.",
+        "D": "O diagnóstico de hipotireoidismo central é definido por valores altos de tsh e baixosde t4 livre."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Em pacientes com hipotireoidismo e doença coronariana estabelecida, a reposição de levotiroxina deve ser iniciada com DOSES BAIXAS (12,5-25 mcg/dia) e aumentada gradualmente a cada 2-4 semanas, com monitorização cuidadosa de sintomas anginosos. A razão é que a reposição rápida de hormônio tireoidiano aumenta a demanda metabólica e o consumo miocárdico de oxigênio, podendo precipitar crises anginosas ou infarto em coronariopatas. Por isso C é correta.\n\nA está errada porque o benefício da levotiroxina em pacientes acima de 65 anos com hipotireoidismo subclínico na redução de eventos cardiovasculares não foi comprovado em estudos como o TRUST, que mostrou ausência de benefício clínico. B está errada porque a biodisponibilidade da levotiroxina É AFETADA pela ingestão concomitante de alimentos, razão pela qual deve ser tomada em jejum, pelo menos 30-60 minutos antes do café da manhã. D está errada porque no hipotireoidismo CENTRAL (secundário/terciário) o TSH está baixo ou inapropriadamente normal (não alto) com T4 livre baixo — reflexo da falência hipofisária ou hipotalâmica.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Hipotireoidismo e Hipertireoidismo"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 94,
+      "tags": [
+        "Baço"
+      ],
+      "enunciado": "Os pacientes que serão submetidos à esplenectomia eletiva devem ser vacinados, previamente à cirurgia, com as seguintes vacinas:",
+      "alternativas": {
+        "A": "Varicela, Tétano e Hepatite B.",
+        "B": "Hepatite B, Haemophilus tipo B e Meningococo.",
+        "C": "Pneumococo, Haemophilus tipo B e Meningococo.",
+        "D": "Tétano, Pneumococo e Meningococo."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Pacientes submetidos a esplenectomia eletiva têm risco aumentado de sepse fulminante (OPSI — overwhelming post-splenectomy infection) por germes encapsulados, que são opsonizados pelo baço no indivíduo normal. As três vacinas obrigatórias antes da esplenectomia eletiva, preferencialmente 2 semanas antes da cirurgia (para garantir resposta imunológica), são contra os três principais patógenos encapsulados: Streptococcus pneumoniae (pneumococo), Haemophilus influenzae tipo B e Neisseria meningitidis (meningococo). Por isso C é correta.\n\nA está errada porque varicela, tétano e hepatite B não são específicas para prevenção de sepse por encapsulados no asplênico — embora possam ser oferecidas conforme calendário. B está errada porque hepatite B, embora recomendada, não é a principal vacina pré-esplenectomia; o foco é nos encapsulados. D está errada porque inclui tétano (irrelevante no contexto de asplenia) no lugar de Haemophilus. Nos esplenectomizados de emergência (trauma), as vacinas são aplicadas 14 dias após o procedimento, quando o paciente estiver estável.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Imunizações e Profilaxias"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 95,
+      "tags": [
+        "Complicações macrovascularesTratamento medicamentosoBiguanida metformina"
+      ],
+      "enunciado": "Em relação ao paciente com diabetes tipo 2, é correto afirmar que:",
+      "alternativas": {
+        "A": "Aspirina é a droga de escolha na profilaxia primária de eventos cardiovasculares paratodos os pacientes desde o diagnóstico de diabetes.",
+        "B": "A droga de escolha para o início do tratamento de hipertensão arterial nos pacientesdiabéticos é o bloqueador do canal de cálcio.",
+        "C": "Estatinas devem ser utilizadas para manter o colesterol LDL abaixo de 100 mg/dL.",
+        "D": "O único efeito esperado da metformina é auxiliar no controle dos níveis glicêmicos."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Em diabéticos tipo 2, as estatinas estão formalmente indicadas para prevenção cardiovascular primária e secundária, com metas de LDL variáveis conforme estratificação de risco: <100 mg/dL em diabéticos sem outros fatores de risco, <70 mg/dL em diabéticos com fatores adicionais ou doença cardiovascular estabelecida, e <55 mg/dL em muito alto risco. Por isso C é correta. A recomendação de introdução de estatina em DM2 é praticamente universal em pacientes com 40-75 anos, independentemente do nível basal de LDL.\n\nA está errada porque aspirina para profilaxia primária NÃO é mais recomendada para TODOS os diabéticos desde o diagnóstico; seu uso é indicado apenas em diabéticos com alto risco cardiovascular e baixo risco de sangramento, pois o risco hemorrágico muitas vezes supera o benefício. B está errada porque o tratamento inicial da HAS em diabéticos é com IECA ou BRA, pela ação nefroprotetora adicional, não bloqueadores de canal de cálcio. D está errada porque a metformina também auxilia na perda de peso discreta, tem efeito cardiovascular benéfico comprovado (UKPDS) e pode reduzir risco de neoplasias.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Diabetes Mellitus"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 96,
+      "tags": [
+        "Critérios de Ranson Puérpera, 32 anos, procura a emergência 3 semanas após parto normal, com quadro de icterícia e dor abdominal. 2 Apresenta-se sonolenta, TA: 80/50 mmHg, FC: 135 bpm, FR: 29 rpm. Exames mostram Hb: 12,1 g/dL, Ht: 35,8%, leucócitos totais: 19650, bastões: 4%, sódio: 142 mEq/L, potássio: 4,8 mEq/L, glicose: 232 mg/dL, amilase: 3850 (até 200), lipase: 980 (até 140), TGO: 360 (até 40), TGP: 290 (até 45)."
+      ],
+      "enunciado": "Puérpera, 32 anos, procura a emergência 3 semanas após parto normal, com quadro de icterícia e dor abdominal. 2 Apresenta-se sonolenta, TA: 80/50 mmHg, FC: 135 bpm, FR: 29 rpm. Exames mostram Hb: 12,1 g/dL, Ht: 35,8%, leucócitos totais: 19650, bastões: 4%, sódio: 142 mEq/L, potássio: 4,8 mEq/L, glicose: 232 mg/dL, amilase: 3850 (até 200), lipase: 980 (até 140), TGO: 360 (até 40), TGP: 290 (até 45). Qual das alternativas abaixo NÃO faz parte dos critérios de gravidade da pancreatite?",
+      "alternativas": {
+        "A": "TGO.",
+        "B": "Amilase.",
+        "C": "Leucócitos.",
+        "D": "Glicose."
+      },
+      "resposta_correta": "B",
+      "explicacao": "Os critérios de Ranson na admissão para pancreatite aguda são: idade > 55 anos, leucócitos > 16.000/mm³, glicemia > 200 mg/dL, LDH > 350 U/L e TGO > 250 U/L. Nas primeiras 48 horas acrescentam-se: queda de hematócrito > 10%, elevação de ureia > 10 mg/dL, cálcio < 8 mg/dL, PaO2 < 60 mmHg, déficit de base > 4 mEq/L e sequestro de líquidos > 6 L. A AMILASE NÃO faz parte dos critérios prognósticos, sendo apenas marcador diagnóstico — seu nível não se correlaciona com gravidade. Por isso B é correta como a alternativa que NÃO faz parte dos critérios.\n\nA está errada como opção porque TGO > 250 é critério de Ranson à admissão. C está errada porque leucócitos > 16.000 também é critério à admissão. D está errada porque glicose > 200 é critério à admissão. A pancreatite descrita no caso (amilase 3.850, lipase 980, TGO 360, glicose 232, leucócitos 19.650, hipotensão, taquicardia) reúne vários critérios de gravidade e demanda manejo intensivo.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Pancreatite Aguda e Crônica"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Choque"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 97,
+      "tags": [
+        "Exames de imagemVentilação Não Invasiva VNIOutros tratamentos"
+      ],
+      "enunciado": "Em relação à Síndrome da Angústia Respiratória Aguda (SARA), é INCORRETO afirmar que:",
+      "alternativas": {
+        "A": "Entre os critérios diagnósticos, está a imagem radiológica pulmonar, evidenciandoinfiltrados pulmonares difusos bilateralmente.",
+        "B": "A posição prona melhora a hipoxemia em alguns pacientes, pois permite orecrutamento em algumas áreas que não ventilam.",
+        "C": "A ventilação mecânica não invasiva é uma contraindicação aos pacientes com SARA.",
+        "D": "A ventilação com auxílio de membrana extracorpórea (ECMO) é indicada para os pacientes que não tiveram melhora da hipoxemia com ventilação mecânica."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A afirmativa INCORRETA é dizer que a ventilação não invasiva (VNI) é contraindicação na SARA. Na verdade, a VNI pode ser TENTADA em casos leves de SARA (PaO2/FiO2 entre 200-300), desde que o paciente esteja consciente, colaborativo, hemodinamicamente estável e sem indicação imediata de intubação. Em casos moderados a graves, a intubação e ventilação mecânica invasiva com estratégia protetora (VT 6 mL/kg de peso predito, pressão de platô < 30 cmH2O, PEEP titulada) é o padrão. Por isso C é correta como INCORRETA.\n\nA está correta porque infiltrados pulmonares bilaterais na radiografia são critério diagnóstico (definição de Berlim da SARA), além de início agudo, PaO2/FiO2 diminuída e origem não cardiogênica do edema. B está correta porque a posição prona é estratégia comprovada de melhora da oxigenação na SARA grave, por homogeneizar a ventilação e melhorar a relação ventilação-perfusão (estudo PROSEVA). D está correta porque ECMO veno-venosa é indicada em SARA refratária a estratégias convencionais (PaO2/FiO2 < 80, acidose grave, instabilidade), em centros especializados.",
+      "topicos": [
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Ventilação Mecânica e Suporte Respiratório"
+        },
+        {
+          "area": "Pneumologia",
+          "subtopico": "Doenças Pulmonares Intersticiais"
+        }
+      ],
+      "area": "Medicina de Urgência e Terapia Intensiva"
+    },
+    {
+      "numero": 98,
+      "tags": [
+        "HematologiaNeutropenia febril"
+      ],
+      "enunciado": "Mulher, 48 anos, com recidiva de leucemia mieloide aguda, interna para continuidade do tratamento. Na segunda semana após iniciada a quimioterapia, evoluiu com neutropenia (leucócitos totais 50) associada à febre. As condutas a serem tomadas são: I - Coleta de hemoculturas e início de terapia empírica para gram-negativos, conforme protocolo institucional. II - Coleta de hemoculturas e aguardar o resultado para início da antibioticoterapia. III - Em caso de persistência de febre e neutropenia após 72 horas do primeiro evento, coletar hemoculturas e associar cobertura para gram-positivo. IV - Infecções por fungos são raras nesses casos e não devem ser consideradas. Quais estão corretas?",
+      "alternativas": {
+        "A": "Apenas I e III.",
+        "B": "Apenas II e III.",
+        "C": "Apenas II e IV.",
+        "D": "Apenas I, III e IV."
+      },
+      "resposta_correta": "A",
+      "explicacao": "Em neutropenia febril pós-quimioterapia (neutrófilos < 500/mm³ + febre ≥ 38,3°C ou ≥ 38°C sustentada), a conduta é coleta IMEDIATA de hemoculturas (duas amostras de sítios diferentes, incluindo cateter central se presente) e INÍCIO EMPÍRICO de antibioticoterapia de amplo espectro cobrindo gram-negativos e Pseudomonas — assertiva I verdadeira. Se a febre persistir por 72-96 horas apesar do esquema inicial, deve-se reavaliar culturas, considerar escalonamento com cobertura para gram-positivos (vancomicina) e iniciar antifúngico empírico (echinocandinas ou anfotericina) — assertiva III verdadeira. Por isso A é correta.\n\nA assertiva II está errada porque aguardar resultado de hemoculturas para iniciar antibiótico em neutropenia febril é contraindicado — o atraso aumenta mortalidade. A assertiva IV está errada porque infecções fúngicas (Candida, Aspergillus) são preocupação importante em neutropenia febril prolongada, devendo ser consideradas e investigadas ativamente (galactomanana, BDG, TC de tórax). Por isso B, C e D estão incorretas.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Leucemias e Linfomas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Leucemias e Linfomas"
+        },
+        {
+          "area": "Infectologia",
+          "subtopico": "Fungoses e Infecções Oportunistas"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 99,
+      "tags": [
+        "Tratamento da hipercalemiaHipercalemia"
+      ],
+      "enunciado": "Homem, 27 anos, internado na UTI por quadro de choque séptico secundário à pneumonia grave, evoluiu com necessidade de ventilação mecânica e doses altas de vasopressor, além de piora progressiva da função renal. Exames laboratoriais de controle evidenciaram, entre outras alterações, hipercalemia. Entre as alternativas abaixo, a que NÃO reduz os níveis séricos de potássio é:",
+      "alternativas": {
+        "A": "Poliestirenossulfonato de cálcio por via retal.",
+        "B": "Diurético de alça.",
+        "C": "Gluconato de cálcio.",
+        "D": "Salbutamol por via inalatória."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Entre as medidas citadas, o GLUCONATO DE CÁLCIO é o único que NÃO reduz os níveis séricos de potássio — sua função é estabilizar a membrana do miocárdio, antagonizando os efeitos arritmogênicos da hipercalemia (peaking de onda T, alargamento de QRS), mas sem alterar a potassemia. É a primeira medida diante de alterações eletrocardiográficas da hipercalemia grave. Por isso C é correta como a alternativa que NÃO reduz potássio.\n\nA está errada como opção porque o poliestirenossulfonato (Sorcal) é resina de troca catiônica no tubo digestivo que realmente reduz potássio sérico, ainda que com ação lenta (horas). B está errada porque diuréticos de alça (furosemida) aumentam a excreção renal de potássio e reduzem a potassemia, desde que o paciente tenha função renal residual. D está errada porque salbutamol inalatório (beta-2-agonista) estimula a bomba Na-K-ATPase, promovendo influxo intracelular de potássio, sendo terapia rápida de hipercalemia. Outras medidas: insulina + glicose e bicarbonato (se acidose).",
+      "topicos": [
+        {
+          "area": "Nefrologia",
+          "subtopico": "Distúrbios Hidroeletrolíticos"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Choque"
+        }
+      ],
+      "area": "Nefrologia"
+    },
+    {
+      "numero": 100,
+      "tags": [
+        "Anticoagulantes orais diretos"
+      ],
+      "enunciado": "Mulher, 46 anos, dislipidêmica, hipertensa e diabética, foi submetida à gastroplastia (Sleeve), cotm pós-operatório sem intercorrências. Uma semana após a cirurgia, retorna ao hospital por dor abdominal. Apresentava TA: 130/80 mmHg, FC: 90 bpm, Tax: 36,9ºC, FR: 18 bpm. A tomogra8a de abdome total evidenciou trombose comprometendo o ramo direito da veia porta.",
+      "alternativas": {
+        "A": "Anticoagulação com rivaroxabana por 6 meses.",
+        "B": "Uso de AAS e clopidogrel por 6 meses.",
+        "C": "Anticoagulação com cumarínico por até 6 meses.",
+        "D": "Anticoagulação com dabigatran por 3 meses."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A trombose de veia porta em paciente pós-gastroplastia é complicação reconhecida, com incidência aumentada por fatores locais (manipulação cirúrgica, diminuição do fluxo portal, estado inflamatório) e sistêmicos (obesidade, imobilização, estado pró-trombótico). O tratamento de escolha é anticoagulação por pelo menos 3-6 meses, com anticoagulantes orais diretos (DOACs) ou cumarínicos. O dabigatrana é DOAC inibidor direto da trombina e pode ser usado para esse fim, conforme o gabarito indicou com duração de 3 meses.\n\nA está errada pelo gabarito porque indica rivaroxabana por 6 meses, com a duração discordando. B está errada porque antiagregantes (AAS + clopidogrel) são terapia para doença arterial, não venosa/portal. C está errada pelo gabarito porque cumarínicos podem ser usados, mas o gabarito priorizou o DOAC dabigatrana. Na prática clínica atual, tanto DOACs quanto cumarínicos são opções válidas para trombose de veia porta não-cirrótica, com duração individualizada (3-6 meses até indefinido, a depender de fatores persistentes).",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Distúrbios da Coagulação e Trombose"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Hematologia"
+    }
+  ]
+}

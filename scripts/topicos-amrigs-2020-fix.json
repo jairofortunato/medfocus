@@ -1,0 +1,10 @@
+{
+  "93": [{"area": "Endocrinologia", "subtopico": "Hipotireoidismo e Hipertireoidismo"}],
+  "94": [{"area": "Cirurgia Geral", "subtopico": "Pré e Pós-operatório"}, {"area": "Infectologia", "subtopico": "Imunizações e Profilaxias"}],
+  "95": [{"area": "Endocrinologia", "subtopico": "Diabetes Mellitus"}],
+  "96": [{"area": "Gastroenterologia / Hepatologia", "subtopico": "Pancreatite Aguda e Crônica"}, {"area": "Medicina de Urgência e Terapia Intensiva", "subtopico": "Choque"}],
+  "97": [{"area": "Medicina de Urgência e Terapia Intensiva", "subtopico": "Ventilação Mecânica e Suporte Respiratório"}, {"area": "Pneumologia", "subtopico": "Doenças Pulmonares Intersticiais"}],
+  "98": [{"area": "Hematologia", "subtopico": "Leucemias e Linfomas"}, {"area": "Oncologia", "subtopico": "Leucemias e Linfomas"}, {"area": "Infectologia", "subtopico": "Fungoses e Infecções Oportunistas"}],
+  "99": [{"area": "Nefrologia", "subtopico": "Distúrbios Hidroeletrolíticos"}, {"area": "Medicina de Urgência e Terapia Intensiva", "subtopico": "Choque"}],
+  "100": [{"area": "Hematologia", "subtopico": "Distúrbios da Coagulação e Trombose"}, {"area": "Cirurgia Geral", "subtopico": "Pré e Pós-operatório"}]
+}

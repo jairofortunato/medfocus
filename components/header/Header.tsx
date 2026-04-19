@@ -7,6 +7,7 @@ import TabButtons from './TabButtons';
 import TimerDisplay from '../timer/TimerDisplay';
 import TimerControls from '../timer/TimerControls';
 import StatisticsTable from '../statistics/StatisticsTable';
+import StatsCard from './StatsCard';
 
 interface HeaderProps {
   examNome?: string;
@@ -17,10 +18,8 @@ export default function Header({ examNome }: HeaderProps) {
 
   return (
     <header className="glass-header p-7 mb-6">
-      <h1 className="text-4xl font-bold gradient-text mb-1 tracking-tight">
-        Med Estudo Focado
-      </h1>
-      <div className="text-slate-500 text-lg mb-5 font-normal">
+      <img src="/logo.png" alt="Med Focus" className="h-16 mb-1" />
+      <div className="subtitle-text text-lg mb-5 font-normal">
         {examNome ?? 'ENARE 2023'} - Preparacao Completa
       </div>
 
@@ -42,6 +41,9 @@ export default function Header({ examNome }: HeaderProps) {
       ) : (
         <StatisticsTable />
       )}
+
+      {/* Stats per Area - collapsible card */}
+      <StatsCard />
     </header>
   );
 }

@@ -4,13 +4,14 @@ import { notFound } from 'next/navigation';
 import ExamApp from '@/components/ExamApp';
 
 interface ExamPageProps {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }
 
 export async function generateMetadata({ params }: ExamPageProps) {
-  const supabase = createClient();
+  const { slug } = await params;
+  const supabase = await createClient();
   try {
-    const exam = await fetchExamBySlug(supabase, params.slug);
+    const exam = await fetchExamBySlug(supabase, slug);
     return { title: `${exam.nome} - Med Estudo Focado` };
   } catch {
     return { title: 'Prova - Med Estudo Focado' };
@@ -18,7 +19,8 @@ export async function generateMetadata({ params }: ExamPageProps) {
 }
 
 export default async function ExamPage({ params }: ExamPageProps) {
-  const supabase = createClient();
+  const { slug } = await params;
+  const supabase = await createClient();
 
   // Get current user
   const { data: { user } } = await supabase.auth.getUser();
@@ -27,7 +29,7 @@ export default async function ExamPage({ params }: ExamPageProps) {
   // Fetch exam
   let exam;
   try {
-    exam = await fetchExamBySlug(supabase, params.slug);
+    exam = await fetchExamBySlug(supabase, slug);
   } catch {
     notFound();
   }

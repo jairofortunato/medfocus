@@ -28,6 +28,75 @@ def extract_text_from_pdf(pdf_path: str) -> str:
     return text
 
 
+# ── PDF typo corrections ───────────────────────────────────────────────
+# Common OCR / pdfplumber extraction errors for Portuguese medical texts.
+# Add new entries as they are discovered.
+PDF_TYPO_MAP = {
+    # Ligatures misread
+    "ﬁ": "fi",
+    "ﬂ": "fl",
+    "ﬀ": "ff",
+    "ﬃ": "ffi",
+    "ﬄ": "ffl",
+    # Jbrose / Jbr -> fibr  (very common with "fi" ligature)
+    "Jbrose": "Fibrose",
+    "Jbr": "Fibr",
+    "jbrose": "fibrose",
+    "jbr": "fibr",
+    # Accented chars misread
+    "ã o": "ão",
+    "çã o": "ção",
+    "ê ncia": "ência",
+    "â ncia": "ância",
+    # Broken diacritics (space inserted after accent)
+    "´a": "á",
+    "´e": "é",
+    "´i": "í",
+    "´o": "ó",
+    "´u": "ú",
+    "˜a": "ã",
+    "˜o": "õ",
+    "¸c": "ç",
+    # Dash / hyphen variants
+    "–": "–",   # en-dash kept
+    "—": "—",   # em-dash kept
+    "\u00ad": "",  # soft hyphen removed
+    # Quotes normalisation
+    "\u201c": '"',
+    "\u201d": '"',
+    "\u2018": "'",
+    "\u2019": "'",
+    # Common medical term misspellings from PDF extraction
+    "mmHG": "mmHg",
+    "mmhg": "mmHg",
+    "MMHG": "mmHg",
+}
+
+# Regex-based corrections (pattern, replacement)
+PDF_TYPO_REGEX = [
+    # Double spaces (but not intentional indentation)
+    (r'(?<!\n) {2,}', ' '),
+    # Space before punctuation
+    (r'\s+([.,;:!?)])', r'\1'),
+    # Missing space after period followed by uppercase (broken sentence)
+    (r'\.([A-ZÀ-ÚÃÕ])', r'. \1'),
+]
+
+
+def fix_pdf_typos(text: str) -> str:
+    """Fix common OCR / PDF extraction typos in Portuguese medical texts."""
+    # Direct replacements
+    for wrong, correct in PDF_TYPO_MAP.items():
+        if wrong in text:
+            text = text.replace(wrong, correct)
+
+    # Regex replacements
+    for pattern, replacement in PDF_TYPO_REGEX:
+        text = re.sub(pattern, replacement, text)
+
+    return text
+
+
 def clean_watermarks(text: str) -> str:
     """Remove watermark text from the content."""
     watermarks = [
@@ -221,11 +290,26 @@ def convert_pdf_to_json(pdf_path: str, output_path: str = None) -> dict:
     questions = parse_questions(text)
     print(f"Found {len(questions)} questions")
 
-    # Add correct answers to questions
+    # Add correct answers and fix PDF typos
+    typo_fixes_count = 0
     for q in questions:
         q_num = q["numero"]
         if q_num in answers:
             q["resposta_correta"] = answers[q_num]
+
+        # Fix PDF extraction typos in all text fields
+        original_enunciado = q["enunciado"]
+        q["enunciado"] = fix_pdf_typos(q["enunciado"])
+        if q["enunciado"] != original_enunciado:
+            typo_fixes_count += 1
+
+        q["tags"] = [fix_pdf_typos(tag) for tag in q["tags"]]
+
+        for letter in list(q["alternativas"].keys()):
+            q["alternativas"][letter] = fix_pdf_typos(q["alternativas"][letter])
+
+    if typo_fixes_count > 0:
+        print(f"Fixed PDF typos in {typo_fixes_count} questions")
 
     # Create output structure
     pdf_name = Path(pdf_path).stem

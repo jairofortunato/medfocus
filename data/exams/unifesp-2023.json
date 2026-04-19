@@ -1,0 +1,2240 @@
+{
+  "prova": "UNIFESP 2023",
+  "total_questoes": 95,
+  "questoes": [
+    {
+      "numero": 1,
+      "tags": [
+        "Cardioversão elétricaCardiologia"
+      ],
+      "enunciado": "Mulher, 45 anos de idade, é admitida no PS com palpitações há 2 horas. Sem outras queixas. Exame físico: PA = 110/70 mmHg; FC = 148 bpm. ECG com flutter atrial com resposta ventricular 2:1. Qual é a conduta mais adequada para a reversão da arritmia?",
+      "alternativas": {
+        "A": "Desfibrilação elétrica.",
+        "B": "Metoprolol intravenoso.",
+        "C": "Cardioversão elétrica.",
+        "D": "Adenosina intravenosa."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A conduta mais adequada para a reversão do flutter atrial com resposta ventricular rápida é a cardioversão elétrica sincronizada. O flutter atrial é uma arritmia supraventricular que pode ser revertida de forma eficaz e segura com cardioversão elétrica, especialmente quando o paciente apresenta instabilidade hemodinâmica ou quando a arritmia é de início recente, como no caso apresentado. A desfibrilação elétrica (A) é utilizada em situações de arritmias ventriculares, como fibrilação ventricular. O metoprolol intravenoso (B) pode ser usado para controle da frequência ventricular, mas não reverte o flutter. A adenosina (D) é eficaz em taquicardias supraventriculares paroxísticas, mas não no flutter atrial. Portanto, a cardioversão elétrica é a escolha correta para reverter a arritmia e restaurar o ritmo sinusal.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Arritmias e Distúrbios de Condução"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 2,
+      "tags": [
+        "Sopros sistólicosExame físicoCardiologia"
+      ],
+      "enunciado": "Homem, 65 anos de idade, apresenta cansaço, falta de ar e edema de membros inferiores há 2 meses. Exame físico: sopro sistólico em crescendo-decrescendo na borda esternal superior esquerda, como paciente sentado e inclinado para frente. Qual é a doença valvar mais provável?",
+      "alternativas": {
+        "A": "Estenose aórtica.",
+        "B": "Dupla lesão aórtica.",
+        "C": "Dupla lesão mitral.",
+        "D": "Insuficiência mitral grave."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa correta é a A: Estenose aórtica. O sopro sistólico em crescendo-decrescendo na borda esternal superior esquerda é característico da estenose aórtica. Este tipo de sopro é causado pelo fluxo turbulento através de uma válvula aórtica estreitada. Os sintomas de cansaço, falta de ar e edema de membros inferiores são compatíveis com insuficiência cardíaca, que pode ser uma consequência da estenose aórtica avançada. As outras alternativas estão incorretas porque descrevem condições valvares diferentes: a dupla lesão aórtica (B) e a dupla lesão mitral (C) teriam sopros adicionais; a insuficiência mitral grave (D) geralmente apresenta um sopro holossistólico no ápice, irradiando para a axila, e não na borda esternal superior esquerda.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Valvopatias"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 3,
+      "tags": [
+        "Endocrinologia"
+      ],
+      "enunciado": "Mulher, 35 anos de idade, comparece em consulta com exame de TSH solicitado por outro médico. A paciente não apresenta queixas. Exame físico: IMC = 29,5 kg/m², tiroide de difícil palpação; sem outras alterações. TSH = 6,5 mUI/L (VR 0,45-4,5). Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Solicitar dosagem de TSH em 2 a 3 meses.",
+        "B": "Solicitar dosagem de T4 livre, T3 e anticorpo antitiroperoxidase.",
+        "C": "Iniciar o tratamento com 1,6 mcg/kg/dia de levotiroxina.",
+        "D": "Prosseguir a investigação com ultrassonografia da tiroide."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A paciente apresenta um TSH elevado, sugerindo possível hipotireoidismo subclínico. A conduta mais adequada é confirmar o diagnóstico e avaliar a presença de autoimunidade tireoidiana, que pode ser feita solicitando T4 livre, T3 e anticorpo antitiroperoxidase (anti-TPO). A dosagem de T4 livre é essencial para determinar se há hipotireoidismo franco. A presença de anticorpos antitiroperoxidase pode indicar tireoidite de Hashimoto, uma causa comum de hipotireoidismo. Iniciar tratamento com levotiroxina (alternativa C) sem confirmação adicional pode ser precipitado, especialmente em pacientes assintomáticos. Repetir o TSH (alternativa A) sem avaliação adicional pode atrasar o diagnóstico. A ultrassonografia (alternativa D) não é necessária neste momento, pois o exame físico não sugere nódulos ou outras alterações estruturais na tiroide.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Hipotireoidismo e Hipertireoidismo"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 4,
+      "tags": [
+        "Vigilância"
+      ],
+      "enunciado": "Paciente com doença do reGuxo gastroesofágico de longa data, assintómatico após 5 anos de uso de omeprazol. A endoscopia digestiva alta atual mostra permanência de lesão esofágica compatível com esôfago de Barrett, com biópsias revelando ausência de displasia. Quando deve ser realizada a próxima endoscopia?",
+      "alternativas": {
+        "A": "Entre 3 e 5 anos.",
+        "B": "Em 6 meses.",
+        "C": "Em 12 meses.",
+        "D": "Somente se os sintomas retornarem."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A endoscopia de vigilância para pacientes com esôfago de Barrett sem displasia deve ser realizada a cada 3 a 5 anos. O esôfago de Barrett é uma condição em que o revestimento do esôfago é substituído por um tipo de tecido semelhante ao revestimento intestinal, aumentando o risco de adenocarcinoma esofágico. A vigilância endoscópica regular é importante para detectar alterações displásicas precocemente. As alternativas B e C são incorretas porque indicam intervalos de vigilância mais curtos do que o recomendado para ausência de displasia. A alternativa D está incorreta porque a vigilância deve ser contínua, independentemente da presença de sintomas, devido ao risco de progressão para câncer. Portanto, a alternativa A é a correta, pois segue as diretrizes de vigilância para esôfago de Barrett sem displasia.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Doenças do Esôfago"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Oncologia Geral"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 5,
+      "tags": [
+        "HiperaldosteronismoHiperaldosteronismo primárioCardiologia"
+      ],
+      "enunciado": "Mulher, 40 anos de idade, tem diagnóstico de hipertensão arterial há 5 anos e faz uso de losartana 100 mg/dia, hidroclorotiazida 25 mg/dia e amlodipina 5 mg/dia. Traz MRPA com médias de PA de 152/96 mmHg. Exame físico: PA 150/90 mmHg, FC 70 bpm; IMC 23 kg/m²; sem outras alterações. Exames laboratoriais: creatinina = 0,7 mg/dL (VR 0,6- 1,2), potássio = 3,0 mEq/L (VR 3,5-5,5), sódio = 138 mEq/L (VR 135-145). Qual é a investigação inicial mais adequada para estabelecer a etiologia da hipertensão arterial?",
+      "alternativas": {
+        "A": "Dosagem de aldosterona plasmática e atividade da renina plasmática.",
+        "B": "Dosagem de cortisol sérico após 1 mg de dexametasona.",
+        "C": "Dosagem de cortisol em urina de 24 horas em 3 amostras.",
+        "D": "Tomografia computadorizada de abdome com protocolo para feocromocitoma."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A paciente apresenta hipertensão arterial resistente ao tratamento e hipocalemia, o que sugere hiperaldosteronismo primário. A dosagem de aldosterona plasmática e atividade da renina plasmática é a investigação inicial mais adequada para confirmar essa suspeita, pois o hiperaldosteronismo primário é caracterizado por aldosterona elevada e renina suprimida. As outras alternativas não são adequadas para esta situação clínica: a dosagem de cortisol sérico após dexametasona e cortisol urinário são para investigação de síndrome de Cushing, e a tomografia para feocromocitoma não é indicada sem sinais sugestivos como crises adrenérgicas ou hipertensão paroxística.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Distúrbios da Suprarrenal"
+        },
+        {
+          "area": "Cardiologia",
+          "subtopico": "Hipertensão Arterial Sistêmica"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 6,
+      "tags": [
+        "Colangite esclerosante primária CEPRetocolite Ulcerativa"
+      ],
+      "enunciado": "Homem, 45 anos de idade, apresenta icterícia de longa duração, sem sinais de insuficiência hepática ao exame físico. Exames laboratoriais mostram transaminases normais e fosfatase alcalina 4 vezes acima do limite superior da normalidade. Recentemente, iniciou quadro de diarreia muco sanguinolenta com 4 episódios ao dia e discreto emagrecimento. Quais são as hipóteses diagnósticas mais prováveis?",
+      "alternativas": {
+        "A": "Cirrose hepática e amebíase.",
+        "B": "Hepatite autoimune e doença de Crohn.",
+        "C": "Colangite esclerosante primária e retocolite ulcerativa.",
+        "D": "Câncer de cólon e metástases hepáticas."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa correta é a C: Colangite esclerosante primária e retocolite ulcerativa. A icterícia de longa duração com fosfatase alcalina elevada sugere uma obstrução biliar, comum na colangite esclerosante primária, que frequentemente se associa à retocolite ulcerativa, uma doença inflamatória intestinal que pode causar diarreia muco sanguinolenta. As transaminases normais e a ausência de sinais de insuficiência hepática descartam a cirrose hepática (A) e a hepatite autoimune (B). A doença de Crohn (B) pode causar sintomas intestinais, mas não se associa tipicamente com elevação isolada da fosfatase alcalina. O câncer de cólon com metástases hepáticas (D) poderia explicar a icterícia, mas geralmente apresentaria transaminases alteradas e outros sinais de insuficiência hepática. Portanto, a combinação de sintomas e exames laboratoriais é mais consistente com a alternativa C.",
+      "topicos": [
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Doenças Inflamatórias Intestinais"
+        }
+      ],
+      "area": "Gastroenterologia / Hepatologia"
+    },
+    {
+      "numero": 7,
+      "tags": [
+        "Quadro clínico da leucemia linfoide crônica LLCDiagnóstico da leucemia linfoide crônica LLC"
+      ],
+      "enunciado": "Homem, 82 anos de idade, assintomático, apresenta hemograma com 154.000 linfócitos maduros/mm³, Hb de 11,2 g/dL (padrão normocítico e normocrômico) e 210.000 plaquetas/mm³. Exame físico sem alterações. Qual é a hipótese diagnóstica mais provável e a conduta mais adequada para confirmá-la?",
+      "alternativas": {
+        "A": "Linfoma linfocítico agudo; imunofenotipagem de sangue periférico.",
+        "B": "Leucemia linfocítica aguda; PET-TC oncológico e cariótipo de medula óssea.",
+        "C": "Leucemia linfocítica crônica agudizada; mielograma.",
+        "D": "Leucemia linfocítica crônica; imunofenotipagem de sangue periférico."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa correta é a D: Leucemia linfocítica crônica (LLC); imunofenotipagem de sangue periférico. A LLC é caracterizada por linfocitose persistente, geralmente em pacientes idosos, e é confirmada por imunofenotipagem, que identifica a presença de marcadores específicos como CD5, CD19 e CD23 nos linfócitos B. A opção A está incorreta porque o linfoma linfocítico agudo não se apresenta com linfocitose madura. A opção B está errada porque a leucemia linfocítica aguda é mais comum em crianças e apresenta blastos, não linfócitos maduros. A opção C menciona uma condição agudizada, o que não é indicado pelo quadro clínico assintomático do paciente. Portanto, a imunofenotipagem de sangue periférico é a conduta mais adequada para confirmar o diagnóstico de LLC.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Leucemias e Linfomas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Leucemias e Linfomas"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 8,
+      "tags": [
+        "Manejo inicial e pacotes"
+      ],
+      "enunciado": "Homem, 54 anos de idade, hipertenso, é trazido ao PS com quadro de febre e rebaixamento de nível de consciência. Apresenta dor em flanco direito, disúria e polaciúria há três dias. Exame físico: FC = 120 bpm; PA = 80/40 mmHg; T = 38 ºC; tempo de enchimento capilar = 5 segundos. Exames laboratoriais: hemograma com leucócitos = 19.000 cél/mm³ (desvio à esquerda), creatinina = 2,7mg/dL e lactato arterial = 36mg/dL; urina 1 com leucocitúria, hematúria e presença de nitrito. Considerando a hipótese diagnóstica mais provável e as orientações da Campanha de Sobrevivência a Sepse de 2021, qual é a conduta imediata mais adequada?",
+      "alternativas": {
+        "A": "Iniciar ceftriaxona e manter por pelo menos 10 dias",
+        "B": "Coletar hemoculturas e urocultura assim que houver estabilidade hemodinâmica.",
+        "C": "Fazer expansão volêmica com cristaloides para atingir 30mL/Kg nas primeiras 3 horas.",
+        "D": "Administrar noradrenalina em dose inicial 0,1 mcg/kg/min."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa C é a correta, pois a Campanha de Sobrevivência a Sepse de 2021 recomenda a expansão volêmica com cristaloides de 30 mL/kg nas primeiras 3 horas para pacientes com sepse e choque séptico, como é o caso deste paciente. Ele apresenta sinais de infecção urinária complicada por sepse, evidenciado por febre, hipotensão, taquicardia e lactato elevado. A administração de antibióticos (A) é importante, mas a estabilização hemodinâmica com fluidos é prioritária. A coleta de culturas (B) deve ser feita antes da administração de antibióticos, mas não deve atrasar a ressuscitação volêmica. A administração de noradrenalina (D) é indicada se a hipotensão persistir após a ressuscitação volêmica adequada. Portanto, a expansão volêmica é a intervenção imediata mais adequada para estabilizar o paciente.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Choque"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 9,
+      "tags": [
+        "DermatologiaTratamentoApresentação clínica"
+      ],
+      "enunciado": "Mulher, 56 anos de idade, refere crescimento progressivo de lesão na face há 3 anos. Ao exame dermatológico, apresenta pápula da cor da pele de 5 milímetros e superfície perlácea na região malar direita com telangiectasia na porção inferior. Qual é o diagnóstico mais provável e a conduta mais adequada?",
+      "alternativas": {
+        "A": "Carcinoma espinocelular; radioterapia local.",
+        "B": "Melanoma extensivo superficial; exérese com margem de 10 milímetros.",
+        "C": "Queratoacantoma; criocirurgia com halo de 5 milímetros.",
+        "D": "Carcinoma basocelular; exérese com margem de 5 milímetros."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A descrição da lesão como uma pápula perlácea com telangiectasia é característica do carcinoma basocelular, o tipo mais comum de câncer de pele. A conduta padrão para o carcinoma basocelular é a exérese cirúrgica com margem de segurança, geralmente de 3 a 5 milímetros, para garantir a remoção completa do tumor. As outras alternativas estão incorretas: o carcinoma espinocelular (A) geralmente não apresenta superfície perlácea; o melanoma (B) tem características clínicas diferentes e requer margens maiores; o queratoacantoma (C) é uma lesão benigna que não corresponde à descrição clínica fornecida. Portanto, a alternativa D é a correta, pois descreve tanto o diagnóstico quanto a conduta apropriada para o caso apresentado.",
+      "topicos": [
+        {
+          "area": "Dermatologia",
+          "subtopico": "Neoplasias de Pele"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Pele"
+        }
+      ],
+      "area": "Dermatologia"
+    },
+    {
+      "numero": 10,
+      "tags": [
+        "Esclerose sistêmicaReumatologia"
+      ],
+      "enunciado": "Mulher, 54 anos de idade, refere episódios de alteração de coloração das mãos e pés, caracterizada por palidez, cianose e eritema, episódicas, geralmente desencadeadas pelo frio, há 6 meses. Há 2 anos apresenta queimação retroesternal pós alimentares, com pouca melhora após uso de inibidor de bomba de próton. Nega outras queixas. Qual é o diagnóstico mais provável?",
+      "alternativas": {
+        "A": "Miopatia inflamatória idiopática.",
+        "B": "Esclerose sistêmica.",
+        "C": "Artrite reumatoide.",
+        "D": "Lúpus eritematoso sistêmico."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A paciente apresenta fenômeno de Raynaud (alteração de coloração das mãos e pés desencadeada pelo frio) e sintomas de refluxo gastroesofágico, que são característicos da esclerose sistêmica. A esclerose sistêmica é uma doença do tecido conjuntivo que pode causar fibrose cutânea e visceral, incluindo o trato gastrointestinal, levando a sintomas como a queimação retroesternal. As outras alternativas são menos prováveis: miopatia inflamatória idiopática não explica o fenômeno de Raynaud; artrite reumatoide geralmente não causa refluxo significativo; e lúpus eritematoso sistêmico pode causar Raynaud, mas não é tão associado a sintomas gastrointestinais como a esclerose sistêmica. Portanto, a alternativa correta é B: Esclerose sistêmica.",
+      "topicos": [
+        {
+          "area": "Reumatologia",
+          "subtopico": "Esclerose Sistêmica e Miopatias Inflamatórias"
+        }
+      ],
+      "area": "Reumatologia"
+    },
+    {
+      "numero": 11,
+      "tags": [
+        "Doença de von WillebrandHemostasia primária"
+      ],
+      "enunciado": "Homem, 69 anos de idade, procura PS por sangramento ativo em lesão de perna esquerda após trauma em portão há 1 hora. Tem histórico de diabetes mellitus e hipertensão arterial de longa data, em tratamento regular. Trazia últimos exames realizados quatro meses antes com HbA1C = 8,2% e creatinina = 2,9 mg/dL. Exame físico: lesão cutânea sem sinais de infecção, mas com sangramento não contido por compressas locais. Exames laboratoriais: Hb = 9,4 g/dL, VCM = 87 fL (VR: 80-100 fL); leucócitos 7.230/ mm³; plaquetas = 158.000/mm³; creatinina = 3,4 mg/dL. Considerando as comorbidades do paciente, qual é a causa mais provável para a persistência do sangramento?",
+      "alternativas": {
+        "A": "Carência de vitamina K.",
+        "B": "Disfunção plaquetária.",
+        "C": "Deficiência de antitrombina III.",
+        "D": "Deficiência de fator VIII."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alternativa B é correta porque o paciente apresenta disfunção plaquetária, uma complicação comum em pacientes com insuficiência renal crônica, como indicado pela creatinina elevada. A disfunção plaquetária nesses casos é geralmente devido à uremia, que interfere na função das plaquetas, levando a sangramentos. A carência de vitamina K (A) causaria deficiência de fatores de coagulação dependentes de vitamina K, resultando em um perfil de sangramento diferente. A deficiência de antitrombina III (C) está associada a trombose, não a sangramento. A deficiência de fator VIII (D) está relacionada à hemofilia A, que não é indicada pelo quadro clínico do paciente. Portanto, a disfunção plaquetária é a causa mais provável do sangramento persistente neste contexto clínico.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Distúrbios da Coagulação e Trombose"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 12,
+      "tags": [
+        "Tratamento da Hipertensão arterial"
+      ],
+      "enunciado": "Mulher, 56 anos de idade, hipertensa há 8 anos, apresenta níveis de PA mensurados em sua residência acima de 140/90 mmHg. Está em uso de losartana 100 mg/dia, amlodipina 10 mg/dia e clortalidona 25 mg/dia. Não há evidências de má aderência. Exame físico: PA = 162/98 mmHg; FC = 82 bpm; IMC = 24,2 kg/m2. Exames laboratoriais: creatinina = 0,82 mg/dL; potássio = 4,2 mEq/L; urina 1 normal; USG Doppler das artérias renais normal. Outras causas de hipertensão secundárias foram excluídas. Qual é a estratégia terapêutica mais adequada para o controle pressórico desta paciente?",
+      "alternativas": {
+        "A": "Aumentar amlodipina para 10 mg duas vezes ao dia.",
+        "B": "Associar clonidina 0,100 mg duas vezes ao dia.",
+        "C": "Aumentar a clortalidona 50 mg ao dia.",
+        "D": "Associar espiranolactona 25 mg/dia."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A paciente apresenta hipertensão resistente, definida como pressão arterial não controlada apesar do uso de três classes de anti-hipertensivos, incluindo um diurético. A espironolactona é frequentemente utilizada como quarta droga em casos de hipertensão resistente, devido à sua eficácia em reduzir a pressão arterial nesses pacientes. A alternativa D é a correta, pois a adição de espironolactona 25 mg/dia é uma estratégia comprovada para melhorar o controle pressórico. As outras alternativas são menos indicadas: aumentar a amlodipina (A) pode não ser eficaz, a clonidina (B) tem perfil de efeitos colaterais desfavorável, e aumentar a clortalidona (C) pode não ser tão eficaz quanto a adição de espironolactona. Portanto, a escolha de espironolactona é baseada em evidências clínicas para hipertensão resistente.",
+      "topicos": [
+        {
+          "area": "Cardiologia",
+          "subtopico": "Hipertensão Arterial Sistêmica"
+        }
+      ],
+      "area": "Cardiologia"
+    },
+    {
+      "numero": 13,
+      "tags": [
+        "Pneumopatias Intersticiais Hipertensão Pulmonar Bronquiectasias e Pneumotórax Espontâneo"
+      ],
+      "enunciado": "Homem, 18 anos de idade, previamente hígido, chega ao PS com queixa de falta de ar iniciada há 1 hora. Exame físico: Escala de Coma de Glasgow = 14, pupilas isocóricas fotorreagentes, FR = 30 irpm, SpO₂ = 70%, ausculta respiratória abolida em hemitórax direito, PA= 80/40 mmHg, FC = 133 bpm, tempo de enchimento capilar = 4 segundos, ausculta cardíaca sem alterações. Qual é o achado esperado na ultrassonografia à beira leito?",
+      "alternativas": {
+        "A": "Sinal do código de barras em hemitórax direito.",
+        "B": "Sobrecarga de câmaras direitas.",
+        "C": "Linhas B em todo hemitórax direito.",
+        "D": "Líquido no espaço pericárdico."
+      },
+      "resposta_correta": "A",
+      "explicacao": "O paciente apresenta sinais clínicos sugestivos de pneumotórax hipertensivo, como dispneia súbita, hipoxemia (SpO₂ = 70%), hipotensão (PA = 80/40 mmHg) e ausência de murmúrio vesicular no hemitórax direito. Na ultrassonografia à beira leito, o sinal do código de barras (ou sinal do estrado) é característico de pneumotórax, pois indica ausência de deslizamento pleural. As outras alternativas estão incorretas: B (sobrecarga de câmaras direitas) sugere embolia pulmonar ou cor pulmonale; C (linhas B) indica edema pulmonar; D (líquido no espaço pericárdico) sugere tamponamento cardíaco. Portanto, a alternativa A é a correta, pois está alinhada com o diagnóstico de pneumotórax hipertensivo, uma emergência médica que requer intervenção imediata.",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "Derrame Pleural e Pneumotórax"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Choque"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 14,
+      "tags": [
+        "TratamentoDoença Pulmonar Obstrutiva Crônica DPOCClassificação"
+      ],
+      "enunciado": "Homem, 55 anos de idade, refere dispneia aos esforços de longa data, intensificada no último ano, com necessidade de descansar após andar cerca de 50 metros no plano. Tem tosse produtiva há 2 anos e sibilos eventuais. Procurou PS três vezes no último ano, sendo o último episódio há 2 meses, durante os quais foi medicado com nebulização e antibióticos. Está em uso de salbutamol spray, 02 jatos a cada 4 horas, com alívio parcial dos sintomas. Tem hipertensão arterial (em uso de losartana 50 mg/dia) e é tabagista de 60 anos-maço. Exames realizados: hemoglobina = 15,0 g/dL; leucócitos totais = 8500 céls/mm³ (350 eosinóJlos/mm³); radiografia de tórax = hiperinsuGação pulmonar; espirometria = VEF1 pós-broncodilatador 35% do previsto. Considerando o diagnóstico mais provável e as diretrizes GOLD 2022 (Global Initiative for Chronic Obstructive Lung Disease), qual é o estágio atual da doença e a terapia farmacológica mais indicada?",
+      "alternativas": {
+        "A": "GOLD 3D; formoterol/budesonida 12/400 mcg 2x/dia + tiotrópio 5 mcg/dia.",
+        "B": "GOLD 3B; formoterol 12 mcg 2x/dia + tiotrópio 5 mcg/dia.",
+        "C": "GOLD 4D; formoterol/budesonida 12/400 mcg 2x/dia + tiotrópio 5 mcg/dia.",
+        "D": "GOLD 2C; tiotrópio 5 mcg/dia."
+      },
+      "resposta_correta": "A",
+      "explicacao": "O paciente apresenta sintomas e história clínica compatíveis com Doença Pulmonar Obstrutiva Crônica (DPOC) grave, conforme indicado pelo VEF1 pós-broncodilatador de 35% do previsto. De acordo com as diretrizes GOLD 2022, um VEF1 entre 30-49% do previsto classifica o paciente no estágio GOLD 3. A presença de exacerbações frequentes e sintomas graves (dispneia intensa) sugere um grupo D. A terapia farmacológica mais indicada para GOLD 3D inclui o uso de um LABA (agonista beta-2 de longa duração) associado a um corticosteroide inalatório, como formoterol/budesonida, e um LAMA (antagonista muscarínico de longa duração), como tiotrópio. As outras alternativas não correspondem adequadamente ao estágio e grupo do paciente ou não incluem a combinação terapêutica recomendada para este caso específico.",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "DPOC"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 15,
+      "tags": [
+        "Manejo inicial e pacotesInfectologiaSepse"
+      ],
+      "enunciado": "Homem, 60 anos de idade, é trazido ao PS por familiares com relato de falta de ar há 1 semana com piora nas últimas 24 horas. Exame físico: Escala de Coma de Glasgow = 13, pupilas isocóricas fotorreagentes, sem sinais neurológicos focais, ausculta cardíaca sem alterações, FC = 120 bpm, PA = 70/40mmHg, tempo de enchimento capilar = 5 segundos, ausculta respiratória com estertores grossos em base direita, FR = 30 irpm, SpO₂ = 80%, exame abdominal sem alterações, membros inferiores sem alterações. Qual é a conduta mais adequada para este paciente?",
+      "alternativas": {
+        "A": "Coleta de bilirrubina, creatinina, lactato, gasometria e contagem plaquetária para cálculo do SOFA.",
+        "B": "Coleta de culturas, antibioticoterapia de amplo espectro, expansão volêmica e oxigênio por cateter nasal.",
+        "C": "Oxigênio por cateter nasal, angiotomografia de tórax com protocolo para TEP e anticoagulação com heparina não-fracionada.",
+        "D": "Ventilação não-invasiva, dobutamina 2,5 a 20 mcg/kg/min em bomba de infusão contínua, furosemida 1mg/kg e decúbito elevado a 45°."
+      },
+      "resposta_correta": "B",
+      "explicacao": "O paciente apresenta sinais de sepse grave, incluindo hipotensão (PA = 70/40 mmHg), taquicardia (FC = 120 bpm), taquipneia (FR = 30 irpm) e saturação de oxigênio baixa (SpO₂ = 80%). A conduta mais adequada é a coleta de culturas, administração de antibioticoterapia de amplo espectro, expansão volêmica para corrigir a hipotensão e suplementação de oxigênio, como indicado na alternativa B. A alternativa A é incorreta, pois o cálculo do SOFA não é uma intervenção imediata. A alternativa C sugere investigação de TEP, que não é a prioridade. A alternativa D propõe tratamento para insuficiência cardíaca aguda, que não é o quadro mais provável aqui. Portanto, a abordagem inicial deve focar no manejo da sepse, justificando a escolha da alternativa B.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Choque"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 16,
+      "tags": [
+        "ReumatologiaPolimialgia reumáticaArterite de células gigantes ou arterite temporal"
+      ],
+      "enunciado": "ReumatologiaPolimialgia reumáticaArterite de células gigantes ou arterite temporal Mulher, 75 anos de idade, apresenta dor, limitação aos movimentos e rigidez matinal em ombros e quadris há um mês, com pouca melhora com dipirona e diclofenaco. Refere febre baixa não aferida e inapetência, sem perda de peso. Extensa investigação evidenciou anemia normocítica e normocrômica (hemoglobina:10,2g/dL);VHS=102mm/1ª hora e PCR= 78mg/L. O PET-CT com 18F-FDG mostrou captação intensa em aorta torácica e abdominal, artérias axilares e ombros e quadris. Quais são os diagnósticos mais prováveis?",
+      "alternativas": {
+        "A": "Polimialgia reumática e arterite de células gigantes.",
+        "B": "Doença aterosclerótica e osteoartrite de ombros e quadris.",
+        "C": "Aortite isolada e osteoartrite de ombros e quadris.",
+        "D": "Arterite de Takayasu e artropatia microcristalina."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A paciente apresenta sintomas clássicos de polimialgia reumática, como dor e rigidez matinal em ombros e quadris, além de febre baixa e anemia normocítica e normocrômica. A elevação significativa de VHS e PCR sugere um processo inflamatório sistêmico. O PET-CT revela captação intensa em grandes artérias, compatível com arterite de células gigantes, frequentemente associada à polimialgia reumática. A alternativa B é incorreta, pois a osteoartrite não causa elevação tão acentuada de marcadores inflamatórios. A alternativa C sugere aortite isolada, mas não explica a polimialgia. A alternativa D menciona arterite de Takayasu, mais comum em pacientes jovens, e artropatia microcristalina, que não se alinha com os achados clínicos e laboratoriais. Portanto, a combinação de polimialgia reumática e arterite de células gigantes é o diagnóstico mais provável.",
+      "topicos": [
+        {
+          "area": "Reumatologia",
+          "subtopico": "Vasculites"
+        }
+      ],
+      "area": "Reumatologia"
+    },
+    {
+      "numero": 17,
+      "tags": [
+        "InfectologiaNefrologia"
+      ],
+      "enunciado": "Homem, 69 anos de idade, está internado para tratamento de Covid-19 grave. Está sob ventilação mecânica, pressão controlada, com FiO² = 60%, PEEP = 12 cmH²O e relação PaO2/FiO² = 180 mmHg. Nas 24 horas subsequentes, evoluiu hemodinamicamente estável, em uso de baixa dose de noradrenalina, piora radiológica do pulmão, relação PaO²/FiO² = 140 mmHg e volume urinário de 50 mL. Exames laboratoriais: creatinina = 4,8 mg/dL, ureia = 94 mEq/L, potássio=5,8 mEq/L, HCO³=13 mEq/L. Qual é a conduta mais adequada neste momento?",
+      "alternativas": {
+        "A": "Passagem de cateter venoso de duplo lúmen e início de hemodiálise.",
+        "B": "Passagem de cateter peritoneal e início de diálise peritoneal.",
+        "C": "Infusão contínua de altas doses de diurético de alça e avaliação de débito urinário.",
+        "D": "Correção da acidose metabólica com bicarbonato venoso."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa correta é a A, que sugere a passagem de cateter venoso de duplo lúmen e início de hemodiálise. O paciente apresenta sinais de insuficiência renal aguda, evidenciada pela elevação da creatinina e ureia, hipercalemia (potássio elevado) e acidose metabólica (HCO3 baixo). A oligúria (volume urinário de 50 mL) e a piora da função renal indicam a necessidade de terapia de substituição renal imediata. A hemodiálise é indicada para corrigir rapidamente as anormalidades eletrolíticas e acidobásicas. As outras alternativas são inadequadas: a diálise peritoneal (B) não é a escolha ideal em situações agudas graves; o uso de diuréticos (C) é ineficaz na presença de oligúria severa; e a correção da acidose com bicarbonato (D) não aborda a causa subjacente e pode ser prejudicial sem tratar a hipercalemia e a sobrecarga de volume.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        },
+        {
+          "area": "Nefrologia",
+          "subtopico": "Insuficiência Renal Aguda (IRA)"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 18,
+      "tags": [
+        "DermatologiaForma cutâneolinfática Menino, 10 anos de idade, há 1 mês foi ferido por um gato, evoluindo com lesão na mão direita que progrediu com surgimento de novas lesões no antebraço direito. Sem doenças prévias. Ao exame dermatológico, vários nódulos ulcerados de 0,3 cm a 1,5 cm em disposição linear seguindo linfático como conta de rosário, acometendo dorso da mão direita e antebraço direito."
+      ],
+      "enunciado": "Menino, 10 anos de idade, há 1 mês foi ferido por um gato, evoluindo com lesão na mão direita que progrediu com surgimento de novas lesões no antebraço direito. Sem doenças prévias. Ao exame dermatológico, vários nódulos ulcerados de 0,3 cm a 1,5 cm em disposição linear seguindo linfático como conta de rosário, acometendo dorso da mão direita e antebraço direito. Qual é a hipótese mais provável?",
+      "alternativas": {
+        "A": "Dermatofitose.",
+        "B": "Doença da arranhadura de gato.",
+        "C": "Micobacteriose atípica.",
+        "D": "Esporotricose."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A esporotricose é uma infecção fúngica causada pelo Sporothrix schenckii, frequentemente associada a lesões cutâneas após trauma com material vegetal ou contato com animais infectados, como gatos. A doença da arranhadura de gato (B) é causada por Bartonella henselae e geralmente se apresenta com linfadenopatia regional. Dermatofitose (A) é uma infecção fúngica superficial que afeta pele, cabelo e unhas, mas não está associada a traumas específicos. Micobacteriose atípica (C) refere-se a infecções por micobactérias não tuberculosas, que têm apresentações clínicas distintas. A esporotricose é a hipótese mais provável devido à sua associação clássica com lesões cutâneas após trauma e contato com animais, especialmente em áreas endêmicas.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Fungoses e Infecções Oportunistas"
+        },
+        {
+          "area": "Dermatologia",
+          "subtopico": "Infecções de Pele"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 19,
+      "tags": [
+        "Critérios de SIRSDefiniçãoSepse Sepse é deJnida pel"
+      ],
+      "enunciado": "Sepse é deJnida pela presença de disfunção orgânica ameaçadora a vida, decorrente da resposta desregulada do organismo frente a um processo infeccioso. Em relação aos critérios atuais para o diagnóstico de sepse, marque a assertiva correta:",
+      "alternativas": {
+        "A": "Um dos critérios diagnósticos de sepse é a identificação da disfunção orgânica por meio do quick-SOFA, utilizado por sua praticidade e sensibilidade e especificidade elevadas.",
+        "B": "A presença de disfunção em um único órgão ou sistema, mesmo que na suspeita de infecção, não fecha critério para o diagnóstico de sepse.",
+        "C": "O escore SOFA não deve ser utilizado em pacientes com disfunção orgânica prévia, devendo-se utilizar os critérios de síndrome de resposta inflamatória sistêmica.",
+        "D": "O critério operacional para definição de disfunção orgânica é a variação de dois pontos no escore SOFA, que leva em conta a disfunção respiratória, hematológica, hepática, cardiovascular, neurológica e renal."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D está correta porque, segundo os critérios atuais para o diagnóstico de sepse, a definição de disfunção orgânica é baseada em uma variação de dois pontos no escore SOFA (Sequential Organ Failure Assessment). Este escore avalia a função de vários sistemas orgânicos, incluindo respiratório, hematológico, hepático, cardiovascular, neurológico e renal. A alternativa A está incorreta porque o quick-SOFA é uma ferramenta de triagem e não substitui o SOFA completo para diagnóstico. A alternativa B está errada porque a presença de disfunção orgânica em um único sistema pode sim indicar sepse se houver suspeita de infecção. A alternativa C está incorreta porque o SOFA pode ser usado em pacientes com disfunção prévia, ajustando-se para a linha de base. A questão é classificada em Infectologia, pois trata do diagnóstico de sepse, uma condição infecciosa crítica.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Sepse e Infecções Bacterianas Graves"
+        },
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Choque"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 20,
+      "tags": [
+        "DiagnosticoTratamento"
+      ],
+      "enunciado": "Mulher, 34 anos de idade, procura o PS com dispneia progressiva nas últimas 2 semanas, com piora nas últimas 24 horas, associada a dor torácica ventilatório dependente em hemitórax direito há 2 horas. Está gestante de 30 semanas com pré- natal sem intercorrências e bom desenvolvimento fetal. Tem asma desde a infância com episódios de tosse, chiado e falta de ar no inverno, sem crises durante a gestação. Ao exame: BEG, afebril, taquipneica; PA= 100/60 mmHg, FC= 110 bpm, FR= 32 irpm, SpO²= 93%; ausculta respiratória com sons pulmonares globalmente reduzidos e raros sibilos; abdome gravídico; edema maleolar bilateral, sem sinais de empastamento. Exames: ECG= taquicardia sinusal; Rx de tórax= sem alterações; gasometria arterial em ar ambiente com pH= 7,45, PaO²= 66 mmHg, PaCO² = 31 mmHg, HCO³ = 20 mEq/L, SpO² = 93%. Hemograma e função renal normais. Considerando o quadro atual, qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Contraindicar a angiotomografia de tórax, considerando o risco de teratogenicidade.",
+        "B": "Excluir o diagnóstico de tromboembolia pulmonar aguda se o dímero-D for negativo.",
+        "C": "Aplicar uma dose de 60 mg de enoxaparina e encaminhar a paciente para angiotomografia de tórax.",
+        "D": "Solicitar ultrassonografia com Doppler de membros inferiores e angioressonância de tórax."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A paciente apresenta sinais clínicos sugestivos de tromboembolia pulmonar (TEP), como dispneia súbita, dor torácica pleurítica e taquicardia. A enoxaparina, um anticoagulante, é indicada para iniciar o tratamento empírico de TEP em gestantes, considerando o risco elevado e a segurança relativa do medicamento durante a gravidez. A angiotomografia de tórax é o exame de escolha para confirmar TEP, mesmo em gestantes, pois o risco de não tratar a condição supera o risco de exposição à radiação. A alternativa A está incorreta porque a angiotomografia é indicada mesmo na gravidez. A alternativa B está errada porque um dímero-D negativo não exclui TEP em gestantes. A alternativa D não é a melhor abordagem inicial, pois a angiotomografia é mais específica para TEP. Assim, a alternativa C é a mais adequada, combinando tratamento e diagnóstico confirmatório.",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "Tromboembolismo Pulmonar (TEP)"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 21,
+      "tags": [
+        "Medicina Preventiva"
+      ],
+      "enunciado": "Durante a pandemia de Covid-19, pesquisadores brasileiros conduziram um estudo transversal com o objetivo de avaliar padrões de uso de álcool na população brasileira. Para tal, foi criado um questionário virtual, cujo link de acesso foi compartilhado em diferentes redes sociais. O questionário apresentava questões que solicitavam o relato sobre o volume de álcool consumido no mês da pesquisa. Este volume de álcool deveria ser calculado pelos participantes a partir de tabelas que apresentavam equivalência entre o volume consumido dos diferentes tipos de bebida alcoólicas e a concentração de etanol por volume em cada uma delas. Quais tipos de vieses são encontrados neste estudo?",
+      "alternativas": {
+        "A": "Viés de compatibilidade e seleção.",
+        "B": "Viés de confundimento e de informação.",
+        "C": "Viés de confundimento e de traço.",
+        "D": "Viés de seleção e de informação."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa correta é D: Viés de seleção e de informação. O viés de seleção ocorre quando o método de recrutamento dos participantes (neste caso, via redes sociais) não representa adequadamente a população-alvo, podendo levar a uma amostra não representativa. O viés de informação pode surgir devido à forma como os dados são coletados, como o uso de questionários autoadministrados, que podem resultar em erros de relato ou interpretação dos participantes. As outras alternativas estão incorretas porque não se aplicam diretamente ao contexto do estudo descrito: viés de confundimento envolve fatores externos que confundem a relação entre a variável de exposição e o desfecho, e viés de traço não é um termo comum em epidemiologia. Portanto, a questão se enquadra na área de Medicina preventiva, que abrange estudos epidemiológicos e seus vieses.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Epidemiologia"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 24,
+      "tags": [
+        "Medicina Preventiva"
+      ],
+      "enunciado": "Para que um determinado território estadual se constitua numa região de atenção à saúde, é necessário que ela tenha, no mínimo, ações e serviços de:",
+      "alternativas": {
+        "A": "urgência e emergência.",
+        "B": "terapia intensiva coronariana.",
+        "C": "terapia renal substitutiva.",
+        "D": "assistência de alta complexidade em oncologia."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa correta é a A: urgência e emergência. Para que um território estadual se constitua numa região de atenção à saúde, é essencial que ele ofereça serviços básicos de saúde, incluindo urgência e emergência, que são fundamentais para atender a população em situações críticas e imediatas. As outras alternativas, como terapia intensiva coronariana, terapia renal substitutiva e assistência de alta complexidade em oncologia, referem-se a serviços de alta complexidade que não são obrigatórios para a constituição inicial de uma região de atenção à saúde. A questão está relacionada à organização dos serviços de saúde e à garantia de acesso a cuidados essenciais, o que se enquadra na área de Medicina preventiva.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "SUS"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 25,
+      "tags": [
+        "Medicina Preventiva"
+      ],
+      "enunciado": "O modelo de atenção à saúde indígena desenvolvido no país, expresso na proposta da Política Nacional de Atenção à Saúde dos Povos Indígenas (PNASPI), publicada em 2002, e organizado em um Subsistema de Atenção à Saúde Indígena (SasiSUS), parte dos mesmos princípios e diretrizes do Sistema Único de Saúde (SUS). É correto afirmar que o modelo de atenção à saúde indígena:",
+      "alternativas": {
+        "A": "trabalha com o contexto sociopolítico atual e as especificidades regionais, com acesso a saberes, práticas de saúde e formas de interpretar o processo saúde/doença.",
+        "B": "é pautado nas bases técnico-científicas que demonstram o avanço da cultura humanística e das ciências na sociedade e suas consequências ao desenvolvimento social.",
+        "C": "tem como referência os conhecimentos em biomedicina, um vasto campo de teorias e práticas em saúde asseguradas por experimentos e métodos avaliativos reconhecidos globalmente.",
+        "D": "é constituído por formas históricas e saberes tradicionais que coexistem harmonicamente nas sociedades urbanizadas e grupos indígenas."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é correta porque destaca a importância de considerar o contexto sociopolítico e as especificidades regionais na atenção à saúde indígena, alinhando-se com os princípios do SUS que valorizam a integralidade e a equidade. A Política Nacional de Atenção à Saúde dos Povos Indígenas (PNASPI) visa integrar saberes tradicionais e práticas de saúde, respeitando as particularidades culturais dos povos indígenas. As alternativas B e C focam em abordagens técnico-científicas e biomédicas, que não são exclusivas ou suficientes para a atenção à saúde indígena. A alternativa D menciona a coexistência harmônica de saberes, mas não aborda o contexto sociopolítico e regional, essencial para a PNASPI. Assim, a questão se enquadra em Medicina preventiva, pois trata de políticas de saúde pública e atenção primária voltadas para populações específicas.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Atenção Primária e Saúde da Família"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 26,
+      "tags": [
+        "Medicina Preventiva"
+      ],
+      "enunciado": "Mulher, 30 anos de idade, mora na rua, no centro da cidade de São Paulo. Durante a pandemia, perdeu o trabalho como manicure e passou a viver como trabalhadora do sexo. Atualmente, tem poucos clientes e, para comer todo dia, depende de doações. Esta situação de insegurança alimentar, frequente para outras mulheres no território, é vivenciada por ela com ansiedade, inGuenciando em seu consumo de álcool e outras drogas. Ela tem um companheiro com quem tem uma relação afetiva estável. Nesta semana, procurou a UBS devido a atraso menstrual e foi feito o diagnóstico de gestação. Para a equipe elaborar um Projeto Terapêutico Singular, qual é a alternativa mais adequada?",
+      "alternativas": {
+        "A": "Construir projetos de cuidado para esta mulher e conduzir ações coletivas de saúde.",
+        "B": "Definir políticas públicas socioeconômicas e elaborar medidas de saúde populacionais.",
+        "C": "Orientar condutas médicas de mudanças de estilo de vida e a aderência da paciente.",
+        "D": "Possibilitar aos profissionais de saúde prevenir e tratar as doenças causadas diretamente por esta condição de vida."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é a correta, pois propõe a construção de projetos de cuidado individualizados e ações coletivas de saúde, abordando a situação de vulnerabilidade social e insegurança alimentar da paciente. O conceito médico fundamental aqui é a abordagem integral e multidisciplinar em saúde pública, que visa não apenas tratar condições médicas, mas também atuar sobre determinantes sociais da saúde. As outras alternativas são inadequadas: B foca em políticas públicas amplas, não específicas para o caso; C sugere mudanças de estilo de vida, mas não aborda a complexidade social; D limita-se a tratar doenças sem considerar a prevenção e promoção de saúde. A questão se enquadra em Medicina preventiva, pois envolve estratégias de saúde pública e promoção da saúde em populações vulneráveis.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Saúde Mental na Comunidade"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 29,
+      "tags": [
+        "Medicina Preventiva No Brasil, a tomada de decisão para o enfrentamento da pandemia de Covid-19 é um desaJo devido sua grande extensão territorial, heterogeneidade demográJca, social e econômica. Estudar a relação entre indicadores de saúde, demográficos, sociais, econômicos e a mortalidade por Covid-19 é de extrema importância neste contexto."
+      ],
+      "enunciado": "No Brasil, a tomada de decisão para o enfrentamento da pandemia de Covid-19 é um desaJo devido sua grande extensão territorial, heterogeneidade demográJca, social e econômica. Estudar a relação entre indicadores de saúde, demográficos, sociais, econômicos e a mortalidade por Covid-19 é de extrema importância neste contexto. Qual teste estatístico deve ser utilizado para verificar se a mortalidade por Covid-19 está relacionada com o número de leitos de UTI, Índice de Gini (numericamente, varia entre 0 e 1), Índice de Desenvolvimento Humano (numericamente, varia entre 0 e 1) e taxa de analfabetismo?",
+      "alternativas": {
+        "A": "Teste T de Student para duas populações independentes.",
+        "B": "Teste de Correlação de Pearson.",
+        "C": "Teste Qui-quadrado de Independência.",
+        "D": "Teste de McNemar."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alternativa correta é B: Teste de Correlação de Pearson. Este teste é apropriado para verificar a relação entre variáveis numéricas contínuas, como a mortalidade por Covid-19 e fatores como número de leitos de UTI, Índice de Gini, Índice de Desenvolvimento Humano e taxa de analfabetismo. O Teste T de Student (A) é usado para comparar médias entre duas populações independentes, o Teste Qui-quadrado de Independência (C) é para variáveis categóricas, e o Teste de McNemar (D) é para dados pareados categóricos. A questão se enquadra em Medicina preventiva, pois envolve análise de dados epidemiológicos e fatores sociais relacionados à saúde pública.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Epidemiologia"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 30,
+      "tags": [
+        "Medicina Preventiva De acordo com as recomendações do Ministério da Saúde para as atividades da Atenção Básica no manejo operacional d"
+      ],
+      "enunciado": "De acordo com as recomendações do Ministério da Saúde para as atividades da Atenção Básica no manejo operacional das Infecções Sexualmente Transmissíveis (IST), selecione a alternativa correta.",
+      "alternativas": {
+        "A": "Notificar imediatamente as IST, com finalidade de bloqueio da cadeia epidemiológica.",
+        "B": "Iniciar o tratamento e referir os casos de IST para serviços especializados com recursos laboratoriais para seguimento.",
+        "C": "Promover capacitações para os profissionais de saúde da atenção básica.",
+        "D": "Realizar consulta imediata no caso de úlceras genitais, corrimentos genitais masculinos e femininos e de verrugas anogenitais."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D é a correta porque a abordagem imediata de úlceras genitais, corrimentos e verrugas anogenitais é crucial para o diagnóstico e tratamento precoce das ISTs, prevenindo complicações e a transmissão. A consulta imediata permite a identificação e tratamento adequado, interrompendo a cadeia de transmissão. A alternativa A está incorreta porque nem todas as ISTs requerem notificação imediata, apenas algumas específicas. A alternativa B não é prática, pois o tratamento inicial deve ser feito na atenção básica, sem necessidade de encaminhamento imediato para serviços especializados. A alternativa C, embora importante, não aborda diretamente o manejo clínico das ISTs. Assim, a resposta correta foca na ação clínica imediata e eficaz para o manejo das ISTs, que é um aspecto central da infectologia.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Atenção Primária e Saúde da Família"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 31,
+      "tags": [
+        "Medicina Preventiva"
+      ],
+      "enunciado": "Em relação aos princípios éticos que devem orientar os ensaios clínicos aleatorizados, qual é a afirmativa correta?",
+      "alternativas": {
+        "A": "O estudo pode ser continuado mesmo que se obtenha a evidência de benefício do tratamento em análise interina.",
+        "B": "Deve ser usado o maior tamanho de amostra possível com o intuito de representar a variabilidade étnica.",
+        "C": "O Termo de Consentimento Livre e Esclarecido garante a anonimização ou pseudoanonimização dos dados.",
+        "D": "É vetado deixar de administrar aos participantes do estudo medicamento de eficácia comprovada e que lhe trará benefícios."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D é a correta, pois um dos princípios éticos fundamentais em ensaios clínicos é o de não privar os participantes de tratamentos comprovadamente eficazes. Isso está relacionado ao princípio da beneficência, que visa maximizar os benefícios e minimizar os danos aos participantes. A alternativa A está incorreta porque, ao se obter evidência de benefício, é antiético continuar o estudo sem oferecer o tratamento eficaz a todos os participantes. A alternativa B está errada, pois o tamanho da amostra deve ser suficiente para responder à pergunta de pesquisa, não necessariamente o maior possível. A alternativa C está incorreta, pois o Termo de Consentimento Livre e Esclarecido não garante anonimização, mas sim que os participantes estão cientes dos riscos e benefícios do estudo. Portanto, a questão se enquadra na área de Medicina preventiva, que abrange ética médica e ensaios clínicos.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Bioética e Ética Médica"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 32,
+      "tags": [
+        "Medicina Preventiva"
+      ],
+      "enunciado": "Homem, 35 anos de idade, foi vítima de acidente no ambiente de trabalho com estilhaço de metal que atingiu e perfurou seu olho direito há seis horas, causando amaurose total à direita. Seus óculos de proteção estavam no bolso do uniforme. Trabalha em uma serralheria que emprega 50 pessoas. Após o atendimento de urgência, qual é a alternativa que indica uma ação de atenção ao trabalhador e a proposta de uma medida de prevenção coletiva mais adequadas a esta situação?",
+      "alternativas": {
+        "A": "Emissão de Comunicado de Acidente de Trabalho; verificação do funcionamento da Comissão Interna de Prevenção de Acidentes.",
+        "B": "Encaminhamento para acompanhamento oftalmológico; reorganização do processo de trabalho visando maior margem de manobra.",
+        "C": "Inscrição em programa de treinamento para readaptação funcional; aquisição de Equipamento de Proteção Individual mais efetivo.",
+        "D": "Encaminhamento para Centro de Referência em Saúde do Trabalhador para estabelecer o nexo causal; estudo de ergonomia."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é a correta porque a emissão de um Comunicado de Acidente de Trabalho (CAT) é obrigatória para registrar formalmente o acidente e garantir os direitos do trabalhador. A verificação do funcionamento da Comissão Interna de Prevenção de Acidentes (CIPA) é uma medida de prevenção coletiva, pois a CIPA tem o papel de identificar riscos e propor melhorias no ambiente de trabalho. As outras alternativas não abordam diretamente a necessidade de registro formal do acidente e a atuação da CIPA, que são fundamentais para a prevenção e gestão de riscos no ambiente laboral. A questão está relacionada à Medicina preventiva, pois envolve a prevenção de acidentes de trabalho e a promoção da saúde ocupacional.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Saúde do Trabalhador"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 33,
+      "tags": [
+        "Endocrinologia"
+      ],
+      "enunciado": "Sobre as atuais recomendações de metas de um paciente com diabetes mellitus segundo as diretrizes da Sociedade Brasileira de Diabetes. Qual é a alternativa correta?",
+      "alternativas": {
+        "A": "As metas glicêmicas iniciais são definidas pela idade e sobrepeso do paciente com diabetes.",
+        "B": "A meta de Hb1Ac considera < 7,0% como limite superior de controle em pacientes com diabetes.",
+        "C": "A fragilidade do paciente no momento da avaliação é definidora das metas glicêmicas.",
+        "D": "A meta de glicemia define 100 mg/dL como limite superior da efetividade do controle glicêmico de jejum."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa C é correta porque as metas glicêmicas em pacientes com diabetes devem ser individualizadas, levando em consideração a fragilidade do paciente, entre outros fatores, como comorbidades e expectativa de vida. A Sociedade Brasileira de Diabetes recomenda que, em pacientes frágeis, as metas glicêmicas sejam menos rigorosas para evitar riscos de hipoglicemia. A alternativa B está incorreta porque a meta de HbA1c < 7,0% é uma diretriz geral, mas pode ser ajustada conforme o perfil do paciente. A alternativa A está errada pois as metas não são definidas apenas por idade e sobrepeso. A alternativa D está incorreta, pois a glicemia de jejum ideal varia e 100 mg/dL não é um limite universal para controle glicêmico. Portanto, a individualização das metas é um conceito fundamental no manejo do diabetes, especialmente em pacientes idosos ou frágeis.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Diabetes Mellitus"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 34,
+      "tags": [
+        "Medicina Preventiva O trabalho em equipe consiste em estratégia para a integração das especialidades médicas e das múltiplas proJssões, essencial para o desenvolvimento do cuidado integral do"
+      ],
+      "enunciado": "O trabalho em equipe consiste em estratégia para a integração das especialidades médicas e das múltiplas proJssões, essencial para o desenvolvimento do cuidado integral do paciente. Assinale a alternativa que contém um atributo e um instrumento para o trabalho em equipe efetivo.",
+      "alternativas": {
+        "A": "Especialização dos saberes; conversa informal.",
+        "B": "Divisão de responsabilidades; auditoria de prontuários.",
+        "C": "Reflexividade; apoio matricial.",
+        "D": "Heterogeneidade dos objetivos; controle de produtividade."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa C é a correta porque 'reflexividade' e 'apoio matricial' são conceitos fundamentais para o trabalho em equipe efetivo na saúde. Reflexividade envolve a capacidade de refletir sobre as práticas e processos, promovendo melhorias contínuas. O apoio matricial é um modelo de gestão que integra diferentes especialidades e saberes, facilitando a colaboração e a troca de conhecimentos entre equipes. As outras alternativas não são adequadas: a especialização dos saberes e a conversa informal (A) não garantem efetividade; a divisão de responsabilidades e auditoria de prontuários (B) são mais operacionais do que colaborativas; e a heterogeneidade dos objetivos e controle de produtividade (D) podem gerar conflitos e não promovem a integração necessária para um trabalho em equipe eficaz. A questão se enquadra em Medicina preventiva, pois aborda aspectos de gestão e organização em saúde.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Atenção Primária e Saúde da Família"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 35,
+      "tags": [
+        "Endocrinologia"
+      ],
+      "enunciado": "Em relação à prevenção primária de diabetes mellitus tipo 2 (DM2) em adultos. Qual é a alternativa mais adequada?",
+      "alternativas": {
+        "A": "O uso de metformina é a primeira opção para prevenir ou postergar o aparecimento de DM2 nos grupos de risco.",
+        "B": "Mudança de estilo de vida são capazes de prevenir ou postergar o aparecimento de DM2 em curto e longo prazos.",
+        "C": "É necessária perda de peso de 10 a 15% em pessoas com sobrepeso ou obesidade para prevenir ou postergar DM2.",
+        "D": "A realização de atividade física moderada por 30 minutos três vezes por semana é capaz de prevenir ou postergar DM2."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alternativa B é a correta, pois a mudança de estilo de vida, incluindo dieta saudável e aumento da atividade física, é a estratégia mais eficaz para prevenir ou postergar o aparecimento de diabetes mellitus tipo 2 em indivíduos de alto risco. Estudos demonstram que intervenções no estilo de vida podem reduzir significativamente a incidência de DM2. A alternativa A está incorreta, pois a metformina é considerada em casos específicos, mas não é a primeira opção para prevenção primária. A alternativa C exagera na porcentagem de perda de peso necessária; uma perda de 5 a 7% já é eficaz. A alternativa D subestima a frequência e intensidade recomendadas para atividade física, que geralmente é de 150 minutos por semana. Portanto, a ênfase correta é na mudança de estilo de vida como a principal medida preventiva.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Diabetes Mellitus"
+        },
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Rastreamento e Prevenção"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 36,
+      "tags": [
+        "Medicina Preventiva Um bairro da zona sul do município de São"
+      ],
+      "enunciado": "Um bairro da zona sul do município de São Paulo teve em sua formação a instalação de diversas indústrias químicas e petroquímicas, responsáveis por um importante passivo ambiental, com contaminação de solo e água subterrânea por metais pesados, solventes clorados e halogenados e outras substâncias químicas perigosas à saúde humana. Posteriormente, houve aumento do interesse imobiliário na região, com a mudança do uso do solo, de industrial para residencial, comercial e de serviços. Das funções abaixo, qual é a de responsabilidade da Vigilância em Saúde Ambiental nesta situação?",
+      "alternativas": {
+        "A": "Identificar a população exposta aos contaminantes e, em conjunto com a atenção básica, estruturar um protocolo de atenção à saúde dessa população com identificação e tratamento precoces de possíveis efeitos resultantes desta exposição.",
+        "B": "Realizar a análise do solo e da água da região a fim de encontrar os contaminantes presentes nos compartimentos ambientais atingidos, e a delimitação da pluma de contaminação de cada substância identificada, como metais pesados, por exemplo.",
+        "C": "Uma vez identificados os contaminantes e a extensão da contaminação de cada compartimento ambiental atingido, demandar a remediação da área pelo poluidor, que se não cumprida, resultará na autuação do poluidor pela Vigilância em Saúde Ambiental.",
+        "D": "Controle do processo de remediação da área através de estudos toxicológicos periódicos dos contaminantes presentes no solo da região e cuidado à saúde dos trabalhadores das industrias com a identificação de tratamento de efeitos resultantes desta exposição."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é a correta porque a Vigilância em Saúde Ambiental tem a responsabilidade de identificar populações expostas a contaminantes ambientais e colaborar com a atenção básica para estruturar protocolos de atenção à saúde. Isso inclui a identificação e tratamento precoce de efeitos adversos à saúde resultantes da exposição a contaminantes. As outras alternativas, como B, C e D, envolvem ações que são mais técnicas e específicas, como análise de solo e água, remediação de áreas contaminadas e controle de remediação, que não são funções diretas da Vigilância em Saúde Ambiental, mas sim de outras entidades ou setores especializados. A função principal da Vigilância em Saúde Ambiental é proteger a saúde pública através da identificação e mitigação de riscos ambientais à saúde.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Saúde do Trabalhador"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 37,
+      "tags": [
+        "Medicina Preventiva Conforme a bula de teste para Covid-19 adquirido na farmácia, este tem 99,1% de sensibilidade e 95,5% especiJcidade para IgM e 88% de sensibilidade e 90% de especiJcidade para IgG."
+      ],
+      "enunciado": "Conforme a bula de teste para Covid-19 adquirido na farmácia, este tem 99,1% de sensibilidade e 95,5% especiJcidade para IgM e 88% de sensibilidade e 90% de especiJcidade para IgG. Qual das alternativas indica a interpretação correta destes dados?",
+      "alternativas": {
+        "A": "0,9% de resultado falso-negativo para IgM e 88% de resultado verdadeiro-positivo para IgG.",
+        "B": "0,9% de resultado falso-positivo para IgM e 12% de resultado falso-negativo para IgG.",
+        "C": "99,1% de resultado falso-negativo para IgM e 88% de resultado falso-negativo para IgG.",
+        "D": "0,9% de resultado verdadeiro-negativo para IgM e 12% de resultado falso-positivo para IgG."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é a correta, pois descreve um resultado falso-negativo de 0,9% para IgM e um resultado verdadeiro-positivo de 88% para IgG. Esses dados são típicos de um teste sorológico, onde a sensibilidade e a especificidade são avaliadas. A sensibilidade refere-se à capacidade do teste de identificar corretamente aqueles com a doença (verdadeiro-positivo), enquanto a especificidade refere-se à capacidade de identificar corretamente aqueles sem a doença (verdadeiro-negativo). As outras alternativas apresentam combinações de resultados que não são consistentes com a interpretação correta dos dados de sensibilidade e especificidade. A questão se enquadra em Medicina preventiva, pois envolve a interpretação de dados epidemiológicos e a avaliação de testes diagnósticos, que são fundamentais para a prevenção e controle de doenças.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Bioestatística"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 38,
+      "tags": [
+        "Medicina Preventiva Um estudo clínico prospectivo avaliou a mudança de peso em uma amostra de"
+      ],
+      "enunciado": "Um estudo clínico prospectivo avaliou a mudança de peso em uma amostra de pacientes com osteoartrite de joelho submetidos a uma dieta por quatro meses. Após esse período os pacientes apresentaram uma mudança média de peso de - 1,11 kg (IC95%: [-1,52; -0,70]). Qual das afirmações abaixo melhor descreve a informação fornecida pelo intervalo de confiança de 95%?",
+      "alternativas": {
+        "A": "A mudança média de peso após quatro meses na dieta foi estatisticamente diferente de zero ao nível de significância de 5%.",
+        "B": "O intervalo de confiança mostra que 95% dos pacientes da amostra obtiveram mudança de peso entre -1,52 e - 0,70 kg.",
+        "C": "Esse intervalo define que 95% da população atingiria uma mudança de peso entre -1,52 e -0,70 kg se recebesse a dieta em estudo.",
+        "D": "Existe uma probabilidade de 0,95 de que a mudança média de peso dos pacientes da amostra tenha ficado entre -1,52 e -0,70 kg."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é correta porque um intervalo de confiança de 95% que não inclui zero indica que a mudança média de peso é estatisticamente significativa ao nível de 5%. Isso significa que há evidência suficiente para afirmar que a dieta teve um efeito real na perda de peso. A alternativa B está incorreta porque o intervalo de confiança não se refere a 95% dos pacientes, mas sim à estimativa da média populacional. A alternativa C está errada porque o intervalo de confiança não garante que 95% da população terá resultados dentro desse intervalo, mas sim que, se repetíssemos o estudo várias vezes, 95% dos intervalos calculados conteriam a verdadeira média populacional. A alternativa D está incorreta porque o intervalo de confiança não se refere à probabilidade de a média da amostra estar dentro do intervalo, mas sim à estimativa da média populacional.",
+      "topicos": [
+        {
+          "area": "Medicina Preventiva / Saúde Coletiva",
+          "subtopico": "Bioestatística"
+        }
+      ],
+      "area": "Medicina Preventiva / Saúde Coletiva"
+    },
+    {
+      "numero": 39,
+      "tags": [
+        "Oftalmologia"
+      ],
+      "enunciado": "Homem, 40 anos de idade, procura PS com quadro de hiperemia, dor e edema palpebrais à esquerda há 2 dias. Nega piora da acuidade visual e doenças pregressas. Ao exame oftalmológico: acuidade visual de 20/20 em ambos olhos, reflexos pupilares isofotorreagentes, limitação à adução do olho direito e disco óptico sem edema. Qual é a conduta inicial mais adequada?",
+      "alternativas": {
+        "A": "Hemograma e antibioticoterapia oral.",
+        "B": "Tomografia de órbitas com contraste e antibioticoterapia venosa.",
+        "C": "Dosagem de TSH e T4L, e descompressão orbitária.",
+        "D": "Provas reumatológicas e pulsoterapia."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A apresentação clínica sugere celulite orbitária, uma infecção grave dos tecidos orbitários que pode comprometer a visão e se disseminar para o sistema nervoso central. A tomografia de órbitas com contraste é essencial para confirmar o diagnóstico e avaliar a extensão da infecção. A antibioticoterapia venosa é indicada devido à gravidade potencial da condição. A alternativa A está incorreta porque a antibioticoterapia oral pode ser insuficiente para tratar uma celulite orbitária. A alternativa C está incorreta porque a dosagem de TSH e T4L e descompressão orbitária são indicadas para orbitopatia de Graves, que não é compatível com o quadro clínico. A alternativa D está incorreta porque provas reumatológicas e pulsoterapia são indicadas para doenças autoimunes, não para infecções orbitárias agudas.",
+      "topicos": [
+        {
+          "area": "Oftalmologia",
+          "subtopico": "Síndrome do Olho Vermelho"
+        }
+      ],
+      "area": "Oftalmologia"
+    },
+    {
+      "numero": 40,
+      "tags": [
+        "Oftalmologia"
+      ],
+      "enunciado": "Mulher, 75 anos de idade, relata preocupação com riscos de efeitos colaterais oculares da polifarmácia após ler uma publicação na Internet. Exame físico: visando avaliar a profundidade da câmara anterior, observa-se região de penumbra sobre a parte nasal da íris após incidência de luz paralela ao rosto da paciente. Qual das seguintes medicações presentes na prescrição da paciente tem menor risco de precipitar glaucoma de ângulo fechado?",
+      "alternativas": {
+        "A": "Escitalopram.",
+        "B": "Clonazepam.",
+        "C": "Ipratrópio.",
+        "D": "Atorvastatina."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A questão aborda o risco de precipitação de glaucoma de ângulo fechado, que é uma condição oftalmológica. O escitalopram (A) e o clonazepam (B) têm efeitos anticolinérgicos que podem aumentar o risco de glaucoma de ângulo fechado. O ipratrópio (C) é um anticolinérgico usado em doenças respiratórias e também pode aumentar esse risco. A atorvastatina (D), uma estatina usada para controle de colesterol, não possui efeitos anticolinérgicos e, portanto, tem menor risco de precipitar glaucoma de ângulo fechado. Assim, a alternativa D é a correta. O conceito médico fundamental é a relação entre medicamentos com efeitos anticolinérgicos e o risco de glaucoma de ângulo fechado, que ocorre devido ao fechamento do ângulo de drenagem do humor aquoso, levando ao aumento da pressão intraocular.",
+      "topicos": [
+        {
+          "area": "Oftalmologia",
+          "subtopico": "Catarata e Ametropias"
+        }
+      ],
+      "area": "Oftalmologia"
+    },
+    {
+      "numero": 41,
+      "tags": [
+        "Adenomiose"
+      ],
+      "enunciado": "Mulher, 44 anos de idade, 3G 3P, apresenta dismenorreia progressiva há 2 anos, associada a aumento do volume menstrual e dispaurenia, há 8 meses, dificultando o relacionamento sexual. Ao exame: útero aumentado 2 vezes de tamanho, consistência amolecida. US pélvico: útero heterogêneo, focos hiperecogênicos puntiformes em meio a trama miometrial, espessura endometrial 8 mm, volume uterino: 178 ml, ovários sem alterações. A conduta mais adequada é:",
+      "alternativas": {
+        "A": "prescrever danazol via oral.",
+        "B": "realizar histerectomia sub-total.",
+        "C": "prescrever análogo de GnRH subcutâneo.",
+        "D": "realizar embolização das artérias uterinas."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A paciente apresenta sintomas e achados ultrassonográficos sugestivos de adenomiose, uma condição em que o tecido endometrial invade o miométrio, causando aumento uterino e sintomas como dismenorreia e menorragia. A histerectomia é o tratamento definitivo para adenomiose em mulheres que não desejam preservar a fertilidade, especialmente quando os sintomas são severos e refratários a outras terapias. Danazol e análogos de GnRH podem ser usados para manejo temporário, mas não são soluções definitivas. A embolização das artérias uterinas é mais indicada para miomas uterinos, não sendo a primeira escolha para adenomiose. Portanto, a histerectomia sub-total é a conduta mais adequada para esta paciente, considerando o quadro clínico e a falha de tratamentos conservadores.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Endometriose e Dor Pélvica Crônica"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 42,
+      "tags": [
+        "VulvovaginitesGinecologia"
+      ],
+      "enunciado": "Menina, 5 anos de idade, é trazida pela mãe ao ginecologista, por corrimento abundante há 30 dias. Ao exame: hímen íntegro, corrimento branco, Guído, sem odor, consistência mucoide, pH 4,2, teste das aminas negativo, ausência de lesões em vulva.",
+      "alternativas": {
+        "A": "encaminhar o caso ao conselho tutelar, comunicar autoridade policial pela alta possibilidade de abuso sexual.",
+        "B": "orientar uso de roupas íntimas de material não sintético e limpeza local com água corrente e sabonete neutro.",
+        "C": "realizar exame ginecológico sob sedação para busca de corpo estranho vaginal.",
+        "D": "dosar FSH e LH sérico e realizar radiografia dos punhos para investigação de puberdade precoce."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alternativa correta é B, pois o corrimento vaginal em meninas pré-púberes é frequentemente causado por irritação local ou infecções inespecíficas. A orientação para uso de roupas íntimas de material não sintético e limpeza local com água corrente e sabonete neutro é adequada para reduzir irritação e prevenir infecções. A alternativa A está incorreta, pois não há evidências de abuso sexual, como lesões ou alterações no hímen. A alternativa C não é indicada sem sinais de corpo estranho. A alternativa D não é relevante, pois o quadro não sugere puberdade precoce, dado o pH vaginal normal e a ausência de outros sinais de maturação sexual. Portanto, a abordagem conservadora e de higiene é a mais apropriada para este caso.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Ciclo Menstrual Anovulação e Amenorreia"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 43,
+      "tags": [
+        "EstadiamentoTratamento"
+      ],
+      "enunciado": "Mulher, 47 anos de idade, deu entrada no PS com crise hipertensiva. Exames complementares revelaram ureia 60mg/dL e creatinina de 7 mg/dL, US de vias urinárias com dilatação ureteral bilateral acentuada. Refere diagnóstico recente de carcinoma epidermóide de colo de útero, ainda sem tratamento. A conduta mais adequada do ponto de vista oncológico é:",
+      "alternativas": {
+        "A": "radioterapia associada a quimioterapia sensibilizadora.",
+        "B": "cirurgia de Werthein Meigs.",
+        "C": "traquelectomia radical e parametrectomia.",
+        "D": "imunoterapia com pembrolizumabe (anti PD-L1)."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A paciente apresenta carcinoma epidermóide de colo de útero com obstrução ureteral bilateral, sugerindo doença localmente avançada. A conduta mais adequada é a radioterapia associada a quimioterapia sensibilizadora, que é o tratamento padrão para câncer de colo de útero localmente avançado. A cirurgia de Wertheim-Meigs (B) é indicada para estágios mais iniciais. Traquelectomia radical (C) é para casos em que se deseja preservar a fertilidade, geralmente em estágios iniciais. Imunoterapia com pembrolizumabe (D) não é o tratamento de primeira linha para este tipo de câncer. A questão é classificada em Oncologia, pois trata do manejo de um câncer específico e suas complicações associadas.",
+      "topicos": [
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Endométrio e Ovário"
+        },
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        }
+      ],
+      "area": "Oncologia"
+    },
+    {
+      "numero": 44,
+      "tags": [
+        "Exames complementaresExames complementares"
+      ],
+      "enunciado": "Mulher, 64 anos de idade, refere 2 episódios de sangramento vaginal no último mês, em pequena intensidade, com duração de 2 dias. Ultrassonografia endovaginal revela eco endometrial de 15 mm. Qual é a melhor conduta?",
+      "alternativas": {
+        "A": "Ressonância magnética da pelve.",
+        "B": "Teste da progesterona.",
+        "C": "Histeroscopia diagnóstica.",
+        "D": "Biópsia com cureta de Nowak."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D é a correta porque a biópsia com cureta de Nowak é um método eficaz para avaliar a espessura endometrial aumentada em mulheres pós-menopáusicas com sangramento uterino anormal. O eco endometrial de 15 mm é considerado espesso para uma mulher na pós-menopausa, o que pode indicar hiperplasia endometrial ou carcinoma endometrial. A biópsia é essencial para excluir malignidade. A histeroscopia diagnóstica (C) também poderia ser útil, mas a biópsia é mais direta para diagnóstico histopatológico. A ressonância magnética (A) não é indicada como primeira linha para avaliação de espessamento endometrial. O teste da progesterona (B) não é apropriado para essa situação, pois não fornece diagnóstico histológico. Portanto, a biópsia é o passo mais adequado para investigação diagnóstica neste contexto clínico.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Endométrio e Ovário"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 45,
+      "tags": [
+        "Tratamento cirúrgico"
+      ],
+      "enunciado": "Mulher, 72 anos de idade, encontra-se em cirurgia para câncer de endométrio e a avaliação intraoperatória do produto de histerectomia total e salpingooforectomia bilateral mostrou ser um carcinoma endometrial, do tipo endometróide grau 1, superficialmente invasor, estroma do colo livre. Neste caso, qual (is) procedimento (s) cirúrgicos ainda falta (m) ser realizado (s):",
+      "alternativas": {
+        "A": "Linfadenectomia pélvica bilateral.",
+        "B": "Nenhum outro procedimento é necessário.",
+        "C": "Linfadenectomia pélvica bilateral e para-aórtica.",
+        "D": "Linfadenectomia pélvica bilateral e para-aórtica, omentectomia infra-cólica."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Em casos de carcinoma endometrial, especialmente do tipo endometrioide grau 1 com invasão superficial, a avaliação da extensão da doença é crucial. A linfadenectomia pélvica e para-aórtica é recomendada para estadiamento adequado e para verificar a presença de metástases linfonodais, que são comuns em cânceres ginecológicos. A alternativa C é a correta, pois inclui ambos os procedimentos necessários para um estadiamento completo. A alternativa A está incorreta por omitir a linfadenectomia para-aórtica, que é importante para avaliar a disseminação da doença. A alternativa D adiciona omentectomia infra-cólica, que não é necessária para o estadiamento de um carcinoma endometrial do tipo descrito. A alternativa B está incorreta, pois o estadiamento linfonodal ainda é necessário. Portanto, a escolha correta é a alternativa C.",
+      "topicos": [
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Endométrio e Ovário"
+        },
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        }
+      ],
+      "area": "Oncologia"
+    },
+    {
+      "numero": 46,
+      "tags": [
+        "BIRADS"
+      ],
+      "enunciado": "Mulher, 42 anos de idade, assintomática retorna ao ambulatório com resultado de mamografia (4 incidências básicas): BI- RADS 0, mamas lipossubstituídas e microcalcificações agrupadas em área de 8mm). Qual é o complemento de imagem que deve ser solicitado?",
+      "alternativas": {
+        "A": "Ampliação.",
+        "B": "Compressão.",
+        "C": "Ultrassom.",
+        "D": "Ressonância magnética."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A mamografia com BI-RADS 0 indica que o exame é inconclusivo e requer avaliação adicional. As microcalcificações agrupadas podem ser um sinal de malignidade, e o ultrassom é o exame complementar mais indicado para avaliar melhor as características das lesões mamárias, especialmente em mamas lipossubstituídas. A ampliação e compressão são técnicas adicionais de mamografia que podem ser usadas, mas o ultrassom fornece informações adicionais importantes, como a diferenciação entre lesões císticas e sólidas. A ressonância magnética é geralmente reservada para casos mais complexos ou de alto risco. Portanto, o ultrassom é a escolha mais apropriada para complementar a mamografia neste contexto.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Patologia Mamária"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Mama"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 47,
+      "tags": [
+        "GinecologiaTratamento"
+      ],
+      "enunciado": "Mulher, 32 anos de idade, IG I Parto vaginal há 4 meses, refere incontinência urinária de esforço durante a gestação, com piora no puerpério. Refere perda ao tossir, espirrar e carregar o bebê no colo. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Cirurgia de sling retropúbico.",
+        "B": "Cirurgia de colpofixação retropúbica.",
+        "C": "Fisioterapia do assoalho pélvico.",
+        "D": "Injeção periuretral com agente de preenchimento."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A incontinência urinária de esforço é comum no puerpério devido ao enfraquecimento do assoalho pélvico. A fisioterapia do assoalho pélvico é a primeira linha de tratamento para essa condição, pois visa fortalecer os músculos pélvicos, melhorando o controle urinário. As opções cirúrgicas, como o sling retropúbico e a colpofixação, são indicadas quando o tratamento conservador falha. A injeção periuretral é menos comum e geralmente reservada para casos específicos. Portanto, a fisioterapia é a abordagem inicial mais adequada para esta paciente.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Incontinência Urinária e Prolapso Genital"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 48,
+      "tags": [
+        "Tratamento não hormonal dos sintomas climatéricosTerapia hormonal"
+      ],
+      "enunciado": "Mulher, 56 anos de idade, menopausa aos 49 anos, com antecedente de câncer de mama in situ há 5 anos, procura o ambulatório com queixa de fogachos e secura vaginal há 1 ano. Qual é a alternativa correta quanto ao manejo dos sintomas?",
+      "alternativas": {
+        "A": "Terapia hormonal com estrogênio associado ao progestagênio, uma vez que a paciente tem útero e não teve câncer de mama invasivo.",
+        "B": "Uso de antidepressivos recaptadores de serotonina, para melhora dos fogachos, e hidratante vaginal para atrofia genital.",
+        "C": "A terapia hormonal está contraindicada pois a paciente está fora da janela de oportunidade e pelo aumento do risco cardiovascular.",
+        "D": "Uso do estrogênio vaginal como primeira escolha para melhora da atrofia genital e fogachos, pois o câncer de mama era in situ."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alternativa B é a correta porque o uso de antidepressivos inibidores seletivos da recaptação de serotonina (ISRS) é uma opção não hormonal eficaz para o tratamento de fogachos em mulheres com histórico de câncer de mama, onde a terapia hormonal é geralmente contraindicada. Além disso, o uso de hidratantes vaginais é apropriado para tratar a secura vaginal. A alternativa A está incorreta porque a terapia hormonal é geralmente evitada em pacientes com histórico de câncer de mama, mesmo in situ. A alternativa C está incorreta porque a contraindicação principal é o histórico de câncer de mama, não a janela de oportunidade ou risco cardiovascular. A alternativa D está incorreta porque o uso de estrogênio, mesmo vaginal, pode ser arriscado em pacientes com histórico de câncer de mama, mesmo in situ.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Climatério e Menopausa"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Mama"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 49,
+      "tags": [
+        "ObstetríciaAcretismo placentário"
+      ],
+      "enunciado": "Paciente com 33 semanas de gestação, quartigesta com 3 cesáreas anteriores, previamente assintomática, procura o pronto socorro queixando-se de sangramento vaginal moderado. Sabidamente, possui placenta de inserção baixa centro- total com sinais de acretismo em região ístmica uterina. Não apresenta dinâmica uterina, feto ativo. Ao exame especular, conteúdo sanguinolento residual, sem sangramento ativo. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Resolução imediata da gestação por via alta, abdicando-se da corticoterapia.",
+        "B": "Corticoterapia, internação para controle clínico, cesárea eletiva após 36ª semana.",
+        "C": "Resolução da gestação por via alta, aguardando 48h da corticoterapia.",
+        "D": "Controle clínico domiciliar, retornar se novo episódio de sangramento."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A paciente apresenta placenta prévia com sinais de acretismo, uma condição que pode levar a hemorragia grave. Dada a história de múltiplas cesáreas, há um risco aumentado de complicações. A resolução imediata da gestação por via alta (cesárea) é indicada para evitar riscos maternos e fetais, mesmo sem a administração prévia de corticoterapia, que é usada para maturação pulmonar fetal. A opção B é inadequada devido ao risco de hemorragia. A opção C não é segura, pois aguardar 48 horas pode ser arriscado. O controle clínico domiciliar (opção D) é contraindicado devido ao risco de sangramento significativo. Portanto, a alternativa A é a mais segura e apropriada para essa situação clínica.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Hemorragias Obstétricas"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 50,
+      "tags": [
+        "Diagnóstico diferencial"
+      ],
+      "enunciado": "Mulher, 24 anos de idade, refere aumento progressivo e lento, há 10 anos, de pelos em face, tórax, braço e região sacral. Apresenta ciclos menstruais regulares, com intervalo de 34 dias, Guxo e duração normais, com cólicas e sintomas prémenstruais leves. Nuligesta, vida sexual ativa em uso de condom. Exame físico: IMC = 27 kg/m2, ausência de acantose nigricans, índice de Ferriman = 13. Qual é a provável etiologia?",
+      "alternativas": {
+        "A": "Tumor virilizante do ovário.",
+        "B": "Hirsutismo idiopático.",
+        "C": "Síndrome dos Ovários Policísticos.",
+        "D": "Resistência periférica a insulina com hiperinsulinismo."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A paciente apresenta hirsutismo com índice de Ferriman de 13, o que indica um grau leve a moderado de hirsutismo. Os ciclos menstruais são regulares, o que torna a Síndrome dos Ovários Policísticos (SOP) menos provável, já que a SOP geralmente está associada a irregularidades menstruais. A ausência de acantose nigricans e o IMC de 27 kg/m2 também tornam a resistência à insulina menos provável. Tumores virilizantes do ovário geralmente causam hirsutismo mais abrupto e severo. Assim, a causa mais provável é o hirsutismo idiopático, que é caracterizado por aumento de pelos sem causa identificável e com ciclos menstruais normais. As outras alternativas são menos prováveis devido à apresentação clínica da paciente.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Ciclo Menstrual Anovulação e Amenorreia"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 51,
+      "tags": [
+        "Trabalho de parto prematuro TPPDistúrbios hipertensivos na gestação DHEGObstetrícia"
+      ],
+      "enunciado": "Paciente 30 anos, 3ª gestação, 14 semanas. Na 1ª gestação teve pré-eclâmpsia com 31 semanas, parto cesárea de emergência. Na 2ª gestação entrou em trabalho de parto prematuro, evoluindo para parto normal com 32 semanas. Mesmo parceiro. Qual é a orientações no pré-natal?",
+      "alternativas": {
+        "A": "Ácido fólico, sulfato ferroso e progesterona.",
+        "B": "Ácido acetilsalicílico, progesterona e sulfato ferroso.",
+        "C": "Ácido fólico, heparina de baixo peso molecular e progesterona.",
+        "D": "Sulfato ferroso, ácido acetilsalicílico e heparina de baixo peso molecular."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A paciente tem histórico de pré-eclâmpsia e parto prematuro. O ácido acetilsalicílico (AAS) é recomendado para prevenir pré-eclâmpsia em gestantes de alto risco, como aquelas com histórico prévio da condição. A progesterona é indicada para prevenir parto prematuro em mulheres com histórico de parto prematuro espontâneo. O sulfato ferroso é comumente prescrito para prevenir anemia gestacional. A alternativa B é a correta, pois combina essas intervenções. O ácido fólico é importante no início da gestação para prevenir defeitos do tubo neural, mas não é específico para os riscos apresentados por esta paciente. A heparina de baixo peso molecular não é indicada sem história de trombofilia ou tromboembolismo. Portanto, as alternativas A, C e D estão incorretas por não abordarem adequadamente os riscos específicos da paciente.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Trabalho de Parto Prematuro e RPM"
+        },
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Distúrbios Hipertensivos na Gestação"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 53,
+      "tags": [
+        "Acidentes Vasculares Cerebrais AVCNeurologiaTrombólise Endovenosa"
+      ],
+      "enunciado": "Qual das opções abaixo é uma contraindicação absoluta ao tratamento com trombólise endovenosa com rtPA em paciente com acidente vascular cerebral isquêmico?",
+      "alternativas": {
+        "A": "Gravidez.",
+        "B": "Uso de varfarina com resultado de RNI 1,9.",
+        "C": "Crise epiléptica no início dos sintomas.",
+        "D": "Início dos sintomas há quatro horas."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A crise epiléptica no início dos sintomas é uma contraindicação absoluta para a trombólise endovenosa com rtPA em pacientes com acidente vascular cerebral isquêmico, pois pode indicar que os sintomas neurológicos são secundários à crise e não a um evento isquêmico. A trombólise é indicada para AVC isquêmico, e a presença de uma crise epiléptica pode confundir o diagnóstico. Gravidez (A) e uso de varfarina com RNI 1,9 (B) não são contraindicações absolutas, embora exijam cautela. O início dos sintomas há quatro horas (D) ainda está dentro da janela terapêutica para trombólise, que é de até 4,5 horas após o início dos sintomas. Portanto, a alternativa C é a correta, pois representa uma contraindicação absoluta ao tratamento trombolítico neste contexto.",
+      "topicos": [
+        {
+          "area": "Neurologia",
+          "subtopico": "Acidente Vascular Cerebral (AVC)"
+        }
+      ],
+      "area": "Neurologia"
+    },
+    {
+      "numero": 54,
+      "tags": [
+        "Infecção Urinária e Bacteriúria Assintomática na gestação ITUObstetrícia"
+      ],
+      "enunciado": "Gestante de 24 semanas esteve internada por 3 dias, com quadro de mal-estar, náusea, cefaleia, dor lombar a direita e febre de 39°C. AJrma ter recebido antibióticos por via endovenosa durante a internação. Retorna ao hospital, 7 dias após a alta, referindo febre há 48 horas, fraqueza intensa e dor lombar. Exame físico: REG, descorada +, desidrata 2+, pulso 110 bpm, PA 90 x 55 mmHg; murmúrio vesícular diminuído base direita. Abdome: AU = 24cm, DU ausente, BCF = 168 BPM, doloroso flanco direito, sem sinais de irritação peritoneal. Qual é a hipótese diagnóstica mais provável?",
+      "alternativas": {
+        "A": "Pneumonia hospitalar.",
+        "B": "Pielonefrite complicada.",
+        "C": "Apendicite aguda complicada.",
+        "D": "Meningite aguda."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A hipótese diagnóstica mais provável é pielonefrite complicada. A paciente, gestante de 24 semanas, apresenta sintomas clássicos de infecção urinária alta, como febre, dor lombar e mal-estar, além de sinais de desidratação e taquicardia. A pielonefrite é uma complicação comum durante a gravidez devido a alterações anatômicas e fisiológicas no trato urinário. A alternativa A, pneumonia hospitalar, é menos provável devido à ausência de sintomas respiratórios significativos. A alternativa C, apendicite aguda, geralmente apresenta dor abdominal mais localizada e sinais de irritação peritoneal, que estão ausentes. A alternativa D, meningite aguda, não é compatível com o quadro clínico apresentado. Portanto, a pielonefrite complicada é a opção mais coerente com os sintomas e o contexto gestacional da paciente.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Infecções na Gestação"
+        },
+        {
+          "area": "Nefrologia",
+          "subtopico": "Infecções do Trato Urinário (ITU)"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 55,
+      "tags": [
+        "ObstetríciaSangramento primeira metade"
+      ],
+      "enunciado": "Paciente com atraso menstrual de 7 semanas, assintomática, realiza ultrassom obstétrico inicial, visibilizado saco gestacional tópico e regular, embrião vivo compatível com a idade gestacional, vesícula vitelínica presente, ausência de áreas de descolamento ovular. Em região anexial, visibilizada formação cística anecoica de aproximadamente 6 cm de diâmetro, com reforço acústico posterior, sem septos ou áreas sólidas, vascularização periférica exuberante ao estudo Doppler. Frente a esses achados, qual é a conduta recomendada?",
+      "alternativas": {
+        "A": "Expectante, reavaliar imagem anexial em ultrassom seriado.",
+        "B": "Laparotomia exploradora ainda no 1º trimestre da gestação.",
+        "C": "Videolaparoscopia eletiva após a 12ª semana de gestação.",
+        "D": "Solicitar ressonância nuclear magnética e marcadores tumorais."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é correta porque a conduta expectante é apropriada para cistos ovarianos simples e anecoicos durante a gestação, especialmente quando são menores que 10 cm e não apresentam características suspeitas de malignidade. O cisto descrito é anecoico, sem septos ou áreas sólidas, e com reforço acústico posterior, indicando um cisto funcional benigno. A vigilância com ultrassom seriado permite monitorar o cisto, que pode regredir espontaneamente. As alternativas B e C envolvem intervenções cirúrgicas desnecessárias e arriscadas no primeiro trimestre. A alternativa D, que sugere ressonância magnética e marcadores tumorais, é excessiva para um cisto com características benignas. Portanto, a abordagem conservadora é a mais segura e adequada neste contexto.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Hemorragias Obstétricas"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 56,
+      "tags": [
+        "Diabetes na gestação DMGObstetrícia Secundigesta, 38 anos de idade, com idade gestacional de 10 semanas, apresenta glicemia de jejum de 94 mg/dL, colhida há 2 dias. A gestação anterior, há 5 anos, transcorreu sem complicações e com parto normal a termo de recém-nascido com peso adequado (3300g)."
+      ],
+      "enunciado": "Secundigesta, 38 anos de idade, com idade gestacional de 10 semanas, apresenta glicemia de jejum de 94 mg/dL, colhida há 2 dias. A gestação anterior, há 5 anos, transcorreu sem complicações e com parto normal a termo de recém-nascido com peso adequado (3300g). Qual deve ser a orientação, baseado no resultado laboratorial apresentado?",
+      "alternativas": {
+        "A": "Solicitar nova glicemia de jejum e Hb glicada após as 12 semanas.",
+        "B": "Solicitar curva glicêmica com 24 semanas.",
+        "C": "Não é necessário solicitar exames adicionais.",
+        "D": "Solicitar curva glicêmica com 28 semanas."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é a correta, pois, em casos de suspeita de diabetes ou pré-diabetes, é recomendado repetir a glicemia de jejum e a hemoglobina glicada após 12 semanas para confirmar o diagnóstico. A hemoglobina glicada fornece uma média dos níveis de glicose no sangue nos últimos 2 a 3 meses, sendo um parâmetro importante para o diagnóstico e monitoramento do controle glicêmico. As alternativas B e D, que sugerem a realização de curva glicêmica, são mais indicadas para o diagnóstico de diabetes gestacional em gestantes, geralmente entre 24 e 28 semanas de gestação. A alternativa C está incorreta, pois, diante de um resultado laboratorial alterado, é necessário realizar exames adicionais para confirmação e acompanhamento. Portanto, a questão está relacionada à Endocrinologia, que lida com distúrbios hormonais, incluindo o diabetes mellitus.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Gestação de Alto Risco e Doenças Clínicas na Gestação"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 57,
+      "tags": [
+        "GestantesObstetríciaUrgências Abdominais"
+      ],
+      "enunciado": "Gestante de 10 semanas procura o pronto socorro queixando-se de dor abdominal há 2 dias, periumbilical com irradiação para região lombar e fossa ilíaca direita, associada à inapetência. Há 4 horas, iniciou quadro de febre (38oC), vômitos e parada de eliminação de gases e fezes. Nega alteração do hábito urinário, disúria ou polaciúria. Ao ultrassom, gestação tópica, feto vivo, sem sinais de descolamento ovular, presença de discreta quantidade de líquido livre em região anexial direita. Hemograma com 18.800 leucócitos, desvio até metamielócitos. O Hospital não dispõe de ressonância nuclear magnética e não é possível transferência hospitalar neste momento. Qual é a conduta recomendada?",
+      "alternativas": {
+        "A": "Tomografia computadorizada de abdome para elucidar diagnóstico.",
+        "B": "Antibioticoterapia intravenosa e reavaliação clínica após 24 horas.",
+        "C": "Analgesia plena, antiemético, enteroclisma e reavaliação após evacuação.",
+        "D": "Cirurgia de urgência, preferencialmente por via laparoscópica."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A paciente apresenta sinais clínicos e laboratoriais sugestivos de apendicite aguda complicada, possivelmente com perfuração, dado o quadro de febre, leucocitose com desvio à esquerda, dor abdominal e parada de eliminação de gases e fezes. Em gestantes, a apendicite é a emergência cirúrgica não obstétrica mais comum. A conduta correta é a cirurgia de urgência, preferencialmente por via laparoscópica, para evitar complicações graves tanto para a mãe quanto para o feto. A tomografia computadorizada (A) não é indicada devido à gravidez e à urgência do quadro. A antibioticoterapia isolada (B) não resolve a causa cirúrgica. Analgesia e enteroclisma (C) são inadequados, pois não tratam a causa subjacente e podem atrasar o tratamento definitivo.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Gestação de Alto Risco e Doenças Clínicas na Gestação"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Inflamatório"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 58,
+      "tags": [
+        "PediatriaAvaliando o desenvolvimento Menino, 1 ano e 10 meses, comparece à consulta de puericultura e a mãe refere que ele não fala nenhuma palavra, mas entende ordens e aponta o que quer. Na consulta, permaneceu muito atento ao celular, interagindo pouco com o entorno e com as pessoas. Quando solicitado, removeu seus sapatos com ajuda, empilhou 3 potes, apontou algumas Jguras de animais e objetos e chutou bola. Não emitiu palavras"
+      ],
+      "enunciado": "Menino, 1 ano e 10 meses, comparece à consulta de puericultura e a mãe refere que ele não fala nenhuma palavra, mas entende ordens e aponta o que quer. Na consulta, permaneceu muito atento ao celular, interagindo pouco com o entorno e com as pessoas. Quando solicitado, removeu seus sapatos com ajuda, empilhou 3 potes, apontou algumas Jguras de animais e objetos e chutou bola. Não emitiu palavras durante a consulta. No prontuário da criança constava crescimento e desenvolvimento adequados até 1 ano e 2 meses de idade, quando o atendimento foi interrompido devido à pandemia. Criança nascida a termo, sem referências de intercorrências no pré-natal e no parto. Testes de triagem neonatal normais. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Complementar as informações sobre antecedentes patológicos pessoais e familiares e iniciar terapia fonoaudiológica.",
+        "B": "Encaminhar para serviço de neurologia para realização de avaliação global do desenvolvimento.",
+        "C": "Encaminhar para serviço de psiquiatria para realização do checklist para autismo em crianças pequenas.",
+        "D": "Complementar as informações sobre ambiente psicossocial e rotina da criança e solicitar avaliação audiológica."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D é a mais adequada, pois complementa informações sobre o ambiente psicossocial e rotina da criança, além de solicitar uma avaliação audiológica. Crianças que tiveram interrupção no acompanhamento pediátrico podem apresentar atrasos no desenvolvimento, e uma avaliação audiológica é importante para descartar problemas auditivos que possam impactar na fala e desenvolvimento social. As outras alternativas, como iniciar terapia fonoaudiológica (A) ou encaminhar para neurologia (B) ou psiquiatria (C), são mais específicas e não são indicadas sem uma avaliação inicial que descarte problemas auditivos e avalie o ambiente da criança. A avaliação do ambiente psicossocial é crucial para entender fatores que possam influenciar o desenvolvimento infantil.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Crescimento Desenvolvimento e Imunizações"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 59,
+      "tags": [
+        "Trabalho de parto prematuro TPPRotura prematura de membranas ovulares RPMObstetrícia Primigesta de 27 semanas é internada com o diagnóstico de rotura das membranas. Na internação recebeu ciclo de corticoide (betametasona) e foi pesquisada"
+      ],
+      "enunciado": "Primigesta de 27 semanas é internada com o diagnóstico de rotura das membranas. Na internação recebeu ciclo de corticoide (betametasona) e foi pesquisada a presença de Estreptococo beta hemolítico. Exames laboratoriais: Hb 11,3; Ht 34%; leucograma 8700 sem desvio; PCR 4,3. Ultrassonografia: feto único em apresentação pélvica, placenta corporal anterior grau 0, ILA 5,6 cm (normal de 8 a 18 cm), peso estimado 950g (entre o percentil 10 e 50). No 3° dia de internação, paciente evolui com contrações uterinas ritmadas (3 em 10 minutos) e dolorosas. Qual é a melhor conduta?",
+      "alternativas": {
+        "A": "Prescrever dose de ataque de ampicilina e de sulfato de magnésio e realizar parto cesariana.",
+        "B": "Prescrever ampicilina e sulfato de magnésio até o parto, preferencialmente por via vaginal.",
+        "C": "Prescrever ampicilina e sulfato de magnésio até cessarem as contrações e concomitantemente inibir o parto com nifedipina.",
+        "D": "Prescrever ampicilina e sulfato de magnésio até cessarem as contrações e concomitantemente inibir o parto com terbutalina."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A paciente apresenta sinais de trabalho de parto prematuro, com contrações uterinas ritmadas e dolorosas. A presença de Estreptococo beta-hemolítico justifica o uso de ampicilina para profilaxia de infecção neonatal. O sulfato de magnésio é utilizado para neuroproteção fetal em partos prematuros. A alternativa C é correta porque, além de tratar a infecção e proteger o feto, propõe inibir o parto com nifedipina, um tocolítico eficaz, para tentar prolongar a gestação. As alternativas A e B não consideram a inibição do parto, enquanto a D propõe o uso de terbutalina, que não é a primeira escolha devido a seus efeitos colaterais. A opção E está em branco e, portanto, não é válida.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Trabalho de Parto Prematuro e RPM"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 60,
+      "tags": [
+        "Colposcopia"
+      ],
+      "enunciado": "Paciente na 1ª consulta de pré-natal, traz resultado de citologia cervicovaginal com atipias em células escamosas – não se podendo excluir lesão de alto grau. Realiza colposcopia na 14ª semana de gestação, evidenciando epitélio acetobranco espesso em topografia de JEC, adentrando canal endocervical, associado a vasos atípicos e ulceração sangrante ao toque da pinça Cherron. Qual é a conduta recomentada?",
+      "alternativas": {
+        "A": "Biópsia dirigida em região de maior suspeita colposcópica.",
+        "B": "Coleta de nova citologia com ênfase no tecido endocervical.",
+        "C": "Seguimento apenas sem necessidade de biósia.",
+        "D": "Indicar conização cervical por cirurgia de alta frequência."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A conduta recomendada para gestantes com achados colposcópicos sugestivos de lesão de alto grau é a biópsia dirigida, especialmente quando há epitélio acetobranco espesso, vasos atípicos e ulceração. Esses achados indicam uma possível neoplasia intraepitelial cervical de alto grau, que requer confirmação histológica para planejamento adequado do manejo. A alternativa B é incorreta, pois a citologia não substitui a biópsia em casos de suspeita de lesão de alto grau. A alternativa C é inadequada, pois o seguimento sem biópsia pode atrasar o diagnóstico e tratamento. A alternativa D, conização, não é indicada inicialmente na gestação devido aos riscos associados ao procedimento, a menos que haja suspeita de invasão. Portanto, a biópsia dirigida é a abordagem correta para confirmar o diagnóstico e determinar o tratamento apropriado durante a gestação.",
+      "topicos": [
+        {
+          "area": "Ginecologia e Obstetrícia",
+          "subtopico": "Neoplasias Ginecológicas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Colo de Útero"
+        }
+      ],
+      "area": "Ginecologia e Obstetrícia"
+    },
+    {
+      "numero": 61,
+      "tags": [
+        "Pediatria Menino, 3 anos e 2 meses de idade, apresenta índices antropométricos: estatura para idade = +2,2 escores Z e índice de massa corporal para idade = -2,2 escores Z. Segundo a OMS,"
+      ],
+      "enunciado": "Menino, 3 anos e 2 meses de idade, apresenta índices antropométricos: estatura para idade = +2,2 escores Z e índice de massa corporal para idade = -2,2 escores Z. Segundo a OMS, qual é o diagnóstico da sua condição nutricional?",
+      "alternativas": {
+        "A": "Magreza com alta estatura.",
+        "B": "Magreza com estatura adequada.",
+        "C": "Eutrofia com estatura adequada",
+        "D": "Eutrofia com baixa estatura."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A questão aborda a avaliação do estado nutricional, que é uma parte fundamental da medicina preventiva. A alternativa C, 'Eutrofia com estatura adequada', é a correta, pois descreve uma condição de equilíbrio nutricional e crescimento adequado, sem desvios de magreza ou baixa estatura. As alternativas A e B indicam magreza, que pode ser um sinal de desnutrição ou outro problema de saúde. A alternativa D sugere eutrofia, mas com baixa estatura, o que pode indicar um problema de crescimento. Portanto, a alternativa C é a única que representa um estado nutricional e de crescimento normais, sem desvios. A avaliação nutricional é essencial para a prevenção de doenças e a promoção da saúde, justificando a classificação da questão em medicina preventiva.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Desnutrição Anemia e Vitamina D"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 62,
+      "tags": [
+        "Diagnóstico da púrpura trombocitopênica imunológica PTI"
+      ],
+      "enunciado": "Menina, 13 anos de idade, previamente hígida, relata que há 2 semanas percebeu múltiplas manchas no tronco e membros. Nega uso de medicamentos e casos de hemorragia em seus familiares. Exame J́sico: petéquias e equimoses difusas, sem outras alterações. Hemograma: eritrócitos = 4.300.000/mm3; hemoglobina = 13,5 g/dL; hematócrito = 42 %; VCM = 90 G; HCM = 31 pg; CHCM = 33 g/dL; RDW = 13%; leucócitos = 7000/mm³ ; bastões = 4%; segmentados = 60%; linfócitos = 28%; monócitos = 5%; plaquetas = 4000/mm³. Considerando a principal hipótese diagnóstica, a plaquetopenia ocorre por:",
+      "alternativas": {
+        "A": "hipoplasia megacariocítica.",
+        "B": "destruição no sistema reticuloendotelial.",
+        "C": "infiltração medular por doença linfoproliferativa.",
+        "D": "efeito citotóxico viral."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A púrpura trombocitopênica imunológica (PTI) é uma condição autoimune em que há destruição das plaquetas pelo sistema imunológico, principalmente no baço, que faz parte do sistema reticuloendotelial. A alternativa B é correta porque descreve esse mecanismo de destruição plaquetária. A hipoplasia megacariocítica (A) não é característica da PTI, pois a produção de plaquetas na medula óssea geralmente está normal ou aumentada. Infiltração medular por doença linfoproliferativa (C) e efeito citotóxico viral (D) não são mecanismos típicos da PTI. A PTI é uma condição em que o sistema imunológico ataca as plaquetas, levando à sua destruição acelerada, resultando em plaquetopenia e manifestações hemorrágicas, como petéquias e equimoses, observadas na paciente.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Distúrbios da Coagulação e Trombose"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 63,
+      "tags": [
+        "Quadro clínico da leucemia linfoide aguda LLAClassificação morfológica das anemias Menino, 4 anos de idade, apresenta há 4 meses febre e infecções recorrentes. Há 10 dias acorda com dor nas pernas e há 7 dias tem febre diária e adinamia. Exame físico: palidez cutânea e mucosa, esplenomegalia e adenomegalia generalizada. Considerando a hipótese diagnóstica mais provável,"
+      ],
+      "enunciado": "Menino, 4 anos de idade, apresenta há 4 meses febre e infecções recorrentes. Há 10 dias acorda com dor nas pernas e há 7 dias tem febre diária e adinamia. Exame físico: palidez cutânea e mucosa, esplenomegalia e adenomegalia generalizada. Considerando a hipótese diagnóstica mais provável, qual é o eritrograma esperado?",
+      "alternativas": {
+        "A": "Anemia microcítica, hipercrômica com reticulócitos normais.",
+        "B": "Anemia macrocítica, normocrômica com reticulócitos normais.",
+        "C": "Anemia normocítica, normocrômica com reticulócitos diminuídos.",
+        "D": "Anemia microcítica, hipocrômica com reticulócitos diminuídos."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa correta é D: Anemia microcítica, hipocrômica com reticulócitos diminuídos. Este padrão é típico de anemias por deficiência de ferro, onde a produção de hemoglobina é insuficiente, resultando em hemácias menores (microcíticas) e com menos cor (hipocrômicas). A contagem de reticulócitos diminuída indica uma resposta medular inadequada, comum em anemias por deficiência de ferro. As outras alternativas estão incorretas porque descrevem padrões de anemia que não se alinham com a fisiopatologia da deficiência de ferro: A sugere uma anemia hipercrômica, que não é comum; B descreve uma anemia macrocítica, que é mais típica de deficiências de vitamina B12 ou folato; C descreve uma anemia normocítica, que pode ocorrer em doenças crônicas; E está em branco e, portanto, não é uma opção válida.",
+      "topicos": [
+        {
+          "area": "Hematologia",
+          "subtopico": "Leucemias e Linfomas"
+        },
+        {
+          "area": "Oncologia",
+          "subtopico": "Leucemias e Linfomas"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Hematologia"
+    },
+    {
+      "numero": 64,
+      "tags": [
+        "Nefrologia Menino, 4 anos de idade, portador de doença renal crônica estágio 3b por displasia renal, apresenta falha de crescimento persistente, deJnida como estatura abaixo do 3º percentil para a idade e sexo, e velocidade de crescimento abaixo do 25º percentil nos últimos 6 meses. Trouxe exames na consulta de rotina: creatinina = 1,4 mg/dL, ureia = 68 mg/dL, sódio = 138 mmol/L, HCO₃⁻ = 24 mmol/L, hemoglobina = 12 g/dL, vitamina D = 35 ng/mL, PTH = 110 pg/ml."
+      ],
+      "enunciado": "Menino, 4 anos de idade, portador de doença renal crônica estágio 3b por displasia renal, apresenta falha de crescimento persistente, deJnida como estatura abaixo do 3º percentil para a idade e sexo, e velocidade de crescimento abaixo do 25º percentil nos últimos 6 meses. Trouxe exames na consulta de rotina: creatinina = 1,4 mg/dL, ureia = 68 mg/dL, sódio = 138 mmol/L, HCO₃⁻ = 24 mmol/L, hemoglobina = 12 g/dL, vitamina D = 35 ng/mL, PTH = 110 pg/ml. Qual é a conduta adequada?",
+      "alternativas": {
+        "A": "Iniciar terapia de substituição renal.",
+        "B": "Otimizar o aporte proteico e calórico.",
+        "C": "Iniciar terapia com hormônio de crescimento.",
+        "D": "Otimizar a reposição de bicarbonato e vitamina D."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa correta é 'A: Iniciar terapia de substituição renal'. Esta conduta é indicada em casos de insuficiência renal aguda ou crônica avançada, onde os rins não conseguem mais manter a homeostase do organismo. A terapia de substituição renal, que inclui hemodiálise ou diálise peritoneal, é necessária para remover toxinas e excesso de fluidos do corpo. As outras alternativas são incorretas porque não abordam diretamente a necessidade crítica de substituir a função renal: 'B' e 'C' são medidas nutricionais e hormonais que não corrigem a falência renal, e 'D' trata de reposição de bicarbonato e vitamina D, que são medidas de suporte, mas não substituem a função renal comprometida.",
+      "topicos": [
+        {
+          "area": "Nefrologia",
+          "subtopico": "Doença Renal Crônica (DRC)"
+        }
+      ],
+      "area": "Nefrologia"
+    },
+    {
+      "numero": 65,
+      "tags": [
+        "Diagnóstico DiferencialEtiologiaDiagnóstico Lactente, 18 meses de idade, portador de mielomeningocele, apresentou anaJlaxia intraoperatória"
+      ],
+      "enunciado": "Lactente, 18 meses de idade, portador de mielomeningocele, apresentou anaJlaxia intraoperatória durante a sua terceira intervenção cirúrgica. Qual é a causa mais provável?",
+      "alternativas": {
+        "A": "Alergia ao relaxante muscular.",
+        "B": "Alergia ao látex",
+        "C": "Reação ao anestésico geral.",
+        "D": "Hipersensibilidade a dipirona."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alergia ao látex é uma reação comum em ambientes cirúrgicos, especialmente em pacientes submetidos a múltiplas cirurgias, devido à exposição repetida a produtos de látex. Durante a terceira intervenção cirúrgica, a exposição acumulada pode aumentar o risco de sensibilização e reação alérgica. A alternativa A (alergia ao relaxante muscular) e C (reação ao anestésico geral) são menos prováveis, pois não estão diretamente relacionadas à frequência de cirurgias. A alternativa D (hipersensibilidade a dipirona) é menos comum em contexto cirúrgico imediato. Portanto, a alergia ao látex é a causa mais provável neste cenário, destacando a importância do reconhecimento e manejo de alergias em ambiente cirúrgico.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 66,
+      "tags": [
+        "Maus tratos à crianças e adolescentes Menino, 9 meses de idade, previamente hígido, passou a tarde com uma cuidadora e, ao chegar em casa, apresentava-se sonolento e não aceitou o jantar. Cerca de uma hora depois, foi trazido pela mãe ao PS com episódio de convulsão. Segundo a mãe, o"
+      ],
+      "enunciado": "Menino, 9 meses de idade, previamente hígido, passou a tarde com uma cuidadora e, ao chegar em casa, apresentava-se sonolento e não aceitou o jantar. Cerca de uma hora depois, foi trazido pela mãe ao PS com episódio de convulsão. Segundo a mãe, o paciente não apresentava febre, alterações de estado geral ou recusa alimentar anteriormente ao quadro. Após cessação do episódio convulsivo, observa-se criança não responsiva, com escoriações na face e no dorso. Assinale a alternativa que indica os exames necessários para elucidação diagnóstica.",
+      "alternativas": {
+        "A": "Exame do líquido cefalorraquidiano, hemograma, gasometria arterial.",
+        "B": "Ultrassonografia de abdome, eletrólitos, dosagem de lactato.",
+        "C": "Urina tipo I, hemograma, eletrólitos, ultrassonografia de abdome.",
+        "D": "Tomografia de crânio, fundoscopia, radiografias de corpo inteiro."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A questão aborda um episódio convulsivo em uma criança, seguido de um estado pós-ictal com não responsividade e escoriações. A alternativa D é a correta porque a tomografia de crânio pode identificar lesões intracranianas, a fundoscopia pode revelar sinais de hipertensão intracraniana ou hemorragia, e radiografias de corpo inteiro podem detectar fraturas associadas a quedas durante a convulsão. Esses exames são essenciais para avaliar possíveis complicações neurológicas e traumas associados ao episódio convulsivo. As outras alternativas não são adequadas para investigar lesões neurológicas ou traumas físicos decorrentes de convulsões, focando em exames que não são prioritários para o quadro apresentado, como exames de abdome ou análises laboratoriais que não esclarecem a condição neurológica subjacente.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 67,
+      "tags": [
+        "Pediatria"
+      ],
+      "enunciado": "Os indicadores de aleitamento materno no Brasil apresentaram melhora significativa nos últimos 40 anos. Tal fato se dá devido a políticas públicas integradas em nível hospitalar, atenção básica e social. A Lei 12.265/2006 (NBCAL) representou um marco importante na proteção da amamentação. Esta lei versa sobre:",
+      "alternativas": {
+        "A": "a regulação das práticas abusivas de propaganda e marketing das indústrias de alimentos, mamadeiras e bicos visando proteger a amamentação.",
+        "B": "o direito da licença maternidade de 12 meses para mulheres que possuírem emprego formal em empresas cidadãs.",
+        "C": "a ampliação do repasse de verbas para os hospitais que adotem a iniciativa Hospital Amigo da Criança e os 10 passos de promoção e proteção da amamentação.",
+        "D": "o direito da mulher amamentar em espaços públicos abertos ou fechados, sem risco de constrangimento, advertência ou punição."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa correta é a A, pois a Lei 11.265/2006 (NBCAL) regula a comercialização de alimentos para lactentes e crianças de primeira infância, bicos, chupetas e mamadeiras, visando proteger a amamentação contra práticas abusivas de propaganda e marketing. Essa legislação é uma política pública importante para a promoção do aleitamento materno, que é um componente essencial da saúde pública e medicina preventiva. As outras alternativas estão incorretas: B refere-se a licença maternidade, que não é o foco da lei; C menciona repasse de verbas, mas não é o objeto da NBCAL; D trata do direito de amamentar em público, que não é abordado pela lei em questão.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Crescimento Desenvolvimento e Imunizações"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 68,
+      "tags": [
+        "Icterícia neonatal Recém-nascido pré-termo de 30 semanas interna em UTI neonatal para realizar fototerapia por icterícia e para ganhar peso. Não apresenta outras intercorrências perinatais."
+      ],
+      "enunciado": "Recém-nascido pré-termo de 30 semanas interna em UTI neonatal para realizar fototerapia por icterícia e para ganhar peso. Não apresenta outras intercorrências perinatais. Qual dos exames de imagem abaixo é necessário ser realizado neste contexto e para pesquisar qual patologia?",
+      "alternativas": {
+        "A": "Radiografia de tórax para pesquisa de taquipneia transitória do recém-nascido.",
+        "B": "Ultrassonografia transfontanelar para pesquisa de hemorragia da matriz germinativa.",
+        "C": "Ultrassonografia de abdome total para avaliação hepática.",
+        "D": "Radiografia de tórax e abdome para pesquisa de infecções congênitas."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A alternativa correta é a B. A ultrassonografia transfontanelar é indicada para a pesquisa de hemorragia da matriz germinativa, uma condição que pode ocorrer em recém-nascidos, especialmente prematuros. Este exame é não invasivo e permite a visualização de estruturas intracranianas através da fontanela, sendo crucial para o diagnóstico precoce e manejo adequado. A alternativa A está incorreta porque a radiografia de tórax não é específica para taquipneia transitória do recém-nascido, que é diagnosticada clinicamente. A alternativa C não se relaciona diretamente com uma patologia neonatal específica. A alternativa D menciona infecções congênitas, mas a radiografia de tórax e abdome não são os exames de escolha para essa investigação inicial. Portanto, a ultrassonografia transfontanelar é a escolha correta para o contexto apresentado.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Icterícia Neonatal"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 69,
+      "tags": [
+        "Tratamento de ManutençãoPediatriaClassificação do controle clínico da asma Menino, 5 anos de idade, recebeu alta hospitalar há 15 dias com diagnóstico de asma e foi encaminhado para acompanhamento. Apresenta crises recorrentes de sibilância desde os 4 anos, que ocorrem a cada 2 a 3 meses, desencadeadas por resfriado, mudança de tempo e contato com poeira, com boa resposta ao salbutamol. Atualmente tem apresentado tosse e chiado no peito ao correr, ao rir e ainda acorda à noite por tosse e falta de ar de 1 a 2 vezes por semana."
+      ],
+      "enunciado": "Menino, 5 anos de idade, recebeu alta hospitalar há 15 dias com diagnóstico de asma e foi encaminhado para acompanhamento. Apresenta crises recorrentes de sibilância desde os 4 anos, que ocorrem a cada 2 a 3 meses, desencadeadas por resfriado, mudança de tempo e contato com poeira, com boa resposta ao salbutamol. Atualmente tem apresentado tosse e chiado no peito ao correr, ao rir e ainda acorda à noite por tosse e falta de ar de 1 a 2 vezes por semana. Qual a conduta recomendada de acordo com o GINA 2022 para o tratamento de manutenção da asma?",
+      "alternativas": {
+        "A": "Formoterol 6 mcg (aerossol) com espaçador e máscara.",
+        "B": "Budesonida 200 mcg (cápsula inalatória).",
+        "C": "Beclometasona 100 mcg (aerossol) com espaçador e máscara.",
+        "D": "Fluticasona 250 mcg (aerossol) com espaçador e máscara e anti-leucotrieno 4mg via oral."
+      },
+      "resposta_correta": "D",
+      "explicacao": "De acordo com o GINA 2022, o tratamento de manutenção para asma pode incluir o uso de corticosteroides inalatórios combinados com outros agentes, como anti-leucotrienos, para controle da inflamação e prevenção de sintomas. A alternativa D, que combina fluticasona (um corticosteroide inalatório) com um anti-leucotrieno, está alinhada com essas recomendações. As outras alternativas listam apenas corticosteroides inalatórios ou broncodilatadores sem a combinação recomendada para manutenção. A alternativa A menciona apenas um broncodilatador, enquanto B e C mencionam corticosteroides inalatórios isolados, que podem não ser suficientes para controle adequado em todos os casos. Portanto, a combinação de fluticasona com um anti-leucotrieno é a escolha correta para o tratamento de manutenção da asma, conforme as diretrizes atuais.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Infecções Respiratórias Pediátricas"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 70,
+      "tags": [
+        "Sinais e sintomas Menino, 3 meses de idade, vem apresentando irritabilidade constante e choro intenso à manipulação. Exame físico: regular estado geral, choroso, eupneico, descorado ++/4. Abdome com fígado palpável a 3 cm do rebordo costal (RC) direito e baço a 2 cm do RC esquerdo; sem outras alterações. Exame laboratorial: VDRL positivo 1/64. Conceitualmente,"
+      ],
+      "enunciado": "Menino, 3 meses de idade, vem apresentando irritabilidade constante e choro intenso à manipulação. Exame físico: regular estado geral, choroso, eupneico, descorado ++/4. Abdome com fígado palpável a 3 cm do rebordo costal (RC) direito e baço a 2 cm do RC esquerdo; sem outras alterações. Exame laboratorial: VDRL positivo 1/64. Conceitualmente, qual manifestação tardia da doença ele pode apresentar?",
+      "alternativas": {
+        "A": "Pseudoparalisia de Parrot.",
+        "B": "Deficiência auditiva.",
+        "C": "Pneumonia alba.",
+        "D": "Síndrome nefrótica."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A questão refere-se a manifestações tardias da sífilis congênita. A deficiência auditiva é uma manifestação tardia clássica da sífilis congênita, ocorrendo devido à lesão do nervo auditivo. A Pseudoparalisia de Parrot é uma manifestação precoce, não tardia, da sífilis congênita, caracterizada por dor óssea e imobilização dos membros. Pneumonia alba é uma manifestação precoce, não tardia, da sífilis congênita, caracterizada por uma pneumonia intersticial. Síndrome nefrótica não é uma manifestação associada à sífilis congênita. Portanto, a alternativa correta é a deficiência auditiva, que é uma complicação tardia da infecção congênita por Treponema pallidum.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Infecções Sexualmente Transmissíveis (IST/DST)"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 71,
+      "tags": [
+        "Teste do pezinhoPediatria"
+      ],
+      "enunciado": "Considerando a Lei 14.154, de 26 de maio de 2021, a respeito da ampliação da triagem neonatal biológica em todo o país, a incorporação de técnicas de biologia molecular será fundamental para a triagem de:",
+      "alternativas": {
+        "A": "galactosemia.",
+        "B": "imunodeficiências primárias.",
+        "C": "deficiência de G6PD.",
+        "D": "mucopolissacaridose do tipo 1."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A incorporação de técnicas de biologia molecular na triagem neonatal é especialmente relevante para a detecção de imunodeficiências primárias. Essas condições frequentemente requerem testes genéticos para identificação, uma vez que envolvem mutações específicas que afetam o sistema imunológico. A galactosemia, deficiência de G6PD e mucopolissacaridose do tipo 1 são condições que podem ser detectadas por outros métodos bioquímicos ou enzimáticos, não necessariamente exigindo biologia molecular para triagem inicial. Portanto, a alternativa B é a correta, pois a biologia molecular é crucial para a identificação precoce e precisa de imunodeficiências primárias, permitindo intervenções precoces e melhorando o prognóstico das crianças afetadas.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 72,
+      "tags": [
+        "Meningites bacterianasInfectologiaQuimioprofilaxia Menino, 1 ano e 8 meses de idade, foi diagnosticado há 1 dia com meningite por Neisseria meningitidis. Reside com"
+      ],
+      "enunciado": "Menino, 1 ano e 8 meses de idade, foi diagnosticado há 1 dia com meningite por Neisseria meningitidis. Reside com os pais e 1 irmão de 4 anos com vacinação completa. Frequenta a creche cuja classe tem 8 crianças com situação vacinal desconhecida e 2 professoras. Há 3 dias passou 1 dia na casa da madrinha grávida de 20 semanas, pois estava com febre e não pôde ir à creche. A quimioprofilaxia com rifampicina, iniciada preferencialmente nas primeiras 48 horas, está indicada para:",
+      "alternativas": {
+        "A": "todos os contatos domiciliares, para os comunicantes da creche (alunos e professoras) e para a madrinha, por dois dias.",
+        "B": "todos os contatos domiciliares, para os alunos da creche e para madrinha, por quatro dias.",
+        "C": "os contatos domiciliares não vacinados, para os comunicantes da creche (alunos e professoras) e para a madrinha, por quatro dias.",
+        "D": ". todos os contatos domiciliares e para os comunicantes da creche (alunos e professoras), por dois dias."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A questão aborda a profilaxia com rifampicina, que é uma medida de prevenção em casos de contato com doenças infecciosas como a meningite meningocócica. A alternativa A é correta porque indica a quimioprofilaxia para todos os contatos domiciliares, comunicantes da creche e a madrinha grávida, que são grupos de risco para a transmissão da doença. A profilaxia deve ser iniciada preferencialmente nas primeiras 48 horas após o contato. As outras alternativas estão incorretas porque não abrangem todos os grupos de risco ou indicam um tempo inadequado para a administração da rifampicina. A profilaxia é essencial para prevenir a disseminação da doença em ambientes fechados e entre pessoas vulneráveis, como gestantes e crianças em creches.",
+      "topicos": [
+        {
+          "area": "Infectologia",
+          "subtopico": "Neuroinfecções"
+        },
+        {
+          "area": "Neurologia",
+          "subtopico": "Neuroinfecções"
+        }
+      ],
+      "area": "Infectologia"
+    },
+    {
+      "numero": 73,
+      "tags": [
+        "Hiperbilirrubinemia não fisiológica Recém-nascido (RN) do sexo feminino, com idade gestacional de 39 semanas, peso de nascimento de 3200g, filho de mãe primigesta, não teve intercorrências na gestação e no parto. Exame físico com 18 horas de vida: ictérico zona II, sem outras alterações. Tipagens sanguíneas: Mãe O Rh positivo e RN A Rh positivo."
+      ],
+      "enunciado": "Recém-nascido (RN) do sexo feminino, com idade gestacional de 39 semanas, peso de nascimento de 3200g, filho de mãe primigesta, não teve intercorrências na gestação e no parto. Exame físico com 18 horas de vida: ictérico zona II, sem outras alterações. Tipagens sanguíneas: Mãe O Rh positivo e RN A Rh positivo. Assinale a alternativa correta sobre a avaliação laboratorial do RN.",
+      "alternativas": {
+        "A": "Podem ser encontrados esferócitos no esfregaço de sangue do RN.",
+        "B": "Níveis normais de hemoglobina e hematócrito descartam o diagnóstico.",
+        "C": "O teste do eluato positivo indica maior gravidade da hemólise.",
+        "D": "O teste de Coombs direto negativo descarta o diagnóstico."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A está correta porque esferócitos podem ser encontrados no esfregaço de sangue de recém-nascidos (RN) devido a condições como esferocitose hereditária ou hemólise neonatal. A alternativa B está incorreta, pois níveis normais de hemoglobina e hematócrito não descartam diagnósticos de condições hemolíticas. A alternativa C está errada, pois o teste do eluato positivo não necessariamente indica maior gravidade da hemólise, mas sim a presença de anticorpos ligados às hemácias. A alternativa D está incorreta, pois um teste de Coombs direto negativo não descarta todas as causas de hemólise. A questão está relacionada à Pediatria, pois envolve a avaliação laboratorial de condições hematológicas em recém-nascidos.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Icterícia Neonatal"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 74,
+      "tags": [
+        "Nefrologia Menino, 4 anos de idade, é acompanhado no ambulatório de nefrologia pediátrica desde os 2 anos de idade com diagnóstico de síndrome nefrótica corticorresistente. Foi admitido em unidade de emergência com quadro de descompensação clínica com anasarca e febre associada dor abdominal difusa de forte intensidade com início há 24 horas. Exame físico: anasarca, macicez móvel e descompressão brusca positiva difusamente no abdome. Considerando a principal hipótese diagnóstica,"
+      ],
+      "enunciado": "Menino, 4 anos de idade, é acompanhado no ambulatório de nefrologia pediátrica desde os 2 anos de idade com diagnóstico de síndrome nefrótica corticorresistente. Foi admitido em unidade de emergência com quadro de descompensação clínica com anasarca e febre associada dor abdominal difusa de forte intensidade com início há 24 horas. Exame físico: anasarca, macicez móvel e descompressão brusca positiva difusamente no abdome. Considerando a principal hipótese diagnóstica, qual é o principal agente etiológico implicado?",
+      "alternativas": {
+        "A": "Escherichia coli.",
+        "B": "Staphylococcus aureus.",
+        "C": "Streptococcus pneumoniae.",
+        "D": "Haemophilus influenzae tipo B."
+      },
+      "resposta_correta": "C",
+      "explicacao": "Streptococcus pneumoniae é o principal agente etiológico de pneumonia adquirida na comunidade em adultos. Este conceito é fundamental em infectologia, pois o tratamento empírico inicial de pneumonia frequentemente considera a cobertura para este patógeno. Escherichia coli é mais comumente associada a infecções do trato urinário, Staphylococcus aureus a infecções de pele e tecidos moles, e Haemophilus influenzae tipo B, embora relevante em infecções respiratórias, é menos comum devido à vacinação. Assim, a escolha correta é Streptococcus pneumoniae, que é uma causa frequente de infecções respiratórias graves, especialmente em populações vulneráveis como crianças e idosos.",
+      "topicos": [
+        {
+          "area": "Nefrologia",
+          "subtopico": "Glomerulopatias"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Nefrologia"
+    },
+    {
+      "numero": 75,
+      "tags": [
+        "Pediatria Menino, 8 anos de idade, apresenta artrite em joelhos e tornozelos há 9 meses, com piora progressiva. Relata dor nestas articulações e na região lombar, especialmente depois de acordar pela manhã. Nega febre, emagrecimento ou adinamia. Exames laboratoriais: hemograma normal e aumento da proteína C reativa (25 mg/L) e da velocidade de hemossedimentação (55 mm na 1ª hora)."
+      ],
+      "enunciado": "Menino, 8 anos de idade, apresenta artrite em joelhos e tornozelos há 9 meses, com piora progressiva. Relata dor nestas articulações e na região lombar, especialmente depois de acordar pela manhã. Nega febre, emagrecimento ou adinamia. Exames laboratoriais: hemograma normal e aumento da proteína C reativa (25 mg/L) e da velocidade de hemossedimentação (55 mm na 1ª hora). Qual achado no exame físico é mais provável de ser encontrado neste caso?",
+      "alternativas": {
+        "A": "Nódulos subcutâneos em superfícies extensoras das mãos.",
+        "B": "Exantema maculopapular em tronco e membros superiores.",
+        "C": "Dor à palpação das enteses em membros inferiores.",
+        "D": "Sopro sistólico rude no foco mitral e no foco aórtico."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D descreve um sopro sistólico rude no foco mitral e no foco aórtico, que é um achado físico clássico em doenças valvares cardíacas, como estenose aórtica ou insuficiência mitral. Este achado é mais diretamente relacionado a condições cardíacas, justificando a classificação em Cardiologia. As outras alternativas, como nódulos subcutâneos (A), exantema maculopapular (B) e dor à palpação das enteses (C), são mais associadas a condições reumatológicas ou dermatológicas, não sendo o foco principal da questão. Portanto, a presença de um sopro sistólico nos focos mitral e aórtico é o achado mais provável em um contexto de suspeita de doença cardíaca valvar.",
+      "topicos": [
+        {
+          "area": "Reumatologia",
+          "subtopico": "Espondiloartropatias"
+        }
+      ],
+      "area": "Reumatologia"
+    },
+    {
+      "numero": 76,
+      "tags": [
+        "Plano B Menino, 9 meses de idade, apresenta febre (39 ºC) e diarreia há 1 dia. A mãe refere 6 evacuações nas últimas 24 horas, com sangue, muco e pus nas fezes e nega problemas anteriores de saúde. Exame físico:"
+      ],
+      "enunciado": "Menino, 9 meses de idade, apresenta febre (39 ºC) e diarreia há 1 dia. A mãe refere 6 evacuações nas últimas 24 horas, com sangue, muco e pus nas fezes e nega problemas anteriores de saúde. Exame físico: paciente está choroso, toma água oferecida pela mãe com avidez e apresenta choro sem lágrimas. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Hidratação parenteral e antibiótico parenteral.",
+        "B": "Reidratação oral na unidade de saúde e probiótico.",
+        "C": "Hidratação por via parenteral e antibiótico pela via oral.",
+        "D": "Reidratação oral na unidade de saúde e antibiótico via oral."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A questão descreve um quadro clínico de desidratação em uma criança, evidenciado pelo choro sem lágrimas e a ingestão ávida de água. A reidratação oral é a conduta inicial mais adequada para casos de desidratação leve a moderada em crianças, conforme as diretrizes pediátricas. A alternativa B, que sugere reidratação oral na unidade de saúde, é a correta. O uso de probióticos pode ser benéfico em casos de diarreia, mas não é essencial para a reidratação. As alternativas A e C, que envolvem hidratação parenteral, são mais indicadas para desidratação grave. A alternativa D, que inclui antibiótico, não é indicada sem sinais claros de infecção bacteriana. Portanto, a reidratação oral é a abordagem inicial mais segura e eficaz para a maioria dos casos de desidratação em crianças.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Diarreia e Desidratação"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 77,
+      "tags": [
+        "Pediatria Menino, 3 anos de idade, é internado por pneumonia com derrame pleural."
+      ],
+      "enunciado": "Menino, 3 anos de idade, é internado por pneumonia com derrame pleural. Qual alternativa abaixo indica drenagem do derrame?",
+      "alternativas": {
+        "A": "Derrame visível no Rx de tórax.",
+        "B": "Glicose menor que 60 mg/dl no líquido pleural.",
+        "C": "Bactérias positivas ao Gram no líquido pleural.",
+        "D": "Aspecto seroso macroscopicamente."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa C é correta porque a presença de bactérias positivas ao Gram no líquido pleural indica um empiema, que é uma infecção do espaço pleural e requer drenagem para tratamento adequado. O conceito médico fundamental aqui é a diferenciação entre derrame pleural simples e empiema, sendo que este último, por ser infeccioso, necessita de intervenção mais agressiva. As outras alternativas estão incorretas porque: A) um derrame visível no Rx não indica necessariamente infecção; B) glicose baixa pode sugerir infecção, mas não é específica para necessidade de drenagem; D) aspecto seroso não é indicativo de infecção ou necessidade de drenagem. Portanto, a presença de bactérias no líquido pleural é o critério mais direto para indicar a drenagem devido à infecção.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Infecções Respiratórias Pediátricas"
+        }
+      ],
+      "area": "Pediatria"
+    },
+    {
+      "numero": 78,
+      "tags": [
+        "Osteomielite"
+      ],
+      "enunciado": "Adolescente, portadora de doença falciforme Hb SC, está internada há 5 dias, com dor intensa na perna esquerda, com dificuldade para deambular, com pouca resposta a opióde e febril desde o segundo dia de internação, sem foco evidente ao exame físico. Ultrassonografia mostrou abaulamento periosteal em tíbia. Quais são os agentes etiológicos mais prováveis?",
+      "alternativas": {
+        "A": "Klebsiella sp. e salmonela.",
+        "B": "Staphylococcus aureus e Streptococcus pneumoniae.",
+        "C": "Streptococcus pneumoniae e salmonela.",
+        "D": "Staphylococcus aureus e salmonela."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A paciente com doença falciforme Hb SC apresenta sintomas sugestivos de osteomielite, uma complicação comum em indivíduos com hemoglobinopatias. Salmonela é um agente etiológico clássico de osteomielite em pacientes com doença falciforme devido à sua capacidade de sobreviver em ambientes com baixo oxigênio, como o osso infartado. Staphylococcus aureus é o agente mais comum de osteomielite em geral. As outras alternativas são menos prováveis: Klebsiella sp. não é um agente típico de osteomielite em falcêmicos, e Streptococcus pneumoniae, embora associado a infecções em falcêmicos, não é um agente comum de osteomielite. Portanto, a alternativa D, que combina Staphylococcus aureus e salmonela, é a mais correta para este quadro clínico.",
+      "topicos": [
+        {
+          "area": "Ortopedia / Traumatologia",
+          "subtopico": "Osteomielite e Artrite Séptica"
+        },
+        {
+          "area": "Hematologia",
+          "subtopico": "Anemias"
+        }
+      ],
+      "area": "Ortopedia / Traumatologia"
+    },
+    {
+      "numero": 79,
+      "tags": [
+        "Fraturas do fêmur proximal"
+      ],
+      "enunciado": "Mulher, 78 anos de idade, sofreu queda ao solo sem desnível. Apresenta-se consciente, hemodinamicamente estável e com vias aéreas pérvias. É trazida ao Pronto-socorro sobre uma maca por incapacidade para deambular por dor. Após realização da radiografia de pelve, constatou-se uma fratura desviada e instável do colo do fêmur direito. Assinale a alternativa que descreve CORRETAMENTE a deformidade clínica do membro que essa paciente tipicamente apresenta e os músculos que contribuem para o desvio desta fratura.",
+      "alternativas": {
+        "A": "Encurtamento com rotação lateral. Músculos tensor da fáscia lata e quadríceps femural.",
+        "B": "Encurtamento com rotação medial. Músculos glúteo médio e iliopsoas.",
+        "C": "Encurtamento com rotação lateral. Músculos glúteo médio e iliopsoas.",
+        "D": "Encurtamento com rotação medial. Músculos tensor da fáscia lata e quadríceps femural."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A fratura do colo do fêmur frequentemente resulta em encurtamento e rotação lateral do membro afetado devido à ação dos músculos rotadores laterais do quadril, como o iliopsoas, e à tração do quadríceps femoral. A alternativa A descreve corretamente essa deformidade clínica. As outras alternativas estão incorretas porque descrevem rotação medial, que não é típica em fraturas do colo do fêmur. Além disso, os músculos mencionados nas alternativas B e D não são os principais responsáveis pelo padrão de desvio observado nessas fraturas. A compreensão da biomecânica e da anatomia muscular é essencial para o diagnóstico e manejo adequado de fraturas ortopédicas.",
+      "topicos": [
+        {
+          "area": "Ortopedia / Traumatologia",
+          "subtopico": "Fraturas e Luxações — Membros Inferiores e Quadril"
+        }
+      ],
+      "area": "Ortopedia / Traumatologia"
+    },
+    {
+      "numero": 80,
+      "tags": [
+        "Nefrologia"
+      ],
+      "enunciado": "Homem, 53 anos de idade, apresenta quadro de hematúria. Qual é o diagnóstico mais provável?",
+      "alternativas": {
+        "A": "Cálculo renal.",
+        "B": "Câncer de Bexiga urinária.",
+        "C": "Hiperplasia da Próstata.",
+        "D": "Infecção do trato urinário."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A hematúria, ou presença de sangue na urina, em um homem de 53 anos, levanta a suspeita de câncer de bexiga, especialmente se não houver sintomas de infecção ou dor associada. Câncer de bexiga é uma causa comum de hematúria em adultos, especialmente em homens e fumantes. As outras alternativas, como cálculo renal, infecção do trato urinário e hiperplasia prostática, também podem causar hematúria, mas geralmente apresentam outros sintomas associados, como dor intensa (cálculo renal) ou sintomas urinários obstrutivos (hiperplasia prostática). A infecção do trato urinário geralmente vem acompanhada de disúria e urgência miccional. Portanto, a alternativa B é a mais provável, considerando a idade e o sintoma isolado de hematúria.",
+      "topicos": [
+        {
+          "area": "Nefrologia",
+          "subtopico": "Glomerulopatias"
+        }
+      ],
+      "area": "Nefrologia"
+    },
+    {
+      "numero": 81,
+      "tags": [
+        "Osteossarcoma Menino, 14 anos de idade, apresenta dor leve no joelho direito, mais frequente à noite. Refere um trauma leve no local há 03 meses. Nega febre, mas observa calor local. Ao exame físico, apresenta-se em bom estado geral, deambula sem alteração de marcha. O joelho encontra-se edemaciado sem rubor, sem dor a palpação de proeminências ósseas. Arco de movimento 0 a 110 ̊ de Gexão. Testes de Appley e McMurray negativos. Exames complementares apresentam-se alterados: níveis séricos e"
+      ],
+      "enunciado": "Menino, 14 anos de idade, apresenta dor leve no joelho direito, mais frequente à noite. Refere um trauma leve no local há 03 meses. Nega febre, mas observa calor local. Ao exame físico, apresenta-se em bom estado geral, deambula sem alteração de marcha. O joelho encontra-se edemaciado sem rubor, sem dor a palpação de proeminências ósseas. Arco de movimento 0 a 110 ̊ de Gexão. Testes de Appley e McMurray negativos. Exames complementares apresentam-se alterados: níveis séricos elevados de Fosfatase Alcalina e na radiografia do joelho, esclerose difusa na metáJse distal do fêmur. Qual é o diagnóstico mais provável?",
+      "alternativas": {
+        "A": "Osteomielite.",
+        "B": "Osteossarcoma.",
+        "C": "Lesão do menisco.",
+        "D": "Doença de Osgood-Schlatter."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A presença de níveis elevados de fosfatase alcalina e esclerose difusa na metáfise distal do fêmur são achados sugestivos de osteossarcoma, um tipo de tumor ósseo maligno. A fosfatase alcalina elevada indica atividade osteoblástica aumentada, comum em osteossarcomas. Osteomielite (A) geralmente apresenta sinais de infecção e dor, mas não necessariamente esclerose difusa. Lesão do menisco (C) e doença de Osgood-Schlatter (D) são condições ortopédicas que não se associam a elevações de fosfatase alcalina ou esclerose óssea difusa. Portanto, a alternativa B é a mais provável, considerando os achados radiológicos e laboratoriais apresentados.",
+      "topicos": [
+        {
+          "area": "Oncologia",
+          "subtopico": "Oncologia Geral"
+        },
+        {
+          "area": "Ortopedia / Traumatologia",
+          "subtopico": "Emergências Ortopédicas"
+        }
+      ],
+      "area": "Oncologia"
+    },
+    {
+      "numero": 82,
+      "tags": [
+        "NeoplasiasCirurgia"
+      ],
+      "enunciado": "Homem, 64 anos de idade, chega ao pronto-socorro com quadro de perda ponderal de 10 kg há 3 meses, empachamento pós-prandial e vômitos há 2 semanas. Refere que os episódios de vômitos apresentam o alimento ingerido e acontecem 2 horas após as refeições. Não há presença de bile. Refere melhora após os vômitos. Tem antecedentes de tabagismo, etilismo e laparotomia exploradora prévia há 12 anos por ferimento de arma de fogo. Ao exame físico o paciente apresenta- se emagrecido, sem dor a palpação, com abdome levemente distendido em andar superior esquerdo. Qual é a hipótese diagnóstica sindrômica mais compatível com o quadro clínico descrito e sua a principal causa etiológica?",
+      "alternativas": {
+        "A": "Síndrome de mau esvaziamento gástrico e neoplasia do cárdia.",
+        "B": "Abdome agudo obstrutivo por neoplasia colorretal.",
+        "C": "Abdome agudo obstrutivo por aderências.",
+        "D": "Síndrome de mau esvaziamento gástrico e neoplasia de região antro pilórica."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D é a correta, pois o quadro clínico descrito é compatível com a síndrome de mau esvaziamento gástrico, frequentemente causada por neoplasia na região antro pilórica. Os sintomas de empachamento pós-prandial, vômitos com alimentos não digeridos e ausência de bile indicam obstrução na saída do estômago, típica de uma lesão no antro pilórico. A perda ponderal e o histórico de tabagismo e etilismo aumentam a suspeita de neoplasia gástrica. As outras alternativas são menos prováveis: A sugere neoplasia do cárdia, que não explicaria a ausência de bile nos vômitos; B e C referem-se a obstruções intestinais, que teriam sintomas diferentes, como dor abdominal intensa e distensão mais generalizada; E está em branco e, portanto, não é uma opção válida.",
+      "topicos": [
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer Gástrico e Esofágico"
+        },
+        {
+          "area": "Gastroenterologia / Hepatologia",
+          "subtopico": "Câncer Gástrico e Esofágico"
+        }
+      ],
+      "area": "Oncologia"
+    },
+    {
+      "numero": 83,
+      "tags": [
+        "UltrassonografiaCirurgia"
+      ],
+      "enunciado": "Qual o teste de maior acurácia para o diagnóstico de TVP (trombose venosa profunda) com ultrassonografia?",
+      "alternativas": {
+        "A": "Imagem de trombo no interior da veia.",
+        "B": "Diminuição de compressibilidade da veia, avaliada com imagem em corte transversal.",
+        "C": "Ausência de oscilação espectral com a respiração.",
+        "D": "Ausência de fluxo no modo color."
+      },
+      "resposta_correta": "B",
+      "explicacao": null,
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Vascular"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 84,
+      "tags": [
+        "Conduta nos Aneurismas de Aorta AbdominalCirurgia"
+      ],
+      "enunciado": "Homem, 60 anos de idade, assintomático, ao realizar ultrassom abdominal de rotina apresentou dilatação da aorta abdominal abaixo das artérias renais de 4,5 cm. Seguindo a recomendação da Diretriz Brasileira para o tratamento do aneurisma de aorta abdominal. Qual é a melhor abordagem para o caso?",
+      "alternativas": {
+        "A": "Angiotomografia de aorta abdominal.",
+        "B": "Ultrassonografia com Doppler a cada 6 meses.",
+        "C": "Correção cirúrgica endovascular.",
+        "D": "Correção cirúrgica aberta."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A melhor abordagem para um aneurisma de aorta abdominal assintomático com diâmetro de 4,5 cm é o acompanhamento com ultrassonografia com Doppler a cada 6 meses. A correção cirúrgica, seja endovascular ou aberta, é geralmente indicada quando o diâmetro do aneurisma atinge 5,5 cm ou mais, ou se houver crescimento rápido ou sintomas. A angiotomografia pode ser utilizada para planejamento cirúrgico, mas não é necessária para o acompanhamento de rotina de um aneurisma assintomático de 4,5 cm. Portanto, a alternativa B é a correta, pois segue as diretrizes para monitoramento de aneurismas menores, enquanto as alternativas C e D são intervenções cirúrgicas indicadas para casos mais avançados ou sintomáticos.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Vascular"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 85,
+      "tags": [
+        "Tratamento das Hérnias InguinaisCirurgia"
+      ],
+      "enunciado": "Mulher, 54 anos de idade, refere dor e abaulamento em região inguinal direita aos esforços há cerca de 2 meses. Exame físico: pequeno abaulamento redutível na altura da prega inguinal. Ultrassonografia: hérnia unilateral redutível com anel herniário estimado de 2 cm. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Herniorrafia inguinal por inguinotomia.",
+        "B": "Herniorrafia inguinal independente da via.",
+        "C": "Conduta expectante.",
+        "D": "Herniorrafia inguinal por videolaparoscopia."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A paciente apresenta uma hérnia inguinal redutível, que é uma indicação clássica para reparo cirúrgico, especialmente considerando o desconforto e o risco de complicações futuras, como encarceramento ou estrangulamento. A herniorrafia inguinal por videolaparoscopia (alternativa D) é frequentemente preferida devido a menor dor pós-operatória, recuperação mais rápida e menor risco de infecção em comparação com a abordagem aberta (inguinotomia). A conduta expectante (alternativa C) não é indicada, pois a paciente já apresenta sintomas. A alternativa A, embora correta em termos de tratamento, não é a melhor opção devido às vantagens da laparoscopia. A alternativa B é vaga e não específica, enquanto a alternativa E está ausente. Portanto, a opção D é a mais adequada considerando os benefícios da abordagem minimamente invasiva.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Hérnias"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 86,
+      "tags": [
+        "Diagnóstico estadiamento e fatores prognósticosDermatologiaTratamento e conduta Para"
+      ],
+      "enunciado": "Para qual dos seguintes pacientes a biópsia do linfonodo sentinela seria recomendada?",
+      "alternativas": {
+        "A": "Melanoma com espessura de Breslow de 2,3 mm, não ulcerado, da parede torácica, com linfonodo axilar esquerdo clinicamente palpável, firme/fixo de 2 cm.",
+        "B": "Melanoma com espessura de Breslow de 0,6 mm, não ulcerado, da parede torácica, sem linfonodos clinicamente palpáveis.",
+        "C": "Melanoma com espessura de Breslow de 2,3 mm, da parede torácica, não ulcerado, sem linfonodos clinicamente palpáveis.",
+        "D": "Melanoma com espessura de Breslow de 0,4 mm, não ulcerado, da parede torácica, sem linfonodos clinicamente palpáveis."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A biópsia do linfonodo sentinela é recomendada para pacientes com melanoma com espessura de Breslow entre 0,8 mm e 4,0 mm sem linfonodos clinicamente palpáveis, pois isso ajuda a avaliar a presença de metástase oculta. A alternativa C apresenta um melanoma com espessura de 2,3 mm, sem linfonodos clinicamente palpáveis, o que a torna a candidata ideal para a biópsia do linfonodo sentinela. A alternativa A é incorreta porque já há linfonodo clinicamente palpável, o que indica a necessidade de abordagem diferente. As alternativas B e D apresentam melanomas com espessura abaixo de 0,8 mm, onde a biópsia do linfonodo sentinela geralmente não é indicada devido ao baixo risco de metástase. Portanto, a alternativa C é a correta.",
+      "topicos": [
+        {
+          "area": "Oncologia",
+          "subtopico": "Câncer de Pele"
+        },
+        {
+          "area": "Dermatologia",
+          "subtopico": "Neoplasias de Pele"
+        }
+      ],
+      "area": "Oncologia"
+    },
+    {
+      "numero": 87,
+      "tags": [
+        "Cintilografia com Hemácias MarcadasMétodos Diagnósticos e Terapêuticos Sangramento na População Pediátrica Lactente, sexo masculino, seis meses de idade, apresenta episódio súbito de enterorragia com moderada repercussão hemodinâmica."
+      ],
+      "enunciado": "Lactente, sexo masculino, seis meses de idade, apresenta episódio súbito de enterorragia com moderada repercussão hemodinâmica. Qual é o exame mais adequado para o esclarecimento diagnóstico?",
+      "alternativas": {
+        "A": "Ultrassonografia de abdome.",
+        "B": "Tomografia computadorizada de abdome.",
+        "C": "Mapeamento com Tc99.",
+        "D": "Endoscopia digestiva alta."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A tomografia computadorizada de abdome (alternativa B) é frequentemente o exame mais adequado para o esclarecimento diagnóstico de condições abdominais complexas, como abscessos, tumores ou pancreatite, devido à sua capacidade de fornecer imagens detalhadas das estruturas abdominais. A ultrassonografia de abdome (alternativa A) é útil para avaliação inicial, mas pode não ser suficiente para diagnósticos mais complexos. O mapeamento com Tc99 (alternativa C) é específico para algumas condições, como hemorragias ocultas, mas não é de uso geral. A endoscopia digestiva alta (alternativa D) é indicada para avaliação direta do trato gastrointestinal superior, mas não fornece imagens do abdome como um todo. Portanto, a tomografia é a escolha mais abrangente para avaliação detalhada de patologias abdominais.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Hemorrágico"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 88,
+      "tags": [
+        "RetalhosCirurgia"
+      ],
+      "enunciado": "Homem, 44 anos de idade, chega ao pronto-socorro imediatamente após ter sofrido uma lesão na ponta do polegar esquerdo enquanto trabalhava com uma serra de mesa. O exame físico mostra uma ferida de 1,5x1,5 cm envolvendo a ponta do polegar com osso visível na base da ferida. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Sutura primária.",
+        "B": "Enxerto de pele total.",
+        "C": "Fechamento por segunda intenção.",
+        "D": "Retalho local."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa D, retalho local, é a correta porque a lesão descrita envolve a ponta do polegar com exposição óssea, o que requer cobertura adequada para promover a cicatrização e preservar a função do dedo. O uso de um retalho local permite cobrir o defeito com tecido vascularizado, essencial para a cicatrização de áreas com exposição óssea. A sutura primária (A) não é adequada devido ao tamanho e à complexidade da ferida. O enxerto de pele total (B) não é indicado em áreas com exposição óssea, pois o enxerto não sobreviveria sem um leito vascular adequado. O fechamento por segunda intenção (C) não é apropriado para feridas com exposição óssea, pois resultaria em cicatrização inadequada e possível perda de função. Portanto, a escolha de um retalho local é a mais apropriada para garantir a cobertura e a funcionalidade do polegar.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 89,
+      "tags": [
+        "RetalhosCirurgiaTratamento Definitivo das Áreas Queimadas"
+      ],
+      "enunciado": "Homem, 30 anos de idade, vítima de queimadura de segundo grau superficial em toda a face por líquido aquecido. Apresenta queimadura de espessura total de pele em ambas as pálpebras inferiores. Nesta situação deve-se:",
+      "alternativas": {
+        "A": "aguardar a epitelização por segunda intenção.",
+        "B": "realizar retalho músculo cutâneo de vizinhança.",
+        "C": "realizar tarsorrafia bilateral e aguardar epitelização.",
+        "D": "realizar enxerto de pele total."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A alternativa correta é a D, realizar enxerto de pele total. Queimaduras de espessura total nas pálpebras inferiores requerem cobertura adequada para evitar complicações como ectrópio e exposição ocular. O enxerto de pele total é indicado para áreas que necessitam de boa elasticidade e estética, como as pálpebras, pois proporciona melhor resultado funcional e estético. A opção A, aguardar epitelização por segunda intenção, não é adequada para queimaduras de espessura total, pois não há tecido viável para reepitelização. A opção B, retalho músculo cutâneo, é mais invasiva e desnecessária nesta situação. A opção C, tarsorrafia bilateral, não resolve a perda de tecido e não é indicada como tratamento definitivo. Portanto, o enxerto de pele total é a melhor abordagem para restaurar a função e a aparência das pálpebras queimadas.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Trauma"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 90,
+      "tags": [
+        "PediatriaCirurgia Lactente, 5 meses de vida, apresenta episódios repetidos de abaulamento endurecido, hiperemiado e doloroso em região perianal. Foi submetido a tratamento com antibioticoterapia oral em todas as ocasiões, porém houve recidiva da lesão no mesmo local após o término do tratamento."
+      ],
+      "enunciado": "Lactente, 5 meses de vida, apresenta episódios repetidos de abaulamento endurecido, hiperemiado e doloroso em região perianal. Foi submetido a tratamento com antibioticoterapia oral em todas as ocasiões, porém houve recidiva da lesão no mesmo local após o término do tratamento. Qual é o diagnóstico mais provável?",
+      "alternativas": {
+        "A": "Retocolite ulcerativa.",
+        "B": "Anomalia anorretal.",
+        "C": "Fístula perianal.",
+        "D": "Alergia alimentar."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A retocolite ulcerativa é uma doença inflamatória intestinal que afeta o cólon e o reto, caracterizada por diarreia crônica com sangue, dor abdominal e urgência fecal. A alternativa A é a correta, pois descreve uma condição que se encaixa nos sintomas típicos da retocolite ulcerativa. As outras alternativas são menos prováveis: a anomalia anorretal (B) é uma malformação congênita, a fístula perianal (C) geralmente está associada a abscessos e secreção, e a alergia alimentar (D) tende a causar sintomas como urticária e anafilaxia, não diarreia sanguinolenta. Portanto, a retocolite ulcerativa é o diagnóstico mais provável com base nos sintomas apresentados.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Doenças Anorretais Cirúrgicas"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 91,
+      "tags": [
+        "Estenoses TraqueaisCirurgia"
+      ],
+      "enunciado": "Mulher, 55 anos de idade, é atendida na sala de emergência com quadro de dispneia e cornagem. Após instalação de cateter de oxigênio a 5 litros por minuto a paciente apresenta melhora, porém permanece com o quadro de respiração ruidosa. Durante investigação verifica-se que a paciente esteve internada em UTI há um mês, necessitou de ventilação mecânica e foi submetida a intubação orotraqueal. Qual é a melhor conduta?",
+      "alternativas": {
+        "A": "Intubação orotraqueal.",
+        "B": "Broncoscopia.",
+        "C": "Traqueostomia.",
+        "D": "Cricotiroideostomia."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A paciente apresenta cornagem e dispneia após intubação orotraqueal prévia, sugerindo estenose subglótica ou traqueal, uma complicação comum após intubação prolongada. A traqueostomia é a melhor conduta, pois permite desviar a via aérea obstruída e garantir uma ventilação adequada. Intubação orotraqueal (A) não resolveria a obstrução subglótica e poderia piorar a situação. A broncoscopia (B) é útil para diagnóstico, mas não resolve a obstrução. A cricotiroideostomia (D) é uma medida de emergência temporária e não é indicada para manejo definitivo. Portanto, a traqueostomia é a intervenção mais apropriada para aliviar a obstrução e garantir uma via aérea segura e estável.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 92,
+      "tags": [
+        "Lesão da Árvore TraqueobrônquicaCirurgia Criança, 10 anos de idade, dá entrada no PS vítima de atropelamento há 30 minutos. Exame físico: taquipneia e choque."
+      ],
+      "enunciado": "Criança, 10 anos de idade, dá entrada no PS vítima de atropelamento há 30 minutos. Exame físico: taquipneia e choque. Durante o atendimento inicial constata-se pneumotórax à direita, além de fratura de fêmur. Realiza-se então a drenagem pleural à direita e reposição volêmica, com estabilização dos parâmetros hemodinâmicos. Raio X de tórax: dreno pleural bem locado, pneumomediastino e expansão pulmonar parcial do pulmão direito. Assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O choque é explicado pelo fato do pulmão não estar expandido.",
+        "B": "O pneumotórax deve ser redrenado no segundo espaço intercostal.",
+        "C": "Deve ser investigada uma possível rotura de brônquio.",
+        "D": "O pneumomediastino é decorrente de lesão de esôfago."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa correta é C. O pneumomediastino, associado a pneumotórax e expansão pulmonar parcial, sugere a possibilidade de rotura de brônquio, especialmente em contexto de trauma torácico. A alternativa A está incorreta porque o choque não é explicado apenas pela falta de expansão pulmonar. A alternativa B está errada porque a redrenagem no segundo espaço intercostal não é indicada sem evidência de pneumotórax hipertensivo. A alternativa D está incorreta, pois o pneumomediastino após trauma é mais frequentemente associado a lesão traqueobrônquica do que a lesão esofágica. O conceito médico fundamental aqui é a identificação e manejo de complicações pulmonares e mediastinais após trauma torácico, onde a rotura de brônquio pode levar a pneumomediastino e requer investigação adicional.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Trauma"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 93,
+      "tags": [
+        "Anestesia RaquimedularCirurgia"
+      ],
+      "enunciado": "Mulher, 85 anos de idade, pesando 45 kg, e com1,65m de altura. Será submetida a desbridamento e troca de curativo à vácuo em membro inferior esquerdo. Tem antecedente de AVC isquêmico e síndrome coronariana aguda. É optado por realização de raquianestesia com punção entre L2-L3. Em relação ao anestésico local e técnica para raquianestesia. Qual é a conduta adequada?",
+      "alternativas": {
+        "A": "Utilizar 10 mg de bupivacaína 0,5% isobárica mantendo o paciente sentado por 5 min após a punção.",
+        "B": "Utilizar 10 mg de bupivacaína 0,5% isobárica colocando o paciente em decúbito dorsal logo após a punção.",
+        "C": "Utilizar 20 mg de bupivacaína 0,5% hiperbárica colocando o paciente em decúbito dorsal logo após a punção.",
+        "D": "Utilizar 20 mg de bupivacaína 0,5% hiperbárica colocando o paciente em decúbito lateral direito logo após a punção."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A é a correta porque a utilização de 10 mg de bupivacaína 0,5% isobárica com o paciente sentado por 5 minutos após a punção permite um bloqueio adequado para procedimentos em membros inferiores, como o desbridamento. A posição sentada ajuda a limitar a extensão do bloqueio, o que é importante em pacientes idosos e de baixo peso, como no caso apresentado, para evitar bloqueios altos que podem comprometer a função respiratória. As alternativas B, C e D são inadequadas porque não consideram a posição do paciente ou utilizam doses excessivas de bupivacaína, o que pode aumentar o risco de complicações, especialmente em pacientes com histórico de AVC e síndrome coronariana aguda, que são mais vulneráveis a alterações hemodinâmicas.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 94,
+      "tags": [
+        "TratamentoCirurgia Lactente, sexo masculino, 9 meses de idade, apresenta dor e distensão abdominal súbitas seguidas de vômitos. Exame físico: desidratado ++, abdome distendido e RHA aumentados com timbre metálico. Toque retal: presença de muco sanguinolento no reto."
+      ],
+      "enunciado": "Lactente, sexo masculino, 9 meses de idade, apresenta dor e distensão abdominal súbitas seguidas de vômitos. Exame físico: desidratado ++, abdome distendido e RHA aumentados com timbre metálico. Toque retal: presença de muco sanguinolento no reto. Qual é o tratamento inicial?",
+      "alternativas": {
+        "A": "Enema opaco com pressão positiva.",
+        "B": "Ultrassonografia abdominal com enema salino.",
+        "C": "Tratamento cirúrgico imediato.",
+        "D": "Hidratação + antibioticoterapia."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa A, 'Enema opaco com pressão positiva', é a correta para o tratamento inicial de intussuscepção intestinal em crianças, uma condição comum em pediatria. O enema opaco é tanto diagnóstico quanto terapêutico, pois pode reduzir a intussuscepção sem necessidade de cirurgia. A ultrassonografia abdominal com enema salino (alternativa B) não é um tratamento padrão. O tratamento cirúrgico imediato (alternativa C) é reservado para casos em que o enema não é eficaz ou há complicações como perfuração. Hidratação e antibioticoterapia (alternativa D) não são tratamentos iniciais para intussuscepção, mas podem ser necessários em casos complicados. Portanto, a abordagem inicial mais adequada e menos invasiva é o enema opaco com pressão positiva.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Abdome Agudo Obstrutivo"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Emergências Pediátricas"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 95,
+      "tags": [
+        "Pneumotórax espontâneoCirurgia TorácicaCirurgia"
+      ],
+      "enunciado": "Homem, 28 anos de idade, previamente hígido, foi submetido a drenagem pleural no 5º espaço intercostal por pneumotórax espontâneo. No momento imediato após a drenagem pleural já apresentava escape aéreo pelo dreno. No 8º dia de internação hospitalar ainda mantinha fístula aérea. Em relação aos dados apresentados na história clínica, Como isso se mostra no frasco de drenagem e qual é a melhor conduta?",
+      "alternativas": {
+        "A": "Oscilação ampla da coluna de líquido do sêlo d’água; colocar um dreno de tórax mais calibroso.",
+        "B": "Borbulhamento do líquido no frasco do dreno; cirurgia.",
+        "C": "Borbulhamento do líquido no frasco de drenagem; realizar a pleurose.com talco.",
+        "D": "Oscilação intermitente da coluna de líquido; cirurgia."
+      },
+      "resposta_correta": "B",
+      "explicacao": "A presença de borbulhamento contínuo no frasco de drenagem indica uma fístula aérea persistente. Após 8 dias de fístula, a conduta mais indicada é a intervenção cirúrgica, pois o tratamento conservador não foi eficaz. A alternativa B é correta, pois menciona o borbulhamento e a necessidade de cirurgia. A alternativa A está incorreta, pois a oscilação ampla não é característica de fístula persistente e trocar o dreno não resolveria o problema. A alternativa C sugere pleurose com talco, que não é a primeira linha para fístula persistente. A alternativa D menciona oscilação intermitente, o que não é típico de fístula contínua. Portanto, a cirurgia é a melhor abordagem após falha do manejo conservador em casos de fístula aérea prolongada.",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "Derrame Pleural e Pneumotórax"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 96,
+      "tags": [
+        "Cirurgia TorácicaCirurgia"
+      ],
+      "enunciado": "Mulher, 76 anos de idade, apresenta na radiografia de tórax um alargamento do mediastino antero superior com desvio da traqueia para lado direito. Exame físico: BEG e eupneica. Ausculta pulmonar: observa-se MV + bilateralmente sem RA. Ausculta cardíaca: bulhas rítmicas, normofonéticas e sem sopros. Frequência cardíaca: 72 bpm. O abdome encontra-se globoso à inspeção, flácido, indolor e sem visceromegalias à palpação. Qual é a hipótese diagnóstica?",
+      "alternativas": {
+        "A": "Teratoma.",
+        "B": "Linfoma de mediastino.",
+        "C": "Timoma.",
+        "D": "Bócio intratorácico."
+      },
+      "resposta_correta": "D",
+      "explicacao": "A hipótese diagnóstica mais provável é bócio intratorácico, que pode causar alargamento do mediastino e desvio da traqueia, como descrito na radiografia de tórax. O bócio intratorácico é uma extensão do tecido tireoidiano para dentro do tórax, frequentemente assintomático, mas pode causar sintomas compressivos. As outras alternativas são menos prováveis: teratoma e timoma são massas mediastinais, mas menos comuns em idosos; linfoma de mediastino geralmente apresenta sintomas sistêmicos como febre e perda de peso. A paciente não apresenta sintomas respiratórios ou sistêmicos significativos, o que torna o bócio intratorácico a opção mais plausível.",
+      "topicos": [
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Cirurgia Geral"
+    },
+    {
+      "numero": 97,
+      "tags": [
+        "Lesão Axonal DifusaCirurgia"
+      ],
+      "enunciado": "Homem, 23 anos de idade, dá entrada no PS após sofrer acidente motociclístico há 25 minutos. Exame físico: hematoma subgaleal frontoparietal esquerdo, agitação psicomotora, pupilas isocóricas e fotorreagentes, presença de clônus patelar inesgotável e hemiplegia esquerda. Escala de Coma de Glasgow: melhor resposta motora- 6; melhor resposta ocular-4 e melhor resposta verbal-3. Tomografia axial de crânio: lesão hiperdensa com 20 mm de diâmetro, na topografia do ramo posterior direito da cápsula interna. Qual é o diagnóstico mais provável?",
+      "alternativas": {
+        "A": "Lesão axonal difusa.",
+        "B": "Hemorragia subaracnóidea traumática.",
+        "C": "Contusão cerebral à contragolpe.",
+        "D": "Hemorragia perimesencefálica não-aneurismática."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A questão descreve um paciente com sinais de lesão cerebral após um trauma craniano. A presença de hemiplegia esquerda e uma lesão hiperdensa na tomografia na região da cápsula interna direita sugere uma contusão cerebral à contragolpe, que ocorre quando o cérebro é lesionado no lado oposto ao impacto inicial. Lesão axonal difusa (A) geralmente não apresenta lesões focais hiperdensas na TC. Hemorragia subaracnóidea traumática (B) e hemorragia perimesencefálica (D) não correspondem à localização e apresentação descritas. A contusão cerebral à contragolpe é consistente com a apresentação clínica e os achados de imagem, tornando a alternativa C a mais provável.",
+      "topicos": [
+        {
+          "area": "Medicina de Urgência e Terapia Intensiva",
+          "subtopico": "Emergências Neurológicas"
+        }
+      ],
+      "area": "Medicina de Urgência e Terapia Intensiva"
+    },
+    {
+      "numero": 98,
+      "tags": [
+        "PneumologiaCirurgia"
+      ],
+      "enunciado": "Homem, 40 anos de idade, encontra-se internado na enfermaria em 4º pós-operatório de pneumonectomia direita por sequela de tuberculose. Durante o seguimento do pós-operatório, a radiografia do 1º PO mostrava cavidade pleural à direita e a radiografia de tórax atual revela cavidade pleural direita com nível hidroaéreo. O paciente encontra-se eupneico e com boa evolução clínica. Qual é a melhor conduta?",
+      "alternativas": {
+        "A": "Manter seguimento clínico.",
+        "B": "Drenagem pleural em selo d’água.",
+        "C": "Toracocentese diagnóstica.",
+        "D": "Drenagem pleural balanceada."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A alternativa correta é 'A: Manter seguimento clínico'. Após uma pneumonectomia, é comum a formação de uma cavidade pleural que pode apresentar um nível hidroaéreo, especialmente se houver comunicação com o brônquio residual. O paciente está clinicamente estável e eupneico, indicando que não há complicações agudas que justifiquem intervenções invasivas. As alternativas B, C e D envolvem procedimentos invasivos que não são necessários em um paciente estável e sem sinais de infecção ou desconforto respiratório. A drenagem pleural ou toracocentese seriam indicadas se houvesse suspeita de empiema ou pneumotórax sob tensão, o que não é o caso aqui. Portanto, o manejo conservador com acompanhamento clínico é a abordagem mais adequada neste cenário pós-operatório específico.",
+      "topicos": [
+        {
+          "area": "Pneumologia",
+          "subtopico": "Derrame Pleural e Pneumotórax"
+        },
+        {
+          "area": "Cirurgia Geral",
+          "subtopico": "Pré e Pós-operatório"
+        }
+      ],
+      "area": "Pneumologia"
+    },
+    {
+      "numero": 99,
+      "tags": [
+        "PediatriaDDS46XX hiperplasia adrenal congênita Menino, 2 anos de idade, vem encaminhado por diagnóstico de distopia testicular. Exame físico: pênis de 4 cm, uretra tópica e com boa exposição de glande. Testículos não palpáveis bilateralmente. Antecedentes familiares: irmão mais velho faleceu após quadro de vômitos na primeira semana de vida."
+      ],
+      "enunciado": "Menino, 2 anos de idade, vem encaminhado por diagnóstico de distopia testicular. Exame físico: pênis de 4 cm, uretra tópica e com boa exposição de glande. Testículos não palpáveis bilateralmente. Antecedentes familiares: irmão mais velho faleceu após quadro de vômitos na primeira semana de vida. Qual é a conduta mais adequada?",
+      "alternativas": {
+        "A": "Correção cirúrgica imediata.",
+        "B": "Correção cirúrgica a partir dos 5 anos.",
+        "C": "Ultrassonografia pélvica.",
+        "D": "Tratamento hormonal com gonadotrofina coriônica."
+      },
+      "resposta_correta": "C",
+      "explicacao": "A alternativa C, ultrassonografia pélvica, é a correta pois é um exame de imagem não invasivo utilizado para avaliação de estruturas pélvicas, como testículos, em casos de criptorquidia (testículo não descido). A ultrassonografia ajuda a localizar o testículo e avaliar a necessidade de intervenção. A correção cirúrgica imediata (A) ou a partir dos 5 anos (B) são indicadas após confirmação diagnóstica e localização do testículo. O tratamento hormonal com gonadotrofina coriônica (D) pode ser considerado em alguns casos, mas não é o primeiro passo diagnóstico. Portanto, a ultrassonografia é a abordagem inicial mais adequada para confirmar a presença e localização do testículo antes de qualquer intervenção terapêutica ou cirúrgica.",
+      "topicos": [
+        {
+          "area": "Endocrinologia",
+          "subtopico": "Distúrbios da Suprarrenal"
+        },
+        {
+          "area": "Pediatria",
+          "subtopico": "Outros Temas Neonatais"
+        }
+      ],
+      "area": "Endocrinologia"
+    },
+    {
+      "numero": 100,
+      "tags": [
+        "Fisiopatologia das HidrocefaliasPediatria Recém-nascido do sexo feminino, com desenvolvimento neuropsicomotor normal, apresenta-se mais “irritada” e letárgica há 15 dias, segundo a mãe. Refere que as “veias do rosto e da cabeça” se tornaram aparentes e que a criança está sempre “olhando para baixo”. Com este quadro clínico,"
+      ],
+      "enunciado": "Recém-nascido do sexo feminino, com desenvolvimento neuropsicomotor normal, apresenta-se mais “irritada” e letárgica há 15 dias, segundo a mãe. Refere que as “veias do rosto e da cabeça” se tornaram aparentes e que a criança está sempre “olhando para baixo”. Com este quadro clínico, qual é o melhor exame inicial a ser solicitado?",
+      "alternativas": {
+        "A": "Ultrassonografia transfontanelar.",
+        "B": "Tomografia axial de crânio sem contraste.",
+        "C": "Ressonância magnética de crânio.",
+        "D": "Punção lombar com manometria."
+      },
+      "resposta_correta": "A",
+      "explicacao": "A ultrassonografia transfontanelar é o exame inicial mais indicado para avaliação de recém-nascidos e lactentes com suspeita de alterações neurológicas, como hemorragias intracranianas ou hidrocefalia, devido à presença da fontanela aberta que permite a passagem do ultrassom. É um exame não invasivo, sem radiação e de fácil acesso. A tomografia axial de crânio sem contraste (B) e a ressonância magnética de crânio (C) são mais indicadas em crianças mais velhas ou adultos, onde a fontanela já está fechada. A punção lombar com manometria (D) é um procedimento invasivo, indicado para investigação de infecções do sistema nervoso central ou hipertensão intracraniana, mas não como exame inicial de imagem. Portanto, a ultrassonografia transfontanelar é a escolha mais adequada para a faixa etária e contexto clínico descrito.",
+      "topicos": [
+        {
+          "area": "Pediatria",
+          "subtopico": "Distúrbios Neurológicos Pediátricos"
+        }
+      ],
+      "area": "Pediatria"
+    }
+  ]
+}

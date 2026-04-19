@@ -120,7 +120,7 @@ const examData =
       "tags": [
         "Pneumologia"
       ],
-      "enunciado": "M.F.J., 49 anos, procura atendimento por queixa de dispneia progressiva e nega tabagismo. Trabalha em vidraçaria desde os 30 anos de idade. O exame de imagem do tórax apresenta in(cid:74)ltrado micronodular bilateral com predomínio nas zonas pulmonares superiores, poupando os seios costofrênicos. Qual é o diagnóstico mais provável para esse caso?",
+      "enunciado": "M.F.J., 49 anos, procura atendimento por queixa de dispneia progressiva e nega tabagismo. Trabalha em vidraçaria desde os 30 anos de idade. O exame de imagem do tórax apresenta infiltrado micronodular bilateral com predomínio nas zonas pulmonares superiores, poupando os seios costofrênicos. Qual é o diagnóstico mais provável para esse caso?",
       "alternativas": {
         "A": "DPOC.",
         "B": "Asbestose.",
@@ -168,7 +168,7 @@ const examData =
       "tags": [
         "Epidemiologia"
       ],
-      "enunciado": "Relacione as colunas e assinale a alternativa com a sequência correta. 1. Endemia. 2. Epidemia. 3. Pandemia. 4. Surto epidêmico. 5. Incidência. 6. Prevalência. ( ) Medida de frequência dos novos casos de doença na população ao longo de um período de tempo. ( ) Ocorrência mais do que o esperado de número de casos de determinada doença ou uma condição crônica em uma grande área de abrangência (países ou continentes). ( ) Doença ou condição crônica relativamente constante em uma área geográ(cid:74)ca, dentro dos limites esperados, por um período de tempo ilimitado. ( ) Frequência de casos existentes de determinada doença, em determinada população, em um dado momento. ( ) Concentração de casos de uma mesma doença em determinado local e época, claramente em excesso ao que seria esperado. ( ) Ocorrência epidêmica restrita a um espaço extremamente delimitado, como uma escola, quartel, edifício ou bairro.",
+      "enunciado": "Relacione as colunas e assinale a alternativa com a sequência correta. 1. Endemia. 2. Epidemia. 3. Pandemia. 4. Surto epidêmico. 5. Incidência. 6. Prevalência. ( ) Medida de frequência dos novos casos de doença na população ao longo de um período de tempo. ( ) Ocorrência mais do que o esperado de número de casos de determinada doença ou uma condição crônica em uma grande área de abrangência (países ou continentes). ( ) Doença ou condição crônica relativamente constante em uma área geográfica, dentro dos limites esperados, por um período de tempo ilimitado. ( ) Frequência de casos existentes de determinada doença, em determinada população, em um dado momento. ( ) Concentração de casos de uma mesma doença em determinado local e época, claramente em excesso ao que seria esperado. ( ) Ocorrência epidêmica restrita a um espaço extremamente delimitado, como uma escola, quartel, edifício ou bairro.",
       "alternativas": {
         "A": "5 – 3 – 1 – 6 – 2 – 4.",
         "B": "5 – 2 – 1 – 3 – 6 – 4.",
@@ -200,7 +200,7 @@ const examData =
       "tags": [
         "Psiquiatria Infantil"
       ],
-      "enunciado": "Os pais levam Miguel de 8 anos para consulta, pois a diretora da escola disse que ele é desatento e tem di(cid:74)culdade em aprender. A conduta inicial do médico da Atenção Primária nessa situação deve ser",
+      "enunciado": "Os pais levam Miguel de 8 anos para consulta, pois a diretora da escola disse que ele é desatento e tem dificuldade em aprender. A conduta inicial do médico da Atenção Primária nessa situação deve ser",
       "alternativas": {
         "A": "encaminhar Miguel ao neuropediatra.",
         "B": "avaliar os ambientes familiar e escolar da criança.",
@@ -216,7 +216,7 @@ const examData =
       "tags": [
         "Pneumologia"
       ],
-      "enunciado": "Homem de 44 anos chega para consulta acompanhado da esposa, a qual reclama que ele ronca muito à noite. Ao (cid:74)nal da avaliação, o médico explica que o diagnóstico provável é de apneia obstrutiva do sono. A orientação do pro(cid:74)ssional deve ser de que tal condição é fator de risco para",
+      "enunciado": "Homem de 44 anos chega para consulta acompanhado da esposa, a qual reclama que ele ronca muito à noite. Ao final da avaliação, o médico explica que o diagnóstico provável é de apneia obstrutiva do sono. A orientação do profissional deve ser de que tal condição é fator de risco para",
       "alternativas": {
         "A": "sinusopatia.",
         "B": "hipertensão arterial sistêmica.",
@@ -248,7 +248,7 @@ const examData =
       "tags": [
         "Reumatologia"
       ],
-      "enunciado": "Dr. Antônio atende na UBS uma paciente de 34 anos com queixa de poliartralgias a qual traz resultado de exames que demonstram anemia, linfopenia e fator antinuclear positivo em títulos altos. Ao (cid:74)m da consulta, o médico prescreve hidroxicloroquina para ela. Devido a essa prescrição, Dr. Antônio deve encaminhá-la para avaliação do",
+      "enunciado": "Dr. Antônio atende na UBS uma paciente de 34 anos com queixa de poliartralgias a qual traz resultado de exames que demonstram anemia, linfopenia e fator antinuclear positivo em títulos altos. Ao fim da consulta, o médico prescreve hidroxicloroquina para ela. Devido a essa prescrição, Dr. Antônio deve encaminhá-la para avaliação do",
       "alternativas": {
         "A": "cardiologista.",
         "B": "nefrologista.",
@@ -328,7 +328,7 @@ const examData =
       "tags": [
         "Ginecologia"
       ],
-      "enunciado": "Paciente de 26 anos agenda consulta com ginecologista devido à dor pélvica com duração de aproximadamente 30 dias. Relata que não tem parceiro (cid:74)xo e, nos últimos meses, apresentou relação desprotegida. Ao exame especular, apresenta secreção purulenta proveniente do colo do útero e, no toque vaginal, dor à mobilização do colo do útero e anexos. O ultrassom ginecológico não mostrou anormalidades. Para essa paciente, qual esquema antibiótico é o mais recomendado?",
+      "enunciado": "Paciente de 26 anos agenda consulta com ginecologista devido à dor pélvica com duração de aproximadamente 30 dias. Relata que não tem parceiro fixo e, nos últimos meses, apresentou relação desprotegida. Ao exame especular, apresenta secreção purulenta proveniente do colo do útero e, no toque vaginal, dor à mobilização do colo do útero e anexos. O ultrassom ginecológico não mostrou anormalidades. Para essa paciente, qual esquema antibiótico é o mais recomendado?",
       "alternativas": {
         "A": "Ceftriaxona e amoxicilina.",
         "B": "Cefalexina e ciprofloxacino.",
@@ -536,7 +536,7 @@ const examData =
       "tags": [
         "Ginecologia"
       ],
-      "enunciado": "Uma paciente de 55 anos, com antecedente de menopausa aos 50 anos, refere que nunca usou terapia hormonal e faz tratamento de hipertensão e diabetes. Relata que, há cerca de um mês, apresentou sangramento vaginal em dois momentos diferentes, durando aproximadamente 2 dias cada episódio. Apresenta citopatológico com atro(cid:74)a acentuada. Ultrassom transvaginal evidencia a presença de dois miomas intramurais de 0,7 e 1,3 cm respectivamente; volume uterino de 35 cm³; e endométrio de 11 mm. Ovários não foram visualizados. Diante desse caso, qual é a melhor conduta?",
+      "enunciado": "Uma paciente de 55 anos, com antecedente de menopausa aos 50 anos, refere que nunca usou terapia hormonal e faz tratamento de hipertensão e diabetes. Relata que, há cerca de um mês, apresentou sangramento vaginal em dois momentos diferentes, durando aproximadamente 2 dias cada episódio. Apresenta citopatológico com atrofia acentuada. Ultrassom transvaginal evidencia a presença de dois miomas intramurais de 0,7 e 1,3 cm respectivamente; volume uterino de 35 cm³; e endométrio de 11 mm. Ovários não foram visualizados. Diante desse caso, qual é a melhor conduta?",
       "alternativas": {
         "A": "Histerectomia total abdominal mais anexectomia.",
         "B": "Acetato de medroxiprogesterona trimestral.",
@@ -600,7 +600,7 @@ const examData =
       "tags": [
         "Ginecologia"
       ],
-      "enunciado": "Uma paciente de 40 anos apresenta leucorreia de odor fétido. Na citologia oncótica cervical, foi demonstrada a presença de clue-cells. Sobre esse assunto, informe se é verdadeiro (V) ou falso (F) o que se a(cid:74)rma a seguir e assinale a alternativa com a sequência correta. ( ) O teste de aminas possivelmente será positivo. ( ) O PH vaginal, nesse caso, será menor que 4,5. ( ) Gardnerella vaginalis, Bacterioides, Mobiluncus e Peptococcus fazem parte da (cid:73)ora normal, desde que em pequenas quantidades. ( ) Nesse caso, é necessário o tratamento do parceiro.",
+      "enunciado": "Uma paciente de 40 anos apresenta leucorreia de odor fétido. Na citologia oncótica cervical, foi demonstrada a presença de clue-cells. Sobre esse assunto, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) O teste de aminas possivelmente será positivo. ( ) O PH vaginal, nesse caso, será menor que 4,5. ( ) Gardnerella vaginalis, Bacterioides, Mobiluncus e Peptococcus fazem parte da (cid:73)ora normal, desde que em pequenas quantidades. ( ) Nesse caso, é necessário o tratamento do parceiro.",
       "alternativas": {
         "A": "V – V – V – F.",
         "B": "V – F – V – F.",
@@ -632,7 +632,7 @@ const examData =
       "tags": [
         "Pediatria"
       ],
-      "enunciado": "Um bebê de 6 meses é levado ao hospital por tosse, cansaço para respirar e respiração mais “rápida”. Nega ter tido febre, mas teve, logo antes do quadro atual, coriza leve e um pouco de obstrução nasal. Ao exame físico, o paciente apresenta taquipneia, retrações subcostais discretas e sibilos difusos à ausculta. Com base no diagnóstico provável de bronquiolite viral aguda (BVA), informe se é verdadeiro (V) ou falso (F) o que se a(cid:74)rma a seguir e assinale a alternativa com a sequência correta. ( ) A ausência de febre não é compatível com o diagnóstico de BVA. ( ) O aumento da frequência respiratória é um sinal importante e traduz a resposta do organismo ao acometimento pulmonar pelo agente infeccioso, em uma tentativa de compensar os mecanismos geradores de prejuízo na mecânica pulmonar e na troca gasosa. ( ) Crepitações inspiratórias disseminadas por todos os campos pulmonares não ocorrem na BVA e, se presentes, indicam diagnóstico alternativo. ( ) A radiogra(cid:74)a de tórax pode ser útil nos casos graves, e os principais achados são hiperinsu(cid:73)ação torácica difusa, hipertransparência, retificação do diafragma e até broncograma aéreo com um infiltrado de padrão intersticial. ( ) Na grande maioria dos pacientes, a evolução é benigna, e o processo evolui para a cura sem a necessidade de intervenção.",
+      "enunciado": "Um bebê de 6 meses é levado ao hospital por tosse, cansaço para respirar e respiração mais “rápida”. Nega ter tido febre, mas teve, logo antes do quadro atual, coriza leve e um pouco de obstrução nasal. Ao exame físico, o paciente apresenta taquipneia, retrações subcostais discretas e sibilos difusos à ausculta. Com base no diagnóstico provável de bronquiolite viral aguda (BVA), informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta. ( ) A ausência de febre não é compatível com o diagnóstico de BVA. ( ) O aumento da frequência respiratória é um sinal importante e traduz a resposta do organismo ao acometimento pulmonar pelo agente infeccioso, em uma tentativa de compensar os mecanismos geradores de prejuízo na mecânica pulmonar e na troca gasosa. ( ) Crepitações inspiratórias disseminadas por todos os campos pulmonares não ocorrem na BVA e, se presentes, indicam diagnóstico alternativo. ( ) A radiografia de tórax pode ser útil nos casos graves, e os principais achados são hiperinsu(cid:73)ação torácica difusa, hipertransparência, retificação do diafragma e até broncograma aéreo com um infiltrado de padrão intersticial. ( ) Na grande maioria dos pacientes, a evolução é benigna, e o processo evolui para a cura sem a necessidade de intervenção.",
       "alternativas": {
         "A": "F – V – V – V – V.",
         "B": "V – V – V – F – V.",
@@ -792,7 +792,7 @@ const examData =
       "tags": [
         "Oncologia"
       ],
-      "enunciado": "Um paciente de 5 anos, assintomático, está em consulta de puericultura. Ao exame físico, é identi(cid:74)cado um linfonodo supraclavicular palpável. Nesse caso, está indicada a biópsia desse linfonodo?",
+      "enunciado": "Um paciente de 5 anos, assintomático, está em consulta de puericultura. Ao exame físico, é identificado um linfonodo supraclavicular palpável. Nesse caso, está indicada a biópsia desse linfonodo?",
       "alternativas": {
         "A": "Não, pois o paciente deve ser revisado em duas semanas para avaliar se houve regressão.",
         "B": "Não, pois o paciente é assintomático.",
@@ -808,7 +808,7 @@ const examData =
       "tags": [
         "Pediatria"
       ],
-      "enunciado": "Um menino de 3 anos apresenta quadro febril há 6 dias e é levado para avaliação. Durante a consulta, são identi(cid:74)cadas outras alterações: exantema polimorfo difuso, conjuntivite sem exsudato, mucosite oral, edema distal dos membros e adenomegalia cervical unilateral. Suspeitando-se de Doença de Kawasaki, qual dos sinais ou sintomas apresentados pelo paciente é considerado o critério mandatório para o diagnóstico?",
+      "enunciado": "Um menino de 3 anos apresenta quadro febril há 6 dias e é levado para avaliação. Durante a consulta, são identificadas outras alterações: exantema polimorfo difuso, conjuntivite sem exsudato, mucosite oral, edema distal dos membros e adenomegalia cervical unilateral. Suspeitando-se de Doença de Kawasaki, qual dos sinais ou sintomas apresentados pelo paciente é considerado o critério mandatório para o diagnóstico?",
       "alternativas": {
         "A": "Febre.",
         "B": "Exantema.",
@@ -1064,7 +1064,7 @@ const examData =
       "tags": [
         "Neurologia"
       ],
-      "enunciado": "Um homem de 62 anos é levado ao hospital com história de perda de força em dimídio direito, afasia e desvio de rima labial, de início há aproximadamente 40min. Após a realização de uma tomogra(cid:74)a computadorizada de crânio (normal, com laudo oficial do radiologista), seus sinais vitais são os seguintes: • PA: 192x124 mmHg; • Glicemia capilar: 88 mg/dL; • NIHSS: 18 pontos. Nesse caso, qual é a conduta mais adequada?",
+      "enunciado": "Um homem de 62 anos é levado ao hospital com história de perda de força em dimídio direito, afasia e desvio de rima labial, de início há aproximadamente 40min. Após a realização de uma tomografia computadorizada de crânio (normal, com laudo oficial do radiologista), seus sinais vitais são os seguintes: • PA: 192x124 mmHg; • Glicemia capilar: 88 mg/dL; • NIHSS: 18 pontos. Nesse caso, qual é a conduta mais adequada?",
       "alternativas": {
         "A": "Chamar o neurologista de plantão.",
         "B": "Uso de um comprimido de nifedipina 20 mg sub-lingual.",
@@ -1224,7 +1224,7 @@ const examData =
       "tags": [
         "Cirurgia Geral"
       ],
-      "enunciado": "Em relação ao risco de contaminação, podemos classi(cid:74)car uma cirurgia eletiva de câncer de estômago com abordagem controlada da cavidade gástrica como",
+      "enunciado": "Em relação ao risco de contaminação, podemos classificar uma cirurgia eletiva de câncer de estômago com abordagem controlada da cavidade gástrica como",
       "alternativas": {
         "A": "limpa.",
         "B": "contaminada.",
@@ -1240,7 +1240,7 @@ const examData =
       "tags": [
         "Anestesiologia"
       ],
-      "enunciado": "Um paciente foi submetido a uma cirurgia abdominal, e o anestesista introduziu um cateter peridural para analgesia. O paciente se encontra na UTI utilizando heparina de baixo peso molecular como anticoagulação pro(cid:74)lática, e a enfermeira questiona o médico plantonista se pode retirar o cateter. Nesse caso, qual é a conduta mais adequada e a respectiva justificativa?",
+      "enunciado": "Um paciente foi submetido a uma cirurgia abdominal, e o anestesista introduziu um cateter peridural para analgesia. O paciente se encontra na UTI utilizando heparina de baixo peso molecular como anticoagulação profilática, e a enfermeira questiona o médico plantonista se pode retirar o cateter. Nesse caso, qual é a conduta mais adequada e a respectiva justificativa?",
       "alternativas": {
         "A": "Retirar o cateter, já que a anticoagulação profilática não interfere no risco para hematoma epidural.",
         "B": "Manter o cateter e solicitar orientação ao anestesista quanto ao momento da retirada, devido ao risco de hematoma epidural.",
@@ -1272,7 +1272,7 @@ const examData =
       "tags": [
         "Urologia"
       ],
-      "enunciado": "Um paciente chega ao hospital com febre há 2 dias e dor em região lombar direita. Ao realizar exames, recebe o diagnóstico de ureterolitíase obstrutiva à direita, com hidronefrose ipsilateral, alteração signi(cid:74)cativa da função renal e infecção associada com sinais de sepse. Qual é a melhor abordagem para esse paciente?",
+      "enunciado": "Um paciente chega ao hospital com febre há 2 dias e dor em região lombar direita. Ao realizar exames, recebe o diagnóstico de ureterolitíase obstrutiva à direita, com hidronefrose ipsilateral, alteração significativa da função renal e infecção associada com sinais de sepse. Qual é a melhor abordagem para esse paciente?",
       "alternativas": {
         "A": "Administração de anti-inflamatórios não esteroidais e analgésicos e realização de litotripsia ureteroscópica de urgência.",
         "B": "Compensação clínica sintomática, administração de antibióticos e litotripsia extracorpórea – por ser o método menos invasivo para o paciente nesse momento.",
@@ -1304,7 +1304,7 @@ const examData =
       "tags": [
         "Urologia"
       ],
-      "enunciado": "Um paciente de 74 anos recebeu o diagnóstico de HPB (Hiperplasia Prostática Benigna), e o médico indicou duas medicações para o tratamento dessa afecção e seus sintomas: a tansulosina e a (cid:74)nasterida. Qual é a melhor explicação que pode ser dada sobre o efeito desses compostos ao paciente?",
+      "enunciado": "Um paciente de 74 anos recebeu o diagnóstico de HPB (Hiperplasia Prostática Benigna), e o médico indicou duas medicações para o tratamento dessa afecção e seus sintomas: a tansulosina e a finasterida. Qual é a melhor explicação que pode ser dada sobre o efeito desses compostos ao paciente?",
       "alternativas": {
         "A": "A tansulosina atua diminuindo o volume prostático, e a finasterida contribui para o relaxamento da musculatura na saída da bexiga; ambas facilitam a saída do jato urinário.",
         "B": "A tansulosina contribui para o relaxamento da musculatura na saída da bexiga, e a finasterida atua diminuindo o volume prostático; ambas facilitam a saída do jato urinário.",
@@ -1352,7 +1352,7 @@ const examData =
       "tags": [
         "Cirurgia Geral"
       ],
-      "enunciado": "Assinale a alternativa que NÃO corresponde a uma indicação usual de intervenção por CPRE (Colangiopancreatogra(cid:74)a Retrógrada Endoscópica).",
+      "enunciado": "Assinale a alternativa que NÃO corresponde a uma indicação usual de intervenção por CPRE (Colangiopancreatografia Retrógrada Endoscópica).",
       "alternativas": {
         "A": "Coledocolitíase.",
         "B": "Colangite.",
